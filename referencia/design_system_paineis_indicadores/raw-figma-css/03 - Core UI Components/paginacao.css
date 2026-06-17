@@ -1,0 +1,931 @@
+/* Paginação */
+
+position: relative;
+width: 1290px;
+height: 722px;
+
+background: #FFFFFF;
+border-radius: 24px;
+
+
+/* Paginação */
+
+position: absolute;
+width: 242px;
+height: 58px;
+left: 80px;
+top: 80px;
+
+/* Text Font/H1 */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 58px;
+/* idêntico à altura da caixa ou 121% */
+
+color: #131927;
+
+
+
+/* State */
+
+/* Layout automático */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 56px;
+
+position: absolute;
+width: 68px;
+height: 344px;
+left: 80px;
+top: 250px;
+
+
+
+/* Default */
+
+width: 68px;
+height: 24px;
+
+/* Text Font/B1. Body */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idêntico à altura da caixa ou 150% */
+
+/* Grey/900 */
+color: #131927;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Hover */
+
+width: 68px;
+height: 24px;
+
+/* Text Font/B1. Body */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idêntico à altura da caixa ou 150% */
+
+/* Grey/900 */
+color: #131927;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Focus */
+
+width: 68px;
+height: 24px;
+
+/* Text Font/B1. Body */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idêntico à altura da caixa ou 150% */
+
+/* Grey/900 */
+color: #131927;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Selected */
+
+width: 68px;
+height: 24px;
+
+/* Text Font/B1. Body */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idêntico à altura da caixa ou 150% */
+
+/* Grey/900 */
+color: #131927;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Disabled */
+
+width: 68px;
+height: 24px;
+
+/* Text Font/B1. Body */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idêntico à altura da caixa ou 150% */
+
+/* Grey/900 */
+color: #131927;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Pagination (Item) */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 168px;
+height: 408px;
+left: 180px;
+top: 218px;
+
+border: 1px dashed #9747FF;
+border-radius: 5px;
+
+
+/* State=Disabled, Content=Icon */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px;
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 100px;
+top: 340px;
+
+border-radius: 24px;
+
+
+/* nav-arrow-right */
+
+width: 24px;
+height: 24px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 37.5%;
+right: 37.5%;
+top: 25%;
+bottom: 25%;
+
+background: #9EA2AE;
+border: 1.5px solid #9EA2AE;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* State=Disabled, Content=Text */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px;
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 20px;
+top: 340px;
+
+border-radius: 24px;
+
+
+/* 1 */
+
+width: 24px;
+height: 24px;
+
+/* Text Font/B1. Body */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idêntico à altura da caixa ou 150% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #9EA2AE;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* State=Selected, Content=Icon */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px;
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 100px;
+top: 260px;
+
+/* Azul OBS */
+background: #4285F4;
+border-radius: 24px;
+
+
+/* nav-arrow-right */
+
+width: 24px;
+height: 24px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 37.5%;
+right: 37.5%;
+top: 25%;
+bottom: 25%;
+
+/* White/100% */
+background: #FFFFFF;
+/* White/100% */
+border: 1.5px solid #FFFFFF;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* State=Selected, Content=Text */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px;
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 20px;
+top: 260px;
+
+/* Azul OBS */
+background: #4285F4;
+border-radius: 24px;
+
+
+/* 1 */
+
+width: 24px;
+height: 24px;
+
+/* Text Font/B1. Body */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idêntico à altura da caixa ou 150% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* State=Focus, Content=Icon */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px;
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 100px;
+top: 180px;
+
+/* White/100% */
+background: #FFFFFF;
+box-shadow: 0px 0px 0px 3px #AEB6FB;
+border-radius: 24px;
+
+
+/* nav-arrow-right */
+
+width: 24px;
+height: 24px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 37.5%;
+right: 37.5%;
+top: 25%;
+bottom: 25%;
+
+/* Azul OBS */
+background: #4285F4;
+/* Azul OBS */
+border: 1.5px solid #4285F4;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* State=Focus, Content=Text */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px;
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 20px;
+top: 180px;
+
+/* White/100% */
+background: #FFFFFF;
+box-shadow: 0px 0px 0px 3px #AEB6FB;
+border-radius: 24px;
+
+
+/* 1 */
+
+width: 24px;
+height: 24px;
+
+/* Text Font/B1. Body */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idêntico à altura da caixa ou 150% */
+display: flex;
+align-items: center;
+text-align: center;
+
+/* Azul OBS */
+color: #4285F4;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* State=Hover, Content=Icon */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px;
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 100px;
+top: 100px;
+
+background: #EDF3FE;
+border-radius: 24px;
+
+
+/* nav-arrow-right */
+
+width: 24px;
+height: 24px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 37.5%;
+right: 37.5%;
+top: 25%;
+bottom: 25%;
+
+/* Azul OBS */
+background: #4285F4;
+/* Azul OBS */
+border: 1.5px solid #4285F4;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* State=Default, Content=Icon */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px;
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 100px;
+top: 20px;
+
+border-radius: 24px;
+
+
+/* nav-arrow-right */
+
+width: 24px;
+height: 24px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 37.5%;
+right: 37.5%;
+top: 25%;
+bottom: 25%;
+
+/* Azul OBS */
+background: #4285F4;
+/* Azul OBS */
+border: 1.5px solid #4285F4;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* State=Default, Content=Text */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px;
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 20px;
+top: 20px;
+
+border-radius: 24px;
+
+
+/* 1 */
+
+width: 24px;
+height: 24px;
+
+/* Text Font/B1. Body */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idêntico à altura da caixa ou 150% */
+display: flex;
+align-items: center;
+text-align: center;
+
+/* Azul OBS */
+color: #4285F4;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* State=Hover, Content=Text */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px;
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 20px;
+top: 100px;
+
+background: #EDF3FE;
+border-radius: 24px;
+
+
+/* 1 */
+
+width: 24px;
+height: 24px;
+
+/* Text Font/B1. Body */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idêntico à altura da caixa ou 150% */
+display: flex;
+align-items: center;
+text-align: center;
+
+/* Azul OBS */
+color: #4285F4;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Pagination */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+position: absolute;
+width: 328px;
+height: 48px;
+left: 420px;
+top: 218px;
+
+
+
+/* Pagination (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px;
+
+width: 48px;
+height: 48px;
+
+border-radius: 24px;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* nav-arrow-left */
+
+width: 24px;
+height: 24px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 37.5%;
+right: 37.5%;
+top: 25%;
+bottom: 25%;
+
+/* Azul OBS */
+background: #4285F4;
+/* Azul OBS */
+border: 1.5px solid #4285F4;
+
+
+/* Pagination (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px;
+
+width: 48px;
+height: 48px;
+
+border-radius: 24px;
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* 1 */
+
+width: 24px;
+height: 24px;
+
+/* Text Font/B1. Body */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idêntico à altura da caixa ou 150% */
+display: flex;
+align-items: center;
+text-align: center;
+
+/* Azul OBS */
+color: #4285F4;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Pagination (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px;
+
+width: 48px;
+height: 48px;
+
+/* Azul OBS */
+background: #4285F4;
+border-radius: 24px;
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* 1 */
+
+width: 24px;
+height: 24px;
+
+/* Text Font/B1. Body */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idêntico à altura da caixa ou 150% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Pagination (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px;
+
+width: 48px;
+height: 48px;
+
+border-radius: 24px;
+
+/* Auto layout por dentro */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* 1 */
+
+width: 24px;
+height: 24px;
+
+/* Text Font/B1. Body */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idêntico à altura da caixa ou 150% */
+display: flex;
+align-items: center;
+text-align: center;
+
+/* Azul OBS */
+color: #4285F4;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Pagination (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px;
+
+width: 48px;
+height: 48px;
+
+border-radius: 24px;
+
+/* Auto layout por dentro */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* 1 */
+
+width: 24px;
+height: 24px;
+
+/* Text Font/B1. Body */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idêntico à altura da caixa ou 150% */
+display: flex;
+align-items: center;
+text-align: center;
+
+/* Azul OBS */
+color: #4285F4;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Pagination (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px;
+
+width: 48px;
+height: 48px;
+
+border-radius: 24px;
+
+/* Auto layout por dentro */
+flex: none;
+order: 5;
+flex-grow: 0;
+
+
+/* nav-arrow-right */
+
+width: 24px;
+height: 24px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 37.5%;
+right: 37.5%;
+top: 25%;
+bottom: 25%;
+
+/* Azul OBS */
+background: #4285F4;
+/* Azul OBS */
+border: 1.5px solid #4285F4;
+transform: matrix(-1, 0, 0, 1, 0, 0);

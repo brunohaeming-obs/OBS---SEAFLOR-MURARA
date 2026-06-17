@@ -1,0 +1,30 @@
+.obs-segmented-control {
+  display: inline-flex;
+  align-items: stretch;
+  height: 40px;
+  overflow: hidden;
+  border-radius: var(--obs-radius-md);
+  background: var(--obs-color-container);
+}
+
+.obs-segmented-control__item {
+  width: 118px;
+  border: 1.5px solid var(--obs-color-blue-chip);
+  border-right-width: 0;
+  background: transparent;
+  color: var(--obs-color-white);
+  font-family: var(--obs-font-chip);
+  font-size: var(--obs-text-body-md-size);
+  line-height: var(--obs-text-label-line);
+  font-weight: var(--obs-font-weight-semibold);
+  cursor: pointer;
+}
+
+.obs-segmented-control__item:last-child {
+  border-right-width: 1.5px;
+}
+
+.obs-segmented-control__item[aria-pressed="true"],
+.obs-segmented-control__item--selected {
+  background: var(--obs-color-blue-chip);
+}

@@ -1,0 +1,3709 @@
+/* Page Control */
+
+position: relative;
+width: 1345px;
+height: 734px;
+
+background: #FFFFFF;
+border-radius: 24px;
+
+
+/* Controle de paginação */
+
+position: absolute;
+width: 525px;
+height: 58px;
+left: 80px;
+top: 80px;
+
+/* Text Font/H1 */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 58px;
+/* idêntico à altura da caixa ou 121% */
+
+color: #131927;
+
+
+
+/* Horizontal */
+
+position: absolute;
+width: 120px;
+height: 28px;
+left: 80px;
+top: 330px;
+
+/* Text Font/H5 */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 28px;
+/* idêntico à altura da caixa ou 117% */
+
+/* Grey/900 */
+color: #131927;
+
+
+
+/* Vertical */
+
+position: absolute;
+width: 90px;
+height: 28px;
+left: 288px;
+top: 330px;
+
+/* Text Font/H5 */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 28px;
+/* idêntico à altura da caixa ou 117% */
+
+/* Grey/900 */
+color: #131927;
+
+
+
+/* Page Control (Horizontal) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 12px;
+gap: 8px;
+
+position: absolute;
+width: 144px;
+height: 24px;
+left: 80px;
+top: 390px;
+
+/* Grey/50 */
+background: #F9FAFB;
+border-radius: 12px;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Ellipse */
+
+width: 8px;
+height: 8px;
+
+/* Azul OBS */
+background: #4285F4;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Ellipse */
+
+width: 8px;
+height: 8px;
+
+background: #EDF3FE;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Ellipse */
+
+width: 8px;
+height: 8px;
+
+background: #EDF3FE;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Ellipse */
+
+width: 8px;
+height: 8px;
+
+background: #EDF3FE;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Ellipse */
+
+width: 8px;
+height: 8px;
+
+background: #EDF3FE;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 5;
+flex-grow: 0;
+
+
+/* Ellipse */
+
+width: 8px;
+height: 8px;
+
+background: #EDF3FE;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 6;
+flex-grow: 0;
+
+
+/* Ellipse */
+
+width: 6px;
+height: 6px;
+
+background: #EDF3FE;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 7;
+flex-grow: 0;
+
+
+/* Ellipse */
+
+width: 4px;
+height: 4px;
+
+background: #EDF3FE;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Page Control (Horizontal) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 12px;
+gap: 8px;
+
+position: absolute;
+width: 128px;
+height: 24px;
+left: 80px;
+top: 430px;
+
+/* Grey/50 */
+background: #F9FAFB;
+border-radius: 12px;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Ellipse */
+
+width: 8px;
+height: 8px;
+
+/* Azul OBS */
+background: #4285F4;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Ellipse */
+
+width: 8px;
+height: 8px;
+
+background: #EDF3FE;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Ellipse */
+
+width: 8px;
+height: 8px;
+
+background: #EDF3FE;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Ellipse */
+
+width: 8px;
+height: 8px;
+
+background: #EDF3FE;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Ellipse */
+
+width: 8px;
+height: 8px;
+
+background: #EDF3FE;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 5;
+flex-grow: 0;
+
+
+/* Ellipse */
+
+width: 6px;
+height: 6px;
+
+background: #EDF3FE;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 6;
+flex-grow: 0;
+
+
+/* Ellipse */
+
+width: 4px;
+height: 4px;
+
+background: #EDF3FE;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+display: none;
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 7;
+flex-grow: 0;
+
+
+/* Page Control (Horizontal) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 12px;
+gap: 8px;
+
+position: absolute;
+width: 112px;
+height: 24px;
+left: 80px;
+top: 470px;
+
+/* Grey/50 */
+background: #F9FAFB;
+border-radius: 12px;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Ellipse */
+
+width: 8px;
+height: 8px;
+
+/* Azul OBS */
+background: #4285F4;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Ellipse */
+
+width: 8px;
+height: 8px;
+
+background: #EDF3FE;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Ellipse */
+
+width: 8px;
+height: 8px;
+
+background: #EDF3FE;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Ellipse */
+
+width: 8px;
+height: 8px;
+
+background: #EDF3FE;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Ellipse */
+
+width: 6px;
+height: 6px;
+
+background: #EDF3FE;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 5;
+flex-grow: 0;
+
+
+/* Ellipse */
+
+width: 4px;
+height: 4px;
+
+background: #EDF3FE;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+display: none;
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 6;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+display: none;
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 7;
+flex-grow: 0;
+
+
+/* Page Control (Horizontal) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 12px;
+gap: 8px;
+
+position: absolute;
+width: 96px;
+height: 24px;
+left: 80px;
+top: 510px;
+
+/* Grey/50 */
+background: #F9FAFB;
+border-radius: 12px;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Ellipse */
+
+width: 8px;
+height: 8px;
+
+/* Azul OBS */
+background: #4285F4;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Ellipse */
+
+width: 8px;
+height: 8px;
+
+background: #EDF3FE;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Ellipse */
+
+width: 8px;
+height: 8px;
+
+background: #EDF3FE;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Ellipse */
+
+width: 8px;
+height: 8px;
+
+background: #EDF3FE;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Ellipse */
+
+width: 8px;
+height: 8px;
+
+background: #EDF3FE;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+display: none;
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 5;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+display: none;
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 6;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+display: none;
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 7;
+flex-grow: 0;
+
+
+/* Page Control (Horizontal) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 12px;
+gap: 8px;
+
+position: absolute;
+width: 80px;
+height: 24px;
+left: 80px;
+top: 550px;
+
+/* Grey/50 */
+background: #F9FAFB;
+border-radius: 12px;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Ellipse */
+
+width: 8px;
+height: 8px;
+
+/* Azul OBS */
+background: #4285F4;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Ellipse */
+
+width: 8px;
+height: 8px;
+
+background: #EDF3FE;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Ellipse */
+
+width: 8px;
+height: 8px;
+
+background: #EDF3FE;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Ellipse */
+
+width: 8px;
+height: 8px;
+
+background: #EDF3FE;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+display: none;
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+display: none;
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 5;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+display: none;
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 6;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+display: none;
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 7;
+flex-grow: 0;
+
+
+/* Page Control (Horizontal) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 12px;
+gap: 8px;
+
+position: absolute;
+width: 64px;
+height: 24px;
+left: 80px;
+top: 590px;
+
+/* Grey/50 */
+background: #F9FAFB;
+border-radius: 12px;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Ellipse */
+
+width: 8px;
+height: 8px;
+
+/* Azul OBS */
+background: #4285F4;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Ellipse */
+
+width: 8px;
+height: 8px;
+
+background: #EDF3FE;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Ellipse */
+
+width: 8px;
+height: 8px;
+
+background: #EDF3FE;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+display: none;
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+display: none;
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+display: none;
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 5;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+display: none;
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 6;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+display: none;
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 7;
+flex-grow: 0;
+
+
+/* Page Control (Horizontal) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 12px;
+gap: 8px;
+
+position: absolute;
+width: 48px;
+height: 24px;
+left: 80px;
+top: 630px;
+
+/* Grey/50 */
+background: #F9FAFB;
+border-radius: 12px;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Ellipse */
+
+width: 8px;
+height: 8px;
+
+/* Azul OBS */
+background: #4285F4;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Ellipse */
+
+width: 8px;
+height: 8px;
+
+background: #EDF3FE;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+display: none;
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+display: none;
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+display: none;
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+display: none;
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 5;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+display: none;
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 6;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+display: none;
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 7;
+flex-grow: 0;
+
+
+/* Page Control (Vertical) */
+
+/* Layout automático */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 12px 8px;
+gap: 8px;
+
+position: absolute;
+width: 24px;
+height: 144px;
+left: 288px;
+top: 390px;
+
+/* Grey/50 */
+background: #F9FAFB;
+border-radius: 12px;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Ellipse */
+
+width: 8px;
+height: 8px;
+
+/* Azul OBS */
+background: #4285F4;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Ellipse */
+
+width: 8px;
+height: 8px;
+
+background: #EDF3FE;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Ellipse */
+
+width: 8px;
+height: 8px;
+
+background: #EDF3FE;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Ellipse */
+
+width: 8px;
+height: 8px;
+
+background: #EDF3FE;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Ellipse */
+
+width: 8px;
+height: 8px;
+
+background: #EDF3FE;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 5;
+flex-grow: 0;
+
+
+/* Ellipse */
+
+width: 8px;
+height: 8px;
+
+background: #EDF3FE;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 6;
+flex-grow: 0;
+
+
+/* Ellipse */
+
+width: 6px;
+height: 6px;
+
+background: #EDF3FE;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 7;
+flex-grow: 0;
+
+
+/* Ellipse */
+
+width: 4px;
+height: 4px;
+
+background: #EDF3FE;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Page Control (Vertical) */
+
+/* Layout automático */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 12px 8px;
+gap: 8px;
+
+position: absolute;
+width: 24px;
+height: 128px;
+left: 328px;
+top: 390px;
+
+/* Grey/50 */
+background: #F9FAFB;
+border-radius: 12px;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Ellipse */
+
+width: 8px;
+height: 8px;
+
+/* Azul OBS */
+background: #4285F4;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Ellipse */
+
+width: 8px;
+height: 8px;
+
+background: #EDF3FE;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Ellipse */
+
+width: 8px;
+height: 8px;
+
+background: #EDF3FE;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Ellipse */
+
+width: 8px;
+height: 8px;
+
+background: #EDF3FE;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Ellipse */
+
+width: 8px;
+height: 8px;
+
+background: #EDF3FE;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 5;
+flex-grow: 0;
+
+
+/* Ellipse */
+
+width: 6px;
+height: 6px;
+
+background: #EDF3FE;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 6;
+flex-grow: 0;
+
+
+/* Ellipse */
+
+width: 4px;
+height: 4px;
+
+background: #EDF3FE;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+display: none;
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 7;
+flex-grow: 0;
+
+
+/* Page Control (Vertical) */
+
+/* Layout automático */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 12px 8px;
+gap: 8px;
+
+position: absolute;
+width: 24px;
+height: 112px;
+left: 368px;
+top: 390px;
+
+/* Grey/50 */
+background: #F9FAFB;
+border-radius: 12px;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Ellipse */
+
+width: 8px;
+height: 8px;
+
+/* Azul OBS */
+background: #4285F4;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Ellipse */
+
+width: 8px;
+height: 8px;
+
+background: #EDF3FE;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Ellipse */
+
+width: 8px;
+height: 8px;
+
+background: #EDF3FE;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Ellipse */
+
+width: 8px;
+height: 8px;
+
+background: #EDF3FE;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Ellipse */
+
+width: 6px;
+height: 6px;
+
+background: #EDF3FE;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 5;
+flex-grow: 0;
+
+
+/* Ellipse */
+
+width: 4px;
+height: 4px;
+
+background: #EDF3FE;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+display: none;
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 6;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+display: none;
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 7;
+flex-grow: 0;
+
+
+/* Page Control (Vertical) */
+
+/* Layout automático */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 12px 8px;
+gap: 8px;
+
+position: absolute;
+width: 24px;
+height: 96px;
+left: 408px;
+top: 390px;
+
+/* Grey/50 */
+background: #F9FAFB;
+border-radius: 12px;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Ellipse */
+
+width: 8px;
+height: 8px;
+
+/* Azul OBS */
+background: #4285F4;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Ellipse */
+
+width: 8px;
+height: 8px;
+
+background: #EDF3FE;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Ellipse */
+
+width: 8px;
+height: 8px;
+
+background: #EDF3FE;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Ellipse */
+
+width: 8px;
+height: 8px;
+
+background: #EDF3FE;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Ellipse */
+
+width: 8px;
+height: 8px;
+
+background: #EDF3FE;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+display: none;
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 5;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+display: none;
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 6;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+display: none;
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 7;
+flex-grow: 0;
+
+
+/* Page Control (Vertical) */
+
+/* Layout automático */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 12px 8px;
+gap: 8px;
+
+position: absolute;
+width: 24px;
+height: 80px;
+left: 448px;
+top: 390px;
+
+/* Grey/50 */
+background: #F9FAFB;
+border-radius: 12px;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Ellipse */
+
+width: 8px;
+height: 8px;
+
+/* Azul OBS */
+background: #4285F4;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Ellipse */
+
+width: 8px;
+height: 8px;
+
+background: #EDF3FE;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Ellipse */
+
+width: 8px;
+height: 8px;
+
+background: #EDF3FE;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Ellipse */
+
+width: 8px;
+height: 8px;
+
+background: #EDF3FE;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+display: none;
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+display: none;
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 5;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+display: none;
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 6;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+display: none;
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 7;
+flex-grow: 0;
+
+
+/* Page Control (Vertical) */
+
+/* Layout automático */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 12px 8px;
+gap: 8px;
+
+position: absolute;
+width: 24px;
+height: 64px;
+left: 488px;
+top: 390px;
+
+/* Grey/50 */
+background: #F9FAFB;
+border-radius: 12px;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Ellipse */
+
+width: 8px;
+height: 8px;
+
+/* Azul OBS */
+background: #4285F4;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Ellipse */
+
+width: 8px;
+height: 8px;
+
+background: #EDF3FE;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Ellipse */
+
+width: 8px;
+height: 8px;
+
+background: #EDF3FE;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+display: none;
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+display: none;
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+display: none;
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 5;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+display: none;
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 6;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+display: none;
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 7;
+flex-grow: 0;
+
+
+/* Page Control (Vertical) */
+
+/* Layout automático */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 12px 8px;
+gap: 8px;
+
+position: absolute;
+width: 24px;
+height: 48px;
+left: 528px;
+top: 390px;
+
+/* Grey/50 */
+background: #F9FAFB;
+border-radius: 12px;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Ellipse */
+
+width: 8px;
+height: 8px;
+
+/* Azul OBS */
+background: #4285F4;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Ellipse */
+
+width: 8px;
+height: 8px;
+
+background: #EDF3FE;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+display: none;
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+display: none;
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+display: none;
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+display: none;
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 5;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+display: none;
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 6;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+display: none;
+width: 8px;
+height: 8px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 7;
+flex-grow: 0;
+
+
+/* Page Control (Item) */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 168px;
+height: 48px;
+left: 80px;
+top: 218px;
+
+border: 1px dashed #9747FF;
+border-radius: 5px;
+
+
+/* State=Disabled (Reduced-2) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: 140px;
+top: 20px;
+
+
+
+/* Ellipse */
+
+width: 4px;
+height: 4px;
+
+background: #EDF3FE;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* State=Disabled (Reduced-1) */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: 100px;
+top: 20px;
+
+
+
+/* Ellipse */
+
+width: 6px;
+height: 6px;
+
+background: #EDF3FE;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* State=Disabled */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: 60px;
+top: 20px;
+
+
+
+/* Ellipse */
+
+width: 8px;
+height: 8px;
+
+background: #EDF3FE;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* State=Default */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: 20px;
+top: 20px;
+
+
+
+/* Ellipse */
+
+width: 8px;
+height: 8px;
+
+/* Azul OBS */
+background: #4285F4;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;

@@ -1,0 +1,220 @@
+/* Stepper */
+
+position: relative;
+width: 771px;
+height: 350px;
+
+background: #FFFFFF;
+border-radius: 24px;
+
+
+/* Stepper */
+
+position: absolute;
+width: 186px;
+height: 58px;
+left: 80px;
+top: 80px;
+
+/* Text Font/H1 */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 58px;
+/* idêntico à altura da caixa ou 121% */
+
+color: #131927;
+
+
+
+/* Stepper */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 300px;
+height: 72px;
+left: 60px;
+top: 198px;
+
+border: 1px dashed #9747FF;
+border-radius: 5px;
+
+
+/* Style=Filled */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+gap: 12px;
+
+position: absolute;
+width: 97.5px;
+height: 32px;
+left: 20px;
+top: 20px;
+
+background: #EDF3FE;
+border-radius: 8px;
+
+
+/* minus */
+
+width: 24px;
+height: 24px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 25%;
+top: 50%;
+bottom: 50%;
+
+/* Azul OBS */
+border: 1.5px solid #4285F4;
+
+
+/* Divider */
+
+width: 1.5px;
+height: 32px;
+
+background: #EDF3FE;
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* plus */
+
+width: 24px;
+height: 24px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 25%;
+top: 25%;
+bottom: 25%;
+
+/* Azul OBS */
+border: 1.5px solid #4285F4;
+
+
+/* Style=Outline */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+gap: 12px;
+
+position: absolute;
+width: 97.5px;
+height: 32px;
+left: 182px;
+top: 20px;
+
+/* White/100% */
+background: #FFFFFF;
+/* Grey/200 */
+border: 1.5px solid #E5E7EA;
+border-radius: 8px;
+
+
+/* minus */
+
+width: 24px;
+height: 24px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 25%;
+top: 50%;
+bottom: 50%;
+
+border: 1.5px solid #131927;
+
+
+/* Divider */
+
+width: 1.5px;
+height: 32px;
+
+/* Grey/200 */
+background: #E5E7EA;
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* plus */
+
+width: 24px;
+height: 24px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 25%;
+top: 25%;
+bottom: 25%;
+
+border: 1.5px solid #131927;
+
+
+/* Divider */
+
+position: absolute;
+width: 72px;
+height: 0px;
+left: 210px;
+top: 198px;
+
+border: 1px dashed #9747FF;
+transform: rotate(-90deg);

@@ -1,0 +1,23 @@
+.obs-sidebar-button {
+  display: flex;
+  align-items: center;
+  gap: var(--obs-space-2);
+  width: var(--obs-sidebar-width);
+  height: var(--obs-sidebar-button-height);
+  padding: 14px var(--obs-space-5);
+  border: 0;
+  border-radius: var(--obs-radius-md);
+  background: var(--obs-color-subcontainer);
+  color: var(--obs-color-white);
+  font-family: var(--obs-font-title);
+  font-size: var(--obs-text-body-lg-size);
+  line-height: 24px;
+  font-weight: var(--obs-font-weight-semibold);
+  cursor: pointer;
+}
+
+.obs-sidebar-button[aria-selected="true"],
+.obs-sidebar-button--selected {
+  background: var(--obs-color-sky);
+  color: var(--obs-color-bg);
+}

@@ -1,0 +1,16 @@
+:root {
+  --obs-color-bg: #1E1E29;
+  --obs-color-container: #242736;
+  --obs-color-subcontainer: #2E303D;
+  --obs-color-border: #708097;
+  --obs-color-white: #FFFFFF;
+  --obs-color-text-primary: #FFFFFF;
+  --obs-color-text-soft: #FAFAFA;
+  --obs-color-neve: #BDD6FE;
+  --obs-color-sky: #90BDFF;
+  --obs-color-blue: #0077FC;
+  --obs-color-blue-chip: #4285F4;
+  --obs-color-lime: #54F394;
+  --obs-color-gold: #FFDF6F;
+  --obs-color-danger: #FF7171;
+}

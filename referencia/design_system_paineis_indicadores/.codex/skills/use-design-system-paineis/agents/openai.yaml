@@ -1,0 +1,4 @@
+interface:
+  display_name: "Design System Paineis"
+  short_description: "Aplica o padrao visual dos paineis"
+  default_prompt: "Use $use-design-system-paineis para criar ou revisar um painel seguindo o design system em ./design_system_paineis_indicadores."

@@ -1,0 +1,14 @@
+.obs-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 24px;
+  padding: 6px var(--obs-space-2);
+  border-radius: var(--obs-radius-sm);
+  background: var(--obs-color-blue-chip);
+  color: var(--obs-color-white);
+  font-family: var(--obs-font-chip);
+  font-size: var(--obs-text-caption-size);
+  line-height: 12px;
+  font-weight: var(--obs-font-weight-semibold);
+}

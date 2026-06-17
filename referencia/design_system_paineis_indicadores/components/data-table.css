@@ -1,0 +1,42 @@
+.obs-data-table {
+  width: 100%;
+  table-layout: fixed;
+  border-collapse: collapse;
+  overflow: hidden;
+  border-radius: var(--obs-radius-md);
+  background: var(--obs-color-bg);
+  color: var(--obs-color-text-soft);
+}
+
+.obs-data-table th {
+  height: 48px;
+  padding: 0 var(--obs-space-3);
+  background: var(--obs-color-bg);
+  color: var(--obs-color-text-soft);
+  font-family: var(--obs-font-title);
+  font-size: var(--obs-text-body-md-size);
+  line-height: var(--obs-text-body-md-line);
+  font-weight: var(--obs-font-weight-regular);
+  text-align: left;
+  overflow-wrap: anywhere;
+}
+
+.obs-data-table td {
+  height: var(--obs-table-cell-height);
+  padding: 0 var(--obs-space-3);
+  border-top: 1px solid var(--obs-color-bg);
+  color: var(--obs-color-text-soft);
+  font-family: var(--obs-font-body);
+  font-size: var(--obs-text-label-size);
+  line-height: var(--obs-text-label-line);
+  font-weight: var(--obs-font-weight-regular);
+  overflow-wrap: anywhere;
+}
+
+.obs-data-table tbody tr:nth-child(odd) {
+  background: var(--obs-color-container);
+}
+
+.obs-data-table tbody tr:nth-child(even) {
+  background: var(--obs-color-bg);
+}

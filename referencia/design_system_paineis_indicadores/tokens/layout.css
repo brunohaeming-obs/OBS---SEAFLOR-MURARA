@@ -1,0 +1,20 @@
+:root {
+  --obs-dashboard-width: 1920px;
+  --obs-dashboard-height: 1080px;
+  --obs-dashboard-margin-x: 72px;
+  --obs-dashboard-margin-top: 70px;
+  --obs-dashboard-sidebar-gap: 78px;
+  --obs-dashboard-column-gap: 24px;
+  --obs-dashboard-header-height: 38px;
+  --obs-sidebar-width: 238px;
+  --obs-sidebar-button-height: 48px;
+  --obs-panel-narrow-width: 341px;
+  --obs-panel-main-width: 705px;
+  --obs-panel-height: 748px;
+  --obs-panel-stack-height: 362px;
+  --obs-kpi-height: 104px;
+  --obs-kpi-icon-size: 48px;
+  --obs-table-row-height: 40px;
+  --obs-table-cell-height: 44px;
+  --obs-chart-filter-height: 32px;
+}

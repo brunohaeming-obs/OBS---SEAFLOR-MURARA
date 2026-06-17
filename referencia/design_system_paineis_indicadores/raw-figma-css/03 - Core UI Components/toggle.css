@@ -1,0 +1,924 @@
+/* Toggle */
+
+position: relative;
+width: 1291px;
+height: 530px;
+
+background: #FFFFFF;
+border-radius: 24px;
+
+
+/* Toggle */
+
+position: absolute;
+width: 159px;
+height: 58px;
+left: 80px;
+top: 80px;
+
+/* Text Font/H1 */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 58px;
+/* idêntico à altura da caixa ou 121% */
+
+color: #131927;
+
+
+
+/* State */
+
+/* Layout automático */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 32px;
+
+position: absolute;
+width: 68px;
+height: 192px;
+left: 80px;
+top: 238px;
+
+
+
+/* Default */
+
+width: 68px;
+height: 24px;
+
+/* Text Font/B1. Body */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idêntico à altura da caixa ou 150% */
+
+color: #131927;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Hover */
+
+width: 68px;
+height: 24px;
+
+/* Text Font/B1. Body */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idêntico à altura da caixa ou 150% */
+
+color: #131927;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Focus */
+
+width: 68px;
+height: 24px;
+
+/* Text Font/B1. Body */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idêntico à altura da caixa ou 150% */
+
+color: #131927;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Disabled */
+
+width: 68px;
+height: 24px;
+
+/* Text Font/B1. Body */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idêntico à altura da caixa ou 150% */
+
+color: #131927;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Toggle */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 160px;
+height: 232px;
+left: 166px;
+top: 218px;
+
+border: 1px dashed #9747FF;
+border-radius: 5px;
+
+
+/* State=Default, Position=Off */
+
+position: absolute;
+width: 44px;
+height: 24px;
+left: 20px;
+top: 20px;
+
+/* Grey/200 */
+background: #E5E7EA;
+border-radius: 12px;
+
+
+/* Ellipse */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 2px;
+top: 2px;
+
+/* White/100% */
+background: #FFFFFF;
+
+
+/* State=Hover, Position=Off */
+
+position: absolute;
+width: 44px;
+height: 24px;
+left: 20px;
+top: 76px;
+
+/* Grey/300 */
+background: #D2D5DB;
+border-radius: 12px;
+
+
+/* Ellipse 2 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 2px;
+top: 2px;
+
+/* White/100% */
+background: #FFFFFF;
+
+
+/* State=Focus, Position=Off */
+
+position: absolute;
+width: 44px;
+height: 24px;
+left: 20px;
+top: 132px;
+
+/* Grey/200 */
+background: #E5E7EA;
+box-shadow: 0px 0px 0px 3px #AEB6FB;
+border-radius: 12px;
+
+
+/* Ellipse 2 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 2px;
+top: 2px;
+
+/* White/100% */
+background: #FFFFFF;
+
+
+/* State=Selected, Position=Off */
+
+position: absolute;
+width: 44px;
+height: 24px;
+left: 20px;
+top: 188px;
+
+/* Grey/100 */
+background: #F3F4F6;
+border-radius: 12px;
+
+
+/* Ellipse 2 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 2px;
+top: 2px;
+
+/* White/100% */
+background: #FFFFFF;
+
+
+/* State=Default, Position=On */
+
+position: absolute;
+width: 44px;
+height: 24px;
+left: 96px;
+top: 20px;
+
+/* Azul OBS */
+background: #4285F4;
+border-radius: 12px;
+
+
+/* Ellipse */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 22px;
+top: 2px;
+
+/* White/100% */
+background: #FFFFFF;
+
+
+/* State=Hover, Position=On */
+
+position: absolute;
+width: 44px;
+height: 24px;
+left: 96px;
+top: 76px;
+
+/* Primary/700 */
+background: #3745AF;
+border-radius: 12px;
+
+
+/* Ellipse 2 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 22px;
+top: 2px;
+
+/* White/100% */
+background: #FFFFFF;
+
+
+/* State=Focus, Position=On */
+
+position: absolute;
+width: 44px;
+height: 24px;
+left: 96px;
+top: 132px;
+
+/* Azul OBS */
+background: #4285F4;
+box-shadow: 0px 0px 0px 3px #AEB6FB;
+border-radius: 12px;
+
+
+/* Ellipse 2 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 22px;
+top: 2px;
+
+/* White/100% */
+background: #FFFFFF;
+
+
+/* State=Selected, Position=On */
+
+position: absolute;
+width: 44px;
+height: 24px;
+left: 96px;
+top: 188px;
+
+background: #EDF3FE;
+border-radius: 12px;
+
+
+/* Ellipse 2 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 22px;
+top: 2px;
+
+/* White/100% */
+background: #FFFFFF;
+
+
+/* Toggle + Text */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 408px;
+height: 232px;
+left: 344px;
+top: 218px;
+
+border: 1px dashed #9747FF;
+border-radius: 5px;
+
+
+/* State=Default, Text Side=Left */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+position: absolute;
+width: 152px;
+height: 24px;
+left: 20px;
+top: 20px;
+
+
+
+/* Toggle */
+
+width: 44px;
+height: 24px;
+
+/* Grey/200 */
+background: #E5E7EA;
+border-radius: 12px;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Ellipse */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 2px;
+top: 2px;
+
+/* White/100% */
+background: #FFFFFF;
+
+
+/* Placeholder */
+
+width: 92px;
+height: 24px;
+
+/* Text Font/B1. Body */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idêntico à altura da caixa ou 150% */
+display: flex;
+align-items: center;
+
+color: #131927;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* State=Hover, Text Side=Left */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+position: absolute;
+width: 152px;
+height: 24px;
+left: 20px;
+top: 76px;
+
+
+
+/* Toggle */
+
+width: 44px;
+height: 24px;
+
+/* Grey/300 */
+background: #D2D5DB;
+border-radius: 12px;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Ellipse 2 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 2px;
+top: 2px;
+
+/* White/100% */
+background: #FFFFFF;
+
+
+/* Placeholder */
+
+width: 92px;
+height: 24px;
+
+/* Text Font/B1. Body */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idêntico à altura da caixa ou 150% */
+display: flex;
+align-items: center;
+
+color: #131927;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* State=Focus, Text Side=Left */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+position: absolute;
+width: 152px;
+height: 24px;
+left: 20px;
+top: 132px;
+
+
+
+/* Toggle */
+
+width: 44px;
+height: 24px;
+
+/* Grey/200 */
+background: #E5E7EA;
+box-shadow: 0px 0px 0px 3px #AEB6FB;
+border-radius: 12px;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Ellipse 2 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 2px;
+top: 2px;
+
+/* White/100% */
+background: #FFFFFF;
+
+
+/* Placeholder */
+
+width: 92px;
+height: 24px;
+
+/* Text Font/B1. Body */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idêntico à altura da caixa ou 150% */
+display: flex;
+align-items: center;
+
+color: #131927;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* State=Selected, Text Side=Left */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+position: absolute;
+width: 152px;
+height: 24px;
+left: 20px;
+top: 188px;
+
+
+
+/* Toggle */
+
+width: 44px;
+height: 24px;
+
+/* Grey/100 */
+background: #F3F4F6;
+border-radius: 12px;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Ellipse 2 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 2px;
+top: 2px;
+
+/* White/100% */
+background: #FFFFFF;
+
+
+/* Placeholder */
+
+width: 92px;
+height: 24px;
+
+/* Text Font/B1. Body */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idêntico à altura da caixa ou 150% */
+display: flex;
+align-items: center;
+
+color: #9EA2AE;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* State=Default, Text Side=Right */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+position: absolute;
+width: 152px;
+height: 24px;
+left: 236px;
+top: 20px;
+
+
+
+/* Placeholder */
+
+width: 92px;
+height: 24px;
+
+/* Text Font/B1. Body */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idêntico à altura da caixa ou 150% */
+display: flex;
+align-items: center;
+text-align: right;
+
+color: #131927;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Toggle */
+
+width: 44px;
+height: 24px;
+
+/* Grey/200 */
+background: #E5E7EA;
+border-radius: 12px;
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Ellipse */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 2px;
+top: 2px;
+
+/* White/100% */
+background: #FFFFFF;
+
+
+/* State=Hover, Text Side=Right */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+position: absolute;
+width: 152px;
+height: 24px;
+left: 236px;
+top: 76px;
+
+
+
+/* Placeholder */
+
+width: 92px;
+height: 24px;
+
+/* Text Font/B1. Body */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idêntico à altura da caixa ou 150% */
+display: flex;
+align-items: center;
+text-align: right;
+
+color: #131927;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Toggle */
+
+width: 44px;
+height: 24px;
+
+/* Grey/300 */
+background: #D2D5DB;
+border-radius: 12px;
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Ellipse 2 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 2px;
+top: 2px;
+
+/* White/100% */
+background: #FFFFFF;
+
+
+/* State=Focus, Text Side=Right */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+position: absolute;
+width: 152px;
+height: 24px;
+left: 236px;
+top: 132px;
+
+
+
+/* Placeholder */
+
+width: 92px;
+height: 24px;
+
+/* Text Font/B1. Body */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idêntico à altura da caixa ou 150% */
+display: flex;
+align-items: center;
+text-align: right;
+
+color: #131927;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Toggle */
+
+width: 44px;
+height: 24px;
+
+/* Grey/200 */
+background: #E5E7EA;
+box-shadow: 0px 0px 0px 3px #AEB6FB;
+border-radius: 12px;
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Ellipse 2 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 2px;
+top: 2px;
+
+/* White/100% */
+background: #FFFFFF;
+
+
+/* State=Selected, Text Side=Right */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+position: absolute;
+width: 152px;
+height: 24px;
+left: 236px;
+top: 188px;
+
+
+
+/* Placeholder */
+
+width: 92px;
+height: 24px;
+
+/* Text Font/B1. Body */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idêntico à altura da caixa ou 150% */
+display: flex;
+align-items: center;
+text-align: right;
+
+color: #9EA2AE;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Toggle */
+
+width: 44px;
+height: 24px;
+
+/* Grey/100 */
+background: #F3F4F6;
+border-radius: 12px;
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Ellipse 2 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 2px;
+top: 2px;
+
+/* White/100% */
+background: #FFFFFF;
+
+
+/* Divider */
+
+position: absolute;
+width: 232px;
+height: 0px;
+left: 576px;
+top: 218px;
+
+border: 1px dashed #9747FF;
+transform: rotate(-90deg);

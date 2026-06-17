@@ -1,0 +1,23 @@
+:root {
+  --obs-font-title: "Montserrat", sans-serif;
+  --obs-font-body: "Open Sans", sans-serif;
+  --obs-font-chip: "Inter", sans-serif;
+
+  --obs-text-h1-size: 48px;
+  --obs-text-h1-line: 58px;
+  --obs-text-h2-size: 32px;
+  --obs-text-h2-line: 48px;
+  --obs-text-h3-size: 26px;
+  --obs-text-h3-line: 38px;
+  --obs-text-body-lg-size: 16px;
+  --obs-text-body-lg-line: 26px;
+  --obs-text-body-md-size: 14px;
+  --obs-text-body-md-line: 26px;
+  --obs-text-label-size: 12px;
+  --obs-text-label-line: 16px;
+  --obs-text-caption-size: 10px;
+  --obs-text-caption-line: 16px;
+
+  --obs-font-weight-regular: 400;
+  --obs-font-weight-semibold: 600;
+}

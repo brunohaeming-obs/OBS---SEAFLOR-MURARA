@@ -1,0 +1,5029 @@
+/* Tags */
+
+position: relative;
+width: 1662px;
+height: 786px;
+
+background: #FFFFFF;
+border-radius: 24px;
+
+
+/* Tags */
+
+position: absolute;
+width: 113px;
+height: 58px;
+left: 80px;
+top: 80px;
+
+/* Text Font/H1 */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 58px;
+/* idêntico à altura da caixa ou 121% */
+
+color: #131927;
+
+
+
+/* Size */
+
+position: absolute;
+width: 1408px;
+height: 24px;
+left: 180px;
+top: 218px;
+
+
+
+/* Heading */
+
+position: absolute;
+width: 1408px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+
+
+/* Medium */
+
+position: absolute;
+width: 456px;
+height: 24px;
+left: 20px;
+top: 0px;
+
+/* Text Font/B1. Body */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idêntico à altura da caixa ou 150% */
+text-align: center;
+
+color: #131927;
+
+
+
+/* Small */
+
+position: absolute;
+width: 430px;
+height: 24px;
+left: 540px;
+top: 0px;
+
+/* Text Font/B1. Body */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idêntico à altura da caixa ou 150% */
+text-align: center;
+
+color: #131927;
+
+
+
+/* Tiny */
+
+position: absolute;
+width: 354px;
+height: 24px;
+left: 1034px;
+top: 0px;
+
+/* Text Font/B1. Body */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idêntico à altura da caixa ou 150% */
+text-align: center;
+
+color: #131927;
+
+
+
+/* State */
+
+/* Layout automático */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 64px;
+
+position: absolute;
+width: 68px;
+height: 376px;
+left: 80px;
+top: 310px;
+
+
+
+/* Default */
+
+width: 68px;
+height: 24px;
+
+/* Text Font/B1. Body */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idêntico à altura da caixa ou 150% */
+
+color: #131927;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Success */
+
+width: 68px;
+height: 24px;
+
+/* Text Font/B1. Body */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idêntico à altura da caixa ou 150% */
+
+color: #131927;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Info */
+
+width: 68px;
+height: 24px;
+
+/* Text Font/B1. Body */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idêntico à altura da caixa ou 150% */
+
+color: #131927;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Warning */
+
+width: 68px;
+height: 24px;
+
+/* Text Font/B1. Body */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idêntico à altura da caixa ou 150% */
+
+color: #131927;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Error */
+
+width: 68px;
+height: 24px;
+
+/* Text Font/B1. Body */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idêntico à altura da caixa ou 150% */
+
+color: #131927;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Badge & Chip */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1402px;
+height: 432px;
+left: 180px;
+top: 274px;
+
+border: 1px dashed #9747FF;
+border-radius: 5px;
+
+
+/* Size=Medium, State=Default, Content=Only Icons, Style=Outline */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px;
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 436px;
+top: 20px;
+
+background: #EDEFFE;
+/* Lilás */
+border: 1.5px solid #A276FD;
+border-radius: 12px;
+
+
+/* star */
+
+width: 24px;
+height: 24px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 10.42%;
+bottom: 10.42%;
+
+border: 1.5px solid #6038B1;
+
+
+/* Size=Small, State=Default, Content=Only Icons, Style=Outline */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 4px;
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 934px;
+top: 20px;
+
+background: #EDEFFE;
+/* Lilás */
+border: 1.5px solid #A276FD;
+border-radius: 8px;
+
+
+/* star */
+
+width: 24px;
+height: 24px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 10.42%;
+bottom: 10.42%;
+
+border: 1.5px solid #6038B1;
+
+
+/* Size=Tiny, State=Default, Content=Only Icons, Style=Outline */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 4px;
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 1358px;
+top: 20px;
+
+background: #EDEFFE;
+/* Lilás */
+border: 1.5px solid #A276FD;
+border-radius: 8px;
+
+
+/* star */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 8.34%;
+right: 8.33%;
+top: 10.42%;
+bottom: 10.42%;
+
+border: 1.5px solid #6038B1;
+
+
+/* Size=Medium, State=Error, Content=Only Icons, Style=Outline */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px;
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 436px;
+top: 372px;
+
+background: #FDECEC;
+/* Cereja */
+border: 1.5px solid #FF7171;
+border-radius: 12px;
+
+
+/* star */
+
+width: 24px;
+height: 24px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 10.42%;
+bottom: 10.42%;
+
+border: 1.5px solid #9C2929;
+
+
+/* Size=Small, State=Error, Content=Only Icons, Style=Outline */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 4px;
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 934px;
+top: 372px;
+
+background: #FDECEC;
+/* Cereja */
+border: 1.5px solid #FF7171;
+border-radius: 8px;
+
+
+/* star */
+
+width: 24px;
+height: 24px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 10.42%;
+bottom: 10.42%;
+
+border: 1.5px solid #9C2929;
+
+
+/* Size=Tiny, State=Error, Content=Only Icons, Style=Outline */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 4px;
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 1358px;
+top: 372px;
+
+background: #FDECEC;
+/* Cereja */
+border: 1.5px solid #FF7171;
+border-radius: 8px;
+
+
+/* star */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 8.34%;
+right: 8.33%;
+top: 10.42%;
+bottom: 10.42%;
+
+border: 1.5px solid #9C2929;
+
+
+/* Size=Medium, State=Success, Content=Only Icons, Style=Outline */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px;
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 436px;
+top: 108px;
+
+background: rgba(84, 243, 148, 0.2);
+/* Lima */
+border: 1.5px solid #54F394;
+border-radius: 12px;
+
+
+/* star */
+
+width: 24px;
+height: 24px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 10.42%;
+bottom: 10.42%;
+
+border: 1.5px solid #006629;
+
+
+/* Size=Small, State=Success, Content=Only Icons, Style=Outline */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 4px;
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 934px;
+top: 108px;
+
+background: rgba(84, 243, 148, 0.2);
+/* Lima */
+border: 1.5px solid #54F394;
+border-radius: 8px;
+
+
+/* star */
+
+width: 24px;
+height: 24px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 10.42%;
+bottom: 10.42%;
+
+border: 1.5px solid #006629;
+
+
+/* Size=Tiny, State=Success, Content=Only Icons, Style=Outline */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 4px;
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 1358px;
+top: 108px;
+
+background: rgba(84, 243, 148, 0.2);
+/* Lima */
+border: 1.5px solid #54F394;
+border-radius: 8px;
+
+
+/* star */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 8.34%;
+right: 8.33%;
+top: 10.42%;
+bottom: 10.42%;
+
+border: 1.5px solid #006629;
+
+
+/* Size=Medium, State=Warning, Content=Only Icons, Style=Outline */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px;
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 436px;
+top: 284px;
+
+background: #FFF7E6;
+/* Dourado */
+border: 1.5px solid #FFDF6F;
+border-radius: 12px;
+
+
+/* star */
+
+width: 24px;
+height: 24px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 10.42%;
+bottom: 10.42%;
+
+border: 1.5px solid #794F00;
+
+
+/* Size=Small, State=Warning, Content=Only Icons, Style=Outline */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 4px;
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 934px;
+top: 284px;
+
+background: #FFF7E6;
+/* Dourado */
+border: 1.5px solid #FFDF6F;
+border-radius: 8px;
+
+
+/* star */
+
+width: 24px;
+height: 24px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 10.42%;
+bottom: 10.42%;
+
+border: 1.5px solid #794F00;
+
+
+/* Size=Tiny, State=Warning, Content=Only Icons, Style=Outline */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 4px;
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 1358px;
+top: 284px;
+
+background: #FFF7E6;
+/* Dourado */
+border: 1.5px solid #FFDF6F;
+border-radius: 8px;
+
+
+/* star */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 8.34%;
+right: 8.33%;
+top: 10.42%;
+bottom: 10.42%;
+
+border: 1.5px solid #794F00;
+
+
+/* Size=Medium, State=Info, Content=Only Icons, Style=Outline */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px;
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 436px;
+top: 196px;
+
+background: rgba(230, 244, 255, 0.15);
+/* Azul OBS */
+border: 1.5px solid #4285F4;
+border-radius: 12px;
+
+
+/* star */
+
+width: 24px;
+height: 24px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 10.42%;
+bottom: 10.42%;
+
+/* Marinho */
+border: 1.5px solid #25316B;
+
+
+/* Size=Small, State=Info, Content=Only Icons, Style=Outline */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 4px;
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 934px;
+top: 196px;
+
+background: rgba(230, 244, 255, 0.15);
+/* Azul OBS */
+border: 1.5px solid #4285F4;
+border-radius: 8px;
+
+
+/* star */
+
+width: 24px;
+height: 24px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 10.42%;
+bottom: 10.42%;
+
+/* Marinho */
+border: 1.5px solid #25316B;
+
+
+/* Size=Tiny, State=Info, Content=Only Icons, Style=Outline */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 4px;
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 1358px;
+top: 196px;
+
+background: rgba(230, 244, 255, 0.15);
+/* Azul OBS */
+border: 1.5px solid #4285F4;
+border-radius: 8px;
+
+
+/* star */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 8.34%;
+right: 8.33%;
+top: 10.42%;
+bottom: 10.42%;
+
+/* Marinho */
+border: 1.5px solid #25316B;
+
+
+/* Size=Medium, State=Default, Content=Icons + Text, Style=Outline */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px;
+
+position: absolute;
+width: 132px;
+height: 40px;
+left: 280px;
+top: 20px;
+
+background: #EDEFFE;
+/* Lilás */
+border: 1.5px solid #A276FD;
+border-radius: 12px;
+
+
+/* star */
+
+width: 24px;
+height: 24px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 10.42%;
+bottom: 10.42%;
+
+border: 1.5px solid #6038B1;
+
+
+/* Text */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 8px;
+
+width: 60px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Badge */
+
+width: 44px;
+height: 16px;
+
+/* Button Font/Medium */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 16px;
+/* idêntico à altura da caixa ou 114% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #6038B1;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* cancel */
+
+width: 24px;
+height: 24px;
+
+border-radius: 6px;
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.32%;
+right: 31.9%;
+top: 6.31%;
+bottom: 31.9%;
+
+border: 1.5px solid #6038B1;
+transform: rotate(-45deg);
+
+
+/* Size=Small, State=Default, Content=Icons + Text, Style=Outline */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 12px;
+
+position: absolute;
+width: 125px;
+height: 32px;
+left: 785px;
+top: 20px;
+
+background: #EDEFFE;
+/* Lilás */
+border: 1.5px solid #A276FD;
+border-radius: 8px;
+
+
+/* star */
+
+width: 24px;
+height: 24px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 10.42%;
+bottom: 10.42%;
+
+border: 1.5px solid #6038B1;
+
+
+/* Text */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 8px;
+
+width: 53px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Badge */
+
+width: 37px;
+height: 16px;
+
+/* Button Font/Small */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 16px;
+/* idêntico à altura da caixa ou 133% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #6038B1;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* cancel */
+
+width: 24px;
+height: 24px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.32%;
+right: 31.9%;
+top: 6.31%;
+bottom: 31.9%;
+
+border: 1.5px solid #6038B1;
+transform: rotate(-45deg);
+
+
+/* Size=Tiny, State=Default, Content=Icons + Text, Style=Outline */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 6px 8px;
+
+position: absolute;
+width: 97px;
+height: 24px;
+left: 1237px;
+top: 20px;
+
+background: #EDEFFE;
+/* Lilás */
+border: 1.5px solid #A276FD;
+border-radius: 8px;
+
+
+/* star */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 8.34%;
+right: 8.33%;
+top: 10.42%;
+bottom: 10.42%;
+
+border: 1.5px solid #6038B1;
+
+
+/* Text */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 8px;
+
+width: 49px;
+height: 12px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Button */
+
+width: 33px;
+height: 12px;
+
+/* Button Font/Tiny */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 10px;
+line-height: 12px;
+/* idêntico à altura da caixa ou 120% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #6038B1;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* cancel */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.31%;
+right: 31.9%;
+top: 6.31%;
+bottom: 31.9%;
+
+border: 1.5px solid #6038B1;
+transform: rotate(-45deg);
+
+
+/* Size=Medium, State=Error, Content=Icons + Text, Style=Outline */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px;
+
+position: absolute;
+width: 132px;
+height: 40px;
+left: 280px;
+top: 372px;
+
+background: #FDECEC;
+/* Cereja */
+border: 1.5px solid #FF7171;
+border-radius: 12px;
+
+
+/* star */
+
+width: 24px;
+height: 24px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 10.42%;
+bottom: 10.42%;
+
+border: 1.5px solid #9C2929;
+
+
+/* Text */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 8px;
+
+width: 60px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Badge */
+
+width: 44px;
+height: 16px;
+
+/* Button Font/Medium */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 16px;
+/* idêntico à altura da caixa ou 114% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #9C2929;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* cancel */
+
+width: 24px;
+height: 24px;
+
+border-radius: 6px;
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.32%;
+right: 31.9%;
+top: 6.31%;
+bottom: 31.9%;
+
+border: 1.5px solid #9C2929;
+transform: rotate(-45deg);
+
+
+/* Size=Small, State=Error, Content=Icons + Text, Style=Outline */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 12px;
+
+position: absolute;
+width: 125px;
+height: 32px;
+left: 785px;
+top: 372px;
+
+background: #FDECEC;
+/* Cereja */
+border: 1.5px solid #FF7171;
+border-radius: 8px;
+
+
+/* star */
+
+width: 24px;
+height: 24px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 10.42%;
+bottom: 10.42%;
+
+border: 1.5px solid #9C2929;
+
+
+/* Text */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 8px;
+
+width: 53px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Badge */
+
+width: 37px;
+height: 16px;
+
+/* Button Font/Small */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 16px;
+/* idêntico à altura da caixa ou 133% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #9C2929;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* cancel */
+
+width: 24px;
+height: 24px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.32%;
+right: 31.9%;
+top: 6.31%;
+bottom: 31.9%;
+
+border: 1.5px solid #9C2929;
+transform: rotate(-45deg);
+
+
+/* Size=Tiny, State=Error, Content=Icons + Text, Style=Outline */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 6px 8px;
+
+position: absolute;
+width: 97px;
+height: 24px;
+left: 1237px;
+top: 372px;
+
+background: #FDECEC;
+/* Cereja */
+border: 1.5px solid #FF7171;
+border-radius: 8px;
+
+
+/* star */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 8.34%;
+right: 8.33%;
+top: 10.42%;
+bottom: 10.42%;
+
+border: 1.5px solid #9C2929;
+
+
+/* Text */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 8px;
+
+width: 49px;
+height: 12px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Button */
+
+width: 33px;
+height: 12px;
+
+/* Button Font/Tiny */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 10px;
+line-height: 12px;
+/* idêntico à altura da caixa ou 120% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #9C2929;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* cancel */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.31%;
+right: 31.9%;
+top: 6.31%;
+bottom: 31.9%;
+
+border: 1.5px solid #9C2929;
+transform: rotate(-45deg);
+
+
+/* Size=Medium, State=Success, Content=Icons + Text, Style=Outline */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px;
+
+position: absolute;
+width: 132px;
+height: 40px;
+left: 280px;
+top: 108px;
+
+background: rgba(84, 243, 148, 0.2);
+/* Lima */
+border: 1.5px solid #54F394;
+border-radius: 12px;
+
+
+/* star */
+
+width: 24px;
+height: 24px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 10.42%;
+bottom: 10.42%;
+
+border: 1.5px solid #006629;
+
+
+/* Text */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 8px;
+
+width: 60px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Badge */
+
+width: 44px;
+height: 16px;
+
+/* Button Font/Medium */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 16px;
+/* idêntico à altura da caixa ou 114% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #006629;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* cancel */
+
+width: 24px;
+height: 24px;
+
+border-radius: 6px;
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.32%;
+right: 31.9%;
+top: 6.31%;
+bottom: 31.9%;
+
+border: 1.5px solid #006629;
+transform: rotate(-45deg);
+
+
+/* Size=Small, State=Success, Content=Icons + Text, Style=Outline */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 12px;
+
+position: absolute;
+width: 125px;
+height: 32px;
+left: 785px;
+top: 108px;
+
+background: rgba(84, 243, 148, 0.2);
+/* Lima */
+border: 1.5px solid #54F394;
+border-radius: 8px;
+
+
+/* star */
+
+width: 24px;
+height: 24px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 10.42%;
+bottom: 10.42%;
+
+border: 1.5px solid #006629;
+
+
+/* Text */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 8px;
+
+width: 53px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Badge */
+
+width: 37px;
+height: 16px;
+
+/* Button Font/Small */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 16px;
+/* idêntico à altura da caixa ou 133% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #006629;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* cancel */
+
+width: 24px;
+height: 24px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.32%;
+right: 31.9%;
+top: 6.31%;
+bottom: 31.9%;
+
+border: 1.5px solid #006629;
+transform: rotate(-45deg);
+
+
+/* Size=Tiny, State=Success, Content=Icons + Text, Style=Outline */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 6px 8px;
+
+position: absolute;
+width: 97px;
+height: 24px;
+left: 1237px;
+top: 108px;
+
+background: rgba(84, 243, 148, 0.2);
+/* Lima */
+border: 1.5px solid #54F394;
+border-radius: 8px;
+
+
+/* star */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 8.34%;
+right: 8.33%;
+top: 10.42%;
+bottom: 10.42%;
+
+border: 1.5px solid #006629;
+
+
+/* Text */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 8px;
+
+width: 49px;
+height: 12px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Button */
+
+width: 33px;
+height: 12px;
+
+/* Button Font/Tiny */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 10px;
+line-height: 12px;
+/* idêntico à altura da caixa ou 120% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #006629;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* cancel */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.31%;
+right: 31.9%;
+top: 6.31%;
+bottom: 31.9%;
+
+border: 1.5px solid #006629;
+transform: rotate(-45deg);
+
+
+/* Size=Medium, State=Warning, Content=Icons + Text, Style=Outline */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px;
+
+position: absolute;
+width: 132px;
+height: 40px;
+left: 280px;
+top: 284px;
+
+background: #FFF7E6;
+/* Dourado */
+border: 1.5px solid #FFDF6F;
+border-radius: 12px;
+
+
+/* star */
+
+width: 24px;
+height: 24px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 10.42%;
+bottom: 10.42%;
+
+border: 1.5px solid #794F00;
+
+
+/* Text */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 8px;
+
+width: 60px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Badge */
+
+width: 44px;
+height: 16px;
+
+/* Button Font/Medium */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 16px;
+/* idêntico à altura da caixa ou 114% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #794F00;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* cancel */
+
+width: 24px;
+height: 24px;
+
+border-radius: 6px;
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.32%;
+right: 31.9%;
+top: 6.31%;
+bottom: 31.9%;
+
+border: 1.5px solid #794F00;
+transform: rotate(-45deg);
+
+
+/* Size=Small, State=Warning, Content=Icons + Text, Style=Outline */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 12px;
+
+position: absolute;
+width: 125px;
+height: 32px;
+left: 785px;
+top: 284px;
+
+background: #FFF7E6;
+/* Dourado */
+border: 1.5px solid #FFDF6F;
+border-radius: 8px;
+
+
+/* star */
+
+width: 24px;
+height: 24px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 10.42%;
+bottom: 10.42%;
+
+border: 1.5px solid #794F00;
+
+
+/* Text */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 8px;
+
+width: 53px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Badge */
+
+width: 37px;
+height: 16px;
+
+/* Button Font/Small */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 16px;
+/* idêntico à altura da caixa ou 133% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #794F00;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* cancel */
+
+width: 24px;
+height: 24px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.32%;
+right: 31.9%;
+top: 6.31%;
+bottom: 31.9%;
+
+border: 1.5px solid #794F00;
+transform: rotate(-45deg);
+
+
+/* Size=Tiny, State=Warning, Content=Icons + Text, Style=Outline */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 6px 8px;
+
+position: absolute;
+width: 97px;
+height: 24px;
+left: 1237px;
+top: 284px;
+
+background: #FFF7E6;
+/* Dourado */
+border: 1.5px solid #FFDF6F;
+border-radius: 8px;
+
+
+/* star */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 8.34%;
+right: 8.33%;
+top: 10.42%;
+bottom: 10.42%;
+
+border: 1.5px solid #794F00;
+
+
+/* Text */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 8px;
+
+width: 49px;
+height: 12px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Button */
+
+width: 33px;
+height: 12px;
+
+/* Button Font/Tiny */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 10px;
+line-height: 12px;
+/* idêntico à altura da caixa ou 120% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #794F00;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* cancel */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.31%;
+right: 31.9%;
+top: 6.31%;
+bottom: 31.9%;
+
+border: 1.5px solid #794F00;
+transform: rotate(-45deg);
+
+
+/* Size=Medium, State=Info, Content=Icons + Text, Style=Outline */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px;
+
+position: absolute;
+width: 132px;
+height: 40px;
+left: 280px;
+top: 196px;
+
+background: rgba(230, 244, 255, 0.15);
+/* Azul OBS */
+border: 1.5px solid #4285F4;
+border-radius: 12px;
+
+
+/* star */
+
+width: 24px;
+height: 24px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 10.42%;
+bottom: 10.42%;
+
+/* Marinho */
+border: 1.5px solid #25316B;
+
+
+/* Text */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 8px;
+
+width: 60px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Badge */
+
+width: 44px;
+height: 16px;
+
+/* Button Font/Medium */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 16px;
+/* idêntico à altura da caixa ou 114% */
+display: flex;
+align-items: center;
+text-align: center;
+
+/* Marinho */
+color: #25316B;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* cancel */
+
+width: 24px;
+height: 24px;
+
+border-radius: 6px;
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.32%;
+right: 31.9%;
+top: 6.31%;
+bottom: 31.9%;
+
+/* Marinho */
+border: 1.5px solid #25316B;
+transform: rotate(-45deg);
+
+
+/* Size=Medium, State=Default, Content=Only Icons, Style=Filled */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px;
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 176px;
+top: 20px;
+
+/* Lilás */
+background: #A276FD;
+border-radius: 12px;
+
+
+/* star */
+
+width: 24px;
+height: 24px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 10.42%;
+bottom: 10.42%;
+
+border: 1.5px solid #FFFFFF;
+
+
+/* Size=Medium, State=Error, Content=Only Icons, Style=Filled */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px;
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 176px;
+top: 372px;
+
+/* Cereja */
+background: #FF7171;
+border-radius: 12px;
+
+
+/* star */
+
+width: 24px;
+height: 24px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 10.42%;
+bottom: 10.42%;
+
+border: 1.5px solid #FFFFFF;
+
+
+/* Size=Medium, State=Success, Content=Only Icons, Style=Filled */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px;
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 176px;
+top: 108px;
+
+/* Lima */
+background: #54F394;
+border-radius: 12px;
+
+
+/* star */
+
+width: 24px;
+height: 24px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 10.42%;
+bottom: 10.42%;
+
+border: 1.5px solid #006629;
+
+
+/* Size=Medium, State=Warning, Content=Only Icons, Style=Filled */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px;
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 176px;
+top: 284px;
+
+/* Dourado */
+background: #FFDF6F;
+border-radius: 12px;
+
+
+/* star */
+
+width: 24px;
+height: 24px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 10.42%;
+bottom: 10.42%;
+
+border: 1.5px solid #794F00;
+
+
+/* Size=Medium, State=Info, Content=Only Icons, Style=Filled */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px;
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 176px;
+top: 196px;
+
+/* Azul OBS */
+background: #4285F4;
+border-radius: 12px;
+
+
+/* star */
+
+width: 24px;
+height: 24px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 10.42%;
+bottom: 10.42%;
+
+border: 1.5px solid #FFFFFF;
+
+
+/* Size=Medium, State=Default, Content=Icons + Text, Style=Filled */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px;
+
+position: absolute;
+width: 132px;
+height: 40px;
+left: 20px;
+top: 20px;
+
+/* Lilás */
+background: #A276FD;
+border-radius: 12px;
+
+
+/* star */
+
+width: 24px;
+height: 24px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 10.42%;
+bottom: 10.42%;
+
+border: 1.5px solid #FFFFFF;
+
+
+/* Text */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 8px;
+
+width: 60px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Badge */
+
+width: 44px;
+height: 16px;
+
+/* Button Font/Medium */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 16px;
+/* idêntico à altura da caixa ou 114% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* cancel */
+
+width: 24px;
+height: 24px;
+
+border-radius: 6px;
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.32%;
+right: 31.9%;
+top: 6.31%;
+bottom: 31.9%;
+
+border: 1.5px solid #FFFFFF;
+transform: rotate(-45deg);
+
+
+/* Size=Medium, State=Error, Content=Icons + Text, Style=Filled */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px;
+
+position: absolute;
+width: 132px;
+height: 40px;
+left: 20px;
+top: 372px;
+
+/* Cereja */
+background: #FF7171;
+border-radius: 12px;
+
+
+/* star */
+
+width: 24px;
+height: 24px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 10.42%;
+bottom: 10.42%;
+
+border: 1.5px solid #FFFFFF;
+
+
+/* Text */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 8px;
+
+width: 60px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Badge */
+
+width: 44px;
+height: 16px;
+
+/* Button Font/Medium */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 16px;
+/* idêntico à altura da caixa ou 114% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* cancel */
+
+width: 24px;
+height: 24px;
+
+border-radius: 6px;
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.32%;
+right: 31.9%;
+top: 6.31%;
+bottom: 31.9%;
+
+border: 1.5px solid #FFFFFF;
+transform: rotate(-45deg);
+
+
+/* Size=Medium, State=Success, Content=Icons + Text, Style=Filled */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px;
+
+position: absolute;
+width: 132px;
+height: 40px;
+left: 20px;
+top: 108px;
+
+/* Lima */
+background: #54F394;
+border-radius: 12px;
+
+
+/* star */
+
+width: 24px;
+height: 24px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 10.42%;
+bottom: 10.42%;
+
+border: 1.5px solid #006629;
+
+
+/* Text */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 8px;
+
+width: 60px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Badge */
+
+width: 44px;
+height: 16px;
+
+/* Button Font/Medium */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 16px;
+/* idêntico à altura da caixa ou 114% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #006629;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* cancel */
+
+width: 24px;
+height: 24px;
+
+border-radius: 6px;
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.32%;
+right: 31.9%;
+top: 6.31%;
+bottom: 31.9%;
+
+border: 1.5px solid #006629;
+transform: rotate(-45deg);
+
+
+/* Size=Medium, State=Warning, Content=Icons + Text, Style=Filled */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px;
+
+position: absolute;
+width: 132px;
+height: 40px;
+left: 20px;
+top: 284px;
+
+/* Dourado */
+background: #FFDF6F;
+border-radius: 12px;
+
+
+/* star */
+
+width: 24px;
+height: 24px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 10.42%;
+bottom: 10.42%;
+
+border: 1.5px solid #794F00;
+
+
+/* Text */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 8px;
+
+width: 60px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Badge */
+
+width: 44px;
+height: 16px;
+
+/* Button Font/Medium */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 16px;
+/* idêntico à altura da caixa ou 114% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #794F00;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* cancel */
+
+width: 24px;
+height: 24px;
+
+border-radius: 6px;
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.32%;
+right: 31.9%;
+top: 6.31%;
+bottom: 31.9%;
+
+border: 1.5px solid #794F00;
+transform: rotate(-45deg);
+
+
+/* Size=Medium, State=Info, Content=Icons + Text, Style=Filled */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px;
+
+position: absolute;
+width: 132px;
+height: 40px;
+left: 20px;
+top: 196px;
+
+/* Azul OBS */
+background: #4285F4;
+border-radius: 12px;
+
+
+/* star */
+
+width: 24px;
+height: 24px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 10.42%;
+bottom: 10.42%;
+
+border: 1.5px solid #FFFFFF;
+
+
+/* Text */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 8px;
+
+width: 60px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Badge */
+
+width: 44px;
+height: 16px;
+
+/* Button Font/Medium */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 16px;
+/* idêntico à altura da caixa ou 114% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* cancel */
+
+width: 24px;
+height: 24px;
+
+border-radius: 6px;
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.32%;
+right: 31.9%;
+top: 6.31%;
+bottom: 31.9%;
+
+border: 1.5px solid #FFFFFF;
+transform: rotate(-45deg);
+
+
+/* Size=Small, State=Info, Content=Icons + Text, Style=Outline */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 12px;
+
+position: absolute;
+width: 125px;
+height: 32px;
+left: 785px;
+top: 196px;
+
+background: rgba(230, 244, 255, 0.15);
+/* Azul OBS */
+border: 1.5px solid #4285F4;
+border-radius: 8px;
+
+
+/* star */
+
+width: 24px;
+height: 24px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 10.42%;
+bottom: 10.42%;
+
+/* Marinho */
+border: 1.5px solid #25316B;
+
+
+/* Text */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 8px;
+
+width: 53px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Badge */
+
+width: 37px;
+height: 16px;
+
+/* Button Font/Small */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 16px;
+/* idêntico à altura da caixa ou 133% */
+display: flex;
+align-items: center;
+text-align: center;
+
+/* Marinho */
+color: #25316B;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* cancel */
+
+width: 24px;
+height: 24px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.32%;
+right: 31.9%;
+top: 6.31%;
+bottom: 31.9%;
+
+/* Marinho */
+border: 1.5px solid #25316B;
+transform: rotate(-45deg);
+
+
+/* Size=Small, State=Default, Content=Only Icons, Style=Filled */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 4px;
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 689px;
+top: 20px;
+
+/* Lilás */
+background: #A276FD;
+border-radius: 8px;
+
+
+/* star */
+
+width: 24px;
+height: 24px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 10.42%;
+bottom: 10.42%;
+
+border: 1.5px solid #FFFFFF;
+
+
+/* Size=Small, State=Error, Content=Only Icons, Style=Filled */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 4px;
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 689px;
+top: 372px;
+
+/* Cereja */
+background: #FF7171;
+border-radius: 8px;
+
+
+/* star */
+
+width: 24px;
+height: 24px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 10.42%;
+bottom: 10.42%;
+
+border: 1.5px solid #FFFFFF;
+
+
+/* Size=Small, State=Success, Content=Only Icons, Style=Filled */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 4px;
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 689px;
+top: 108px;
+
+/* Lima */
+background: #54F394;
+border-radius: 8px;
+
+
+/* star */
+
+width: 24px;
+height: 24px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 10.42%;
+bottom: 10.42%;
+
+border: 1.5px solid #006629;
+
+
+/* Size=Small, State=Warning, Content=Only Icons, Style=Filled */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 4px;
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 689px;
+top: 284px;
+
+/* Dourado */
+background: #FFDF6F;
+border-radius: 8px;
+
+
+/* star */
+
+width: 24px;
+height: 24px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 10.42%;
+bottom: 10.42%;
+
+border: 1.5px solid #794F00;
+
+
+/* Size=Small, State=Info, Content=Only Icons, Style=Filled */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 4px;
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 689px;
+top: 196px;
+
+/* Azul OBS */
+background: #4285F4;
+border-radius: 8px;
+
+
+/* star */
+
+width: 24px;
+height: 24px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 10.42%;
+bottom: 10.42%;
+
+border: 1.5px solid #FFFFFF;
+
+
+/* Size=Small, State=Default, Content=Icons + Text, Style=Filled */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 12px;
+
+position: absolute;
+width: 125px;
+height: 32px;
+left: 540px;
+top: 20px;
+
+/* Lilás */
+background: #A276FD;
+border-radius: 8px;
+
+
+/* star */
+
+width: 24px;
+height: 24px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 10.42%;
+bottom: 10.42%;
+
+border: 1.5px solid #FFFFFF;
+
+
+/* Text */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 8px;
+
+width: 53px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Badge */
+
+width: 37px;
+height: 16px;
+
+/* Button Font/Small */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 16px;
+/* idêntico à altura da caixa ou 133% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* cancel */
+
+width: 24px;
+height: 24px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.32%;
+right: 31.9%;
+top: 6.31%;
+bottom: 31.9%;
+
+border: 1.5px solid #FFFFFF;
+transform: rotate(-45deg);
+
+
+/* Size=Small, State=Error, Content=Icons + Text, Style=Filled */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 12px;
+
+position: absolute;
+width: 125px;
+height: 32px;
+left: 540px;
+top: 372px;
+
+/* Cereja */
+background: #FF7171;
+border-radius: 8px;
+
+
+/* star */
+
+width: 24px;
+height: 24px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 10.42%;
+bottom: 10.42%;
+
+border: 1.5px solid #FFFFFF;
+
+
+/* Text */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 8px;
+
+width: 53px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Badge */
+
+width: 37px;
+height: 16px;
+
+/* Button Font/Small */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 16px;
+/* idêntico à altura da caixa ou 133% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* cancel */
+
+width: 24px;
+height: 24px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.32%;
+right: 31.9%;
+top: 6.31%;
+bottom: 31.9%;
+
+border: 1.5px solid #FFFFFF;
+transform: rotate(-45deg);
+
+
+/* Size=Small, State=Success, Content=Icons + Text, Style=Filled */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 12px;
+
+position: absolute;
+width: 125px;
+height: 32px;
+left: 540px;
+top: 108px;
+
+/* Lima */
+background: #54F394;
+border-radius: 8px;
+
+
+/* star */
+
+width: 24px;
+height: 24px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 10.42%;
+bottom: 10.42%;
+
+border: 1.5px solid #006629;
+
+
+/* Text */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 8px;
+
+width: 53px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Badge */
+
+width: 37px;
+height: 16px;
+
+/* Button Font/Small */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 16px;
+/* idêntico à altura da caixa ou 133% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #006629;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* cancel */
+
+width: 24px;
+height: 24px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.32%;
+right: 31.9%;
+top: 6.31%;
+bottom: 31.9%;
+
+border: 1.5px solid #006629;
+transform: rotate(-45deg);
+
+
+/* Size=Small, State=Warning, Content=Icons + Text, Style=Filled */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 12px;
+
+position: absolute;
+width: 125px;
+height: 32px;
+left: 540px;
+top: 284px;
+
+/* Dourado */
+background: #FFDF6F;
+border-radius: 8px;
+
+
+/* star */
+
+width: 24px;
+height: 24px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 10.42%;
+bottom: 10.42%;
+
+border: 1.5px solid #794F00;
+
+
+/* Text */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 8px;
+
+width: 53px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Badge */
+
+width: 37px;
+height: 16px;
+
+/* Button Font/Small */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 16px;
+/* idêntico à altura da caixa ou 133% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #794F00;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* cancel */
+
+width: 24px;
+height: 24px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.32%;
+right: 31.9%;
+top: 6.31%;
+bottom: 31.9%;
+
+border: 1.5px solid #794F00;
+transform: rotate(-45deg);
+
+
+/* Size=Small, State=Info, Content=Icons + Text, Style=Filled */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 12px;
+
+position: absolute;
+width: 125px;
+height: 32px;
+left: 540px;
+top: 196px;
+
+/* Azul OBS */
+background: #4285F4;
+border-radius: 8px;
+
+
+/* star */
+
+width: 24px;
+height: 24px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 10.42%;
+bottom: 10.42%;
+
+border: 1.5px solid #FFFFFF;
+
+
+/* Text */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 8px;
+
+width: 53px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Badge */
+
+width: 37px;
+height: 16px;
+
+/* Button Font/Small */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 16px;
+/* idêntico à altura da caixa ou 133% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* cancel */
+
+width: 24px;
+height: 24px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.32%;
+right: 31.9%;
+top: 6.31%;
+bottom: 31.9%;
+
+border: 1.5px solid #FFFFFF;
+transform: rotate(-45deg);
+
+
+/* Size=Tiny, State=Info, Content=Icons + Text, Style=Outline */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 6px 8px;
+
+position: absolute;
+width: 97px;
+height: 24px;
+left: 1237px;
+top: 196px;
+
+background: rgba(230, 244, 255, 0.15);
+/* Azul OBS */
+border: 1.5px solid #4285F4;
+border-radius: 8px;
+
+
+/* star */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 8.34%;
+right: 8.33%;
+top: 10.42%;
+bottom: 10.42%;
+
+/* Marinho */
+border: 1.5px solid #25316B;
+
+
+/* Text */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 8px;
+
+width: 49px;
+height: 12px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Button */
+
+width: 33px;
+height: 12px;
+
+/* Button Font/Tiny */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 10px;
+line-height: 12px;
+/* idêntico à altura da caixa ou 120% */
+display: flex;
+align-items: center;
+text-align: center;
+
+/* Marinho */
+color: #25316B;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* cancel */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.31%;
+right: 31.9%;
+top: 6.31%;
+bottom: 31.9%;
+
+/* Marinho */
+border: 1.5px solid #25316B;
+transform: rotate(-45deg);
+
+
+/* Size=Tiny, State=Default, Content=Only Icons, Style=Filled */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 4px;
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 1149px;
+top: 20px;
+
+/* Lilás */
+background: #A276FD;
+border-radius: 8px;
+
+
+/* star */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 8.34%;
+right: 8.33%;
+top: 10.42%;
+bottom: 10.42%;
+
+border: 1.5px solid #FFFFFF;
+
+
+/* Size=Tiny, State=Error, Content=Only Icons, Style=Filled */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 4px;
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 1149px;
+top: 372px;
+
+/* Cereja */
+background: #FF7171;
+border-radius: 8px;
+
+
+/* star */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 8.34%;
+right: 8.33%;
+top: 10.42%;
+bottom: 10.42%;
+
+border: 1.5px solid #FFFFFF;
+
+
+/* Size=Tiny, State=Success, Content=Only Icons, Style=Filled */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 4px;
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 1149px;
+top: 108px;
+
+/* Lima */
+background: #54F394;
+border-radius: 8px;
+
+
+/* star */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 8.34%;
+right: 8.33%;
+top: 10.42%;
+bottom: 10.42%;
+
+border: 1.5px solid #006629;
+
+
+/* Size=Tiny, State=Warning, Content=Only Icons, Style=Filled */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 4px;
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 1149px;
+top: 284px;
+
+/* Dourado */
+background: #FFDF6F;
+border-radius: 8px;
+
+
+/* star */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 8.34%;
+right: 8.33%;
+top: 10.42%;
+bottom: 10.42%;
+
+border: 1.5px solid #794F00;
+
+
+/* Size=Tiny, State=Info, Content=Only Icons, Style=Filled */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 4px;
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 1149px;
+top: 196px;
+
+/* Azul OBS */
+background: #4285F4;
+border-radius: 8px;
+
+
+/* star */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 8.34%;
+right: 8.33%;
+top: 10.42%;
+bottom: 10.42%;
+
+border: 1.5px solid #FFFFFF;
+
+
+/* Size=Tiny, State=Default, Content=Icons + Text, Style=Filled */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 6px 8px;
+
+position: absolute;
+width: 95px;
+height: 24px;
+left: 1030px;
+top: 20px;
+
+/* Lilás */
+background: #A276FD;
+border-radius: 8px;
+
+
+/* star */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 8.34%;
+right: 8.33%;
+top: 10.42%;
+bottom: 10.42%;
+
+border: 1.5px solid #FFFFFF;
+
+
+/* Text */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 8px;
+
+width: 47px;
+height: 12px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Badge */
+
+width: 31px;
+height: 12px;
+
+/* Button Font/Tiny */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 10px;
+line-height: 12px;
+/* idêntico à altura da caixa ou 120% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* cancel */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.31%;
+right: 31.9%;
+top: 6.31%;
+bottom: 31.9%;
+
+border: 1.5px solid #FFFFFF;
+transform: rotate(-45deg);
+
+
+/* Size=Tiny, State=Error, Content=Icons + Text, Style=Filled */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 6px 8px;
+
+position: absolute;
+width: 95px;
+height: 24px;
+left: 1030px;
+top: 372px;
+
+/* Cereja */
+background: #FF7171;
+border-radius: 8px;
+
+
+/* star */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 8.34%;
+right: 8.33%;
+top: 10.42%;
+bottom: 10.42%;
+
+border: 1.5px solid #FFFFFF;
+
+
+/* Text */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 8px;
+
+width: 47px;
+height: 12px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Badge */
+
+width: 31px;
+height: 12px;
+
+/* Button Font/Tiny */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 10px;
+line-height: 12px;
+/* idêntico à altura da caixa ou 120% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* cancel */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.31%;
+right: 31.9%;
+top: 6.31%;
+bottom: 31.9%;
+
+border: 1.5px solid #FFFFFF;
+transform: rotate(-45deg);
+
+
+/* Size=Tiny, State=Success, Content=Icons + Text, Style=Filled */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 6px 8px;
+
+position: absolute;
+width: 95px;
+height: 24px;
+left: 1030px;
+top: 108px;
+
+/* Lima */
+background: #54F394;
+border-radius: 8px;
+
+
+/* star */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 8.34%;
+right: 8.33%;
+top: 10.42%;
+bottom: 10.42%;
+
+border: 1.5px solid #006629;
+
+
+/* Text */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 8px;
+
+width: 47px;
+height: 12px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Badge */
+
+width: 31px;
+height: 12px;
+
+/* Button Font/Tiny */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 10px;
+line-height: 12px;
+/* idêntico à altura da caixa ou 120% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #006629;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* cancel */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.31%;
+right: 31.9%;
+top: 6.31%;
+bottom: 31.9%;
+
+border: 1.5px solid #006629;
+transform: rotate(-45deg);
+
+
+/* Size=Tiny, State=Warning, Content=Icons + Text, Style=Filled */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 6px 8px;
+
+position: absolute;
+width: 95px;
+height: 24px;
+left: 1030px;
+top: 284px;
+
+/* Dourado */
+background: #FFDF6F;
+border-radius: 8px;
+
+
+/* star */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 8.34%;
+right: 8.33%;
+top: 10.42%;
+bottom: 10.42%;
+
+border: 1.5px solid #794F00;
+
+
+/* Text */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 8px;
+
+width: 47px;
+height: 12px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Badge */
+
+width: 31px;
+height: 12px;
+
+/* Button Font/Tiny */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 10px;
+line-height: 12px;
+/* idêntico à altura da caixa ou 120% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #794F00;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* cancel */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.31%;
+right: 31.9%;
+top: 6.31%;
+bottom: 31.9%;
+
+border: 1.5px solid #794F00;
+transform: rotate(-45deg);
+
+
+/* Size=Tiny, State=Info, Content=Icons + Text, Style=Filled */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 6px 8px;
+
+position: absolute;
+width: 95px;
+height: 24px;
+left: 1030px;
+top: 196px;
+
+/* Azul OBS */
+background: #4285F4;
+border-radius: 8px;
+
+
+/* star */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 8.34%;
+right: 8.33%;
+top: 10.42%;
+bottom: 10.42%;
+
+border: 1.5px solid #FFFFFF;
+
+
+/* Text */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 8px;
+
+width: 47px;
+height: 12px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Badge */
+
+width: 31px;
+height: 12px;
+
+/* Button Font/Tiny */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 10px;
+line-height: 12px;
+/* idêntico à altura da caixa ou 120% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* cancel */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.31%;
+right: 31.9%;
+top: 6.31%;
+bottom: 31.9%;
+
+border: 1.5px solid #FFFFFF;
+transform: rotate(-45deg);
+
+
+/* Divider */
+
+position: absolute;
+width: 432px;
+height: 0px;
+left: 688px;
+top: 274px;
+
+border: 1px dashed #9747FF;
+transform: rotate(-90deg);
+
+
+/* Divider */
+
+position: absolute;
+width: 432px;
+height: 0px;
+left: 1178px;
+top: 274px;
+
+border: 1px dashed #9747FF;
+transform: rotate(-90deg);
+
+
+/* As cores presentes nessas etiquetas estão seguindo o padrão da identidade visual do Observatório FIESC. Mas caso seja necessário a adaptação conforme cliente, ou número excedente de categorias não há problema em alterá-las. */
+
+position: absolute;
+width: 703px;
+height: 60px;
+left: 244px;
+top: 78px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* ou 143% */
+display: flex;
+align-items: center;
+
+color: #131927;
+

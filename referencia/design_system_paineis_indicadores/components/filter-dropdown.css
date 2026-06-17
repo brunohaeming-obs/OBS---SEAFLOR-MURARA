@@ -1,0 +1,39 @@
+.obs-filter-field {
+  display: grid;
+  gap: var(--obs-space-1);
+}
+
+.obs-filter-field__label {
+  color: var(--obs-color-white);
+  font-family: var(--obs-font-body);
+  font-size: var(--obs-text-label-size);
+  line-height: var(--obs-text-label-line);
+}
+
+.obs-filter-dropdown {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--obs-space-1);
+  width: 208px;
+  height: var(--obs-chart-filter-height);
+  padding: 0 var(--obs-space-5);
+  border: 1.5px solid var(--obs-color-border);
+  border-radius: var(--obs-radius-sm);
+  background: var(--obs-color-subcontainer);
+  color: var(--obs-color-white);
+  font-family: var(--obs-font-body);
+  font-size: var(--obs-text-label-size);
+  line-height: var(--obs-text-label-line);
+  cursor: pointer;
+}
+
+select.obs-filter-dropdown {
+  appearance: none;
+}
+
+.obs-filter-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--obs-space-4);
+}

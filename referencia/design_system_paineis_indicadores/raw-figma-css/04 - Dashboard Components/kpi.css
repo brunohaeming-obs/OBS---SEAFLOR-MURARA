@@ -1,0 +1,180 @@
+/* Kpi */
+
+position: relative;
+width: 386px;
+height: 148px;
+
+background: #FFFFFF;
+
+
+/* Group 2061 */
+
+position: absolute;
+width: 341px;
+height: 104px;
+left: 22px;
+top: 24px;
+
+
+
+/* Rectangle 1778 */
+
+position: absolute;
+width: 341px;
+height: 104px;
+left: 22px;
+top: 24px;
+
+/* Chumbo (Sub-container)
+
+Texto
+*/
+background: #2E303D;
+border-radius: 12px;
+
+
+/* Ellipse 1 */
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 46px;
+top: 52px;
+
+/* Neve */
+background: #BDD6FE;
+
+
+/* icon_attach_file */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 54px;
+top: 60px;
+
+
+
+/* Vector */
+
+position: absolute;
+visibility: hidden;
+left: 25.08%;
+right: 26.36%;
+top: 10.42%;
+bottom: 10.42%;
+
+background: #000000;
+
+
+/* 💼 */
+
+position: absolute;
+left: 8.33%;
+right: 10.42%;
+top: 0%;
+bottom: 3.12%;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 25.3793px;
+line-height: 31px;
+/* idêntico à altura da caixa ou 121% */
+
+color: #000000;
+
+
+
+/* Frame 2060 */
+
+/* Layout automático */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+width: 197px;
+height: 80px;
+left: 106px;
+top: 36px;
+
+
+
+/* Nome variável */
+
+width: 197px;
+height: 26px;
+
+/* B1. Body */
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* idêntico à altura da caixa ou 162% */
+display: flex;
+align-items: center;
+
+/* Branco */
+color: #FFFFFF;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* 99,9% */
+
+width: 197px;
+height: 38px;
+
+/* H3. Título */
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 26px;
+line-height: 38px;
+/* idêntico à altura da caixa ou 146% */
+display: flex;
+align-items: center;
+
+/* Branco */
+color: #FFFFFF;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* FONTE: NOME FONTE 2026 */
+
+width: 197px;
+height: 16px;
+
+/* L2. Legenda */
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 16px;
+/* idêntico à altura da caixa ou 160% */
+display: flex;
+align-items: center;
+
+/* Branco */
+color: #FFFFFF;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;

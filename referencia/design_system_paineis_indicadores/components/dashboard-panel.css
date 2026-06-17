@@ -1,0 +1,23 @@
+.obs-panel {
+  padding: var(--obs-space-6);
+  background: var(--obs-color-container);
+  border-radius: var(--obs-radius-md);
+  color: var(--obs-color-text-primary);
+}
+
+.obs-panel--subtle {
+  background: var(--obs-color-subcontainer);
+}
+
+.obs-panel__title {
+  margin: 0 0 var(--obs-space-4);
+  font-family: var(--obs-font-title);
+  font-size: var(--obs-text-body-lg-size);
+  line-height: 20px;
+  font-weight: var(--obs-font-weight-regular);
+}
+
+.obs-panel__stack {
+  display: grid;
+  gap: var(--obs-space-4);
+}

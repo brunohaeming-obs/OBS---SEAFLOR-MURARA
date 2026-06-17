@@ -1,0 +1,112 @@
+html,
+body {
+  margin: 0;
+  background: var(--obs-color-bg);
+}
+
+.obs-dashboard-grid-1,
+.obs-dashboard-grid-1 * {
+  box-sizing: border-box;
+}
+
+.obs-dashboard-grid-1 {
+  min-height: 100vh;
+  display: grid;
+  grid-template-columns:
+    var(--obs-sidebar-width)
+    var(--obs-dashboard-sidebar-gap)
+    var(--obs-panel-narrow-width)
+    var(--obs-dashboard-column-gap)
+    var(--obs-panel-main-width)
+    var(--obs-dashboard-column-gap)
+    var(--obs-panel-narrow-width);
+  grid-template-rows:
+    var(--obs-dashboard-header-height)
+    40px
+    128px
+    var(--obs-panel-stack-height)
+    var(--obs-dashboard-column-gap)
+    var(--obs-panel-stack-height);
+  gap: 0;
+  width: min(100%, var(--obs-dashboard-width));
+  margin: 0 auto;
+  padding: var(--obs-dashboard-margin-top) var(--obs-dashboard-margin-x) 56px;
+  background: var(--obs-color-bg);
+  color: var(--obs-color-white);
+}
+
+.obs-dashboard-grid-1__header {
+  grid-column: 3 / -1;
+  grid-row: 1;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--obs-space-4);
+}
+
+.obs-dashboard-grid-1__sidebar {
+  grid-column: 1;
+  grid-row: 3 / span 2;
+  display: flex;
+  flex-direction: column;
+  gap: 19px;
+}
+
+.obs-dashboard-grid-1__left {
+  grid-column: 3;
+  grid-row: 4 / span 3;
+  min-height: var(--obs-panel-height);
+}
+
+.obs-dashboard-grid-1__main {
+  grid-column: 5;
+  grid-row: 4 / span 3;
+  min-height: var(--obs-panel-height);
+}
+
+.obs-dashboard-grid-1__right {
+  grid-column: 7;
+  grid-row: 4 / span 3;
+  display: grid;
+  grid-template-rows: var(--obs-panel-stack-height) var(--obs-dashboard-column-gap) var(--obs-panel-stack-height);
+}
+
+.obs-dashboard-grid-1__right > :first-child {
+  grid-row: 1;
+}
+
+.obs-dashboard-grid-1__right > :last-child {
+  grid-row: 3;
+}
+
+@media (max-width: 1840px) {
+  .obs-dashboard-grid-1 {
+    grid-template-columns: 1fr;
+    grid-template-rows: none;
+    gap: var(--obs-space-6);
+    padding: var(--obs-space-6);
+  }
+
+  .obs-dashboard-grid-1__header,
+  .obs-dashboard-grid-1__sidebar,
+  .obs-dashboard-grid-1__left,
+  .obs-dashboard-grid-1__main,
+  .obs-dashboard-grid-1__right {
+    grid-column: 1;
+    grid-row: auto;
+  }
+
+  .obs-dashboard-grid-1__sidebar {
+    grid-row: auto;
+  }
+
+  .obs-dashboard-grid-1__header {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .obs-dashboard-grid-1__right {
+    grid-template-rows: none;
+    gap: var(--obs-space-6);
+  }
+}

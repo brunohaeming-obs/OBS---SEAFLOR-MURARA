@@ -1,0 +1,569 @@
+/* Container Gráfico */
+
+position: relative;
+width: 776px;
+height: 833px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 1789 */
+
+position: absolute;
+width: 705px;
+height: 748px;
+left: 32px;
+top: 48px;
+
+/* Granito (Container) */
+background: #242736;
+border-radius: 12px;
+
+
+/* Group 2075 */
+
+position: absolute;
+width: 655px;
+height: 616px;
+left: 56px;
+top: 156px;
+
+
+
+/* FONTE: NOME FONTE 2026 */
+
+position: absolute;
+width: 440.39px;
+height: 16.99px;
+left: 56px;
+top: 755.01px;
+
+/* L2. Legenda */
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 16px;
+/* ou 160% */
+display: flex;
+align-items: center;
+
+/* Branco */
+color: #FFFFFF;
+
+
+
+/* Group 2070 */
+
+position: absolute;
+width: 655px;
+height: 591px;
+left: 56px;
+top: 156px;
+
+
+
+/* Espaço delimitado para painéis, dados, listas, etc. */
+
+position: absolute;
+width: 326.87px;
+height: 78.53px;
+left: 219.1px;
+top: 428.43px;
+
+/* L1. Legenda */
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* ou 133% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 1788 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 655px;
+height: 591px;
+left: 56px;
+top: 156px;
+
+border: 1px solid #FF7171;
+
+
+/* Group 2071 */
+
+position: absolute;
+width: 657px;
+height: 26px;
+left: 56px;
+top: 72px;
+
+
+
+/* Inserir aqui o nome do gráfico completo inserir aqui o nome do gráfico completo */
+
+position: absolute;
+width: 657px;
+height: 26px;
+left: 56px;
+top: 72px;
+
+/* B1. Body */
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* idêntico à altura da caixa ou 162% */
+display: flex;
+align-items: center;
+
+/* Branco */
+color: #FFFFFF;
+
+
+
+/* Frame 2075 */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 16px;
+
+position: absolute;
+width: 656px;
+height: 32px;
+left: 55px;
+top: 108px;
+
+
+
+/* Frame 2078 */
+
+/* Layout automático */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 4px;
+
+width: 208px;
+height: 32px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Dropdown */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px 20px;
+gap: 4px;
+
+width: 208px;
+height: 32px;
+
+/* Chumbo (Sub-container)
+
+Texto
+*/
+background: #2E303D;
+/* Ardósia */
+border: 1.5px solid #708097;
+border-radius: 8px;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Left Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 140px;
+height: 24px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* star */
+
+width: 24px;
+height: 24px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 10.42%;
+bottom: 10.42%;
+
+border: 1.5px solid #9EA2AE;
+
+
+/* Select */
+
+width: 108px;
+height: 16px;
+
+/* L1. Legenda */
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* idêntico à altura da caixa ou 133% */
+display: flex;
+align-items: center;
+
+/* Branco */
+color: #FFFFFF;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* nav-arrow-down */
+
+width: 24px;
+height: 24px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 50%;
+top: 37.5%;
+bottom: 12.5%;
+
+border: 1.5px solid #9EA2AE;
+transform: rotate(-90deg);
+
+
+/* Frame 2077 */
+
+/* Layout automático */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 4px;
+
+width: 208px;
+height: 32px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Dropdown */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px 20px;
+gap: 4px;
+
+width: 208px;
+height: 32px;
+
+/* Chumbo (Sub-container)
+
+Texto
+*/
+background: #2E303D;
+/* Ardósia */
+border: 1.5px solid #708097;
+border-radius: 8px;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Left Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 140px;
+height: 24px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* star */
+
+width: 24px;
+height: 24px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 10.42%;
+bottom: 10.42%;
+
+border: 1.5px solid #9EA2AE;
+
+
+/* Select */
+
+width: 108px;
+height: 16px;
+
+/* L1. Legenda */
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* idêntico à altura da caixa ou 133% */
+display: flex;
+align-items: center;
+
+/* Branco */
+color: #FFFFFF;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* nav-arrow-down */
+
+width: 24px;
+height: 24px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 50%;
+top: 37.5%;
+bottom: 12.5%;
+
+border: 1.5px solid #9EA2AE;
+transform: rotate(-90deg);
+
+
+/* Frame 2079 */
+
+/* Layout automático */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 4px;
+
+width: 208px;
+height: 32px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Dropdown */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px 20px;
+gap: 4px;
+
+width: 208px;
+height: 32px;
+
+/* Chumbo (Sub-container)
+
+Texto
+*/
+background: #2E303D;
+/* Ardósia */
+border: 1.5px solid #708097;
+border-radius: 8px;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Left Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 140px;
+height: 24px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* star */
+
+width: 24px;
+height: 24px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 10.42%;
+bottom: 10.42%;
+
+border: 1.5px solid #9EA2AE;
+
+
+/* Select */
+
+width: 108px;
+height: 16px;
+
+/* L1. Legenda */
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* idêntico à altura da caixa ou 133% */
+display: flex;
+align-items: center;
+
+/* Branco */
+color: #FFFFFF;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* nav-arrow-down */
+
+width: 24px;
+height: 24px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 50%;
+top: 37.5%;
+bottom: 12.5%;
+
+border: 1.5px solid #9EA2AE;
+transform: rotate(-90deg);

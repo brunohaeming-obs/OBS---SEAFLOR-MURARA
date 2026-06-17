@@ -1,0 +1,256 @@
+/* Espaçamento */
+
+position: relative;
+width: 674px;
+height: 556px;
+
+background: #FFFFFF;
+border-radius: 20px;
+
+
+/* H4 */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 24px;
+
+position: absolute;
+visibility: hidden;
+width: 1096px;
+height: 34px;
+left: 82px;
+top: 544px;
+
+
+
+/* H4. Título */
+
+width: 424px;
+height: 34px;
+
+/* H4. Título */
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 150%;
+/* ou 27px */
+display: flex;
+align-items: center;
+letter-spacing: -0.01em;
+font-feature-settings: 'calt' off;
+
+/* Texto */
+color: #2E303D;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Semi Bold */
+
+width: 200px;
+height: 24px;
+
+/* Text Font/B1. Body */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idêntico à altura da caixa ou 150% */
+text-align: center;
+
+color: #131927;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* 18 */
+
+width: 200px;
+height: 24px;
+
+/* Text Font/B1. Body */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idêntico à altura da caixa ou 150% */
+text-align: center;
+
+color: #131927;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* 34 */
+
+width: 200px;
+height: 24px;
+
+/* Text Font/B1. Body */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* idêntico à altura da caixa ou 150% */
+text-align: center;
+
+color: #131927;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Espaçamento */
+
+position: absolute;
+width: 340px;
+height: 58px;
+left: 96px;
+top: 96px;
+
+/* H1. Título */
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 58px;
+/* idêntico à altura da caixa ou 121% */
+
+color: #131927;
+
+
+
+/* Group 2057 */
+
+position: absolute;
+width: 482px;
+height: 102px;
+left: 96px;
+top: 194px;
+
+
+
+/* 4, 8, 12, 16, 24, 28, 32, 36, 40, 44, 48, 64 e 96 pixels. */
+
+position: absolute;
+width: 481px;
+height: 41.69px;
+left: 97px;
+top: 254.31px;
+
+/* H4. Título */
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 150%;
+/* ou 27px */
+display: flex;
+align-items: center;
+letter-spacing: -0.01em;
+font-feature-settings: 'calt' off;
+
+/* Texto */
+color: #2E303D;
+
+
+
+/* Nas interfaces seguiremos com o sistema de grade com espaçamentos múltiplos de 4px conforme abaixo: */
+
+position: absolute;
+width: 413.86px;
+height: 52px;
+left: 96px;
+top: 194px;
+
+/* B2. Body */
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 26px;
+/* ou 186% */
+display: flex;
+align-items: center;
+
+color: #131927;
+
+
+
+/* Group 2056 */
+
+position: absolute;
+width: 482px;
+height: 128px;
+left: 96px;
+top: 332px;
+
+
+
+/* 4, 8, 16, 24, 32, 40, 48, 64 e 96 pixels. */
+
+position: absolute;
+width: 481px;
+height: 41.69px;
+left: 97px;
+top: 418.31px;
+
+/* H4. Título */
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 150%;
+/* ou 27px */
+display: flex;
+align-items: center;
+letter-spacing: -0.01em;
+font-feature-settings: 'calt' off;
+
+/* Texto */
+color: #2E303D;
+
+
+
+/* Será possível perceber que no design dos painéis alguns valores são mais ignorados/pulados. Isso ocorre para gerar uma hierarquia mais clara conforme a sequência abaixo: */
+
+position: absolute;
+width: 413.86px;
+height: 78px;
+left: 96px;
+top: 332px;
+
+/* B2. Body */
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 26px;
+/* ou 186% */
+display: flex;
+align-items: center;
+
+color: #131927;
+

@@ -1,0 +1,202 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Observatorio Dashboard Example</title>
+    <link rel="stylesheet" href="../../templates/index.css">
+  </head>
+  <body>
+    <main class="obs-dashboard-grid-1">
+      <aside class="obs-dashboard-grid-1__sidebar" aria-label="Navegacao do dashboard">
+        <button class="obs-sidebar-button obs-sidebar-button--selected" type="button" aria-selected="true">Visao Geral</button>
+        <button class="obs-sidebar-button" type="button" aria-selected="false">Indicadores</button>
+        <button class="obs-sidebar-button" type="button" aria-selected="false">Tabela</button>
+        <button class="obs-sidebar-button" type="button" aria-selected="false">Graficos</button>
+        <button class="obs-sidebar-button" type="button" aria-selected="false">Territorio</button>
+        <button class="obs-sidebar-button" type="button" aria-selected="false">Exportar</button>
+      </aside>
+
+      <header class="obs-dashboard-grid-1__header">
+        <h1 class="obs-chart-container__title">Dashboard Template Grid 1</h1>
+        <div class="obs-segmented-control" role="group" aria-label="Periodo">
+          <button class="obs-segmented-control__item" type="button" aria-pressed="false">2019</button>
+          <button class="obs-segmented-control__item obs-segmented-control__item--selected" type="button" aria-pressed="true">2020</button>
+          <button class="obs-segmented-control__item" type="button" aria-pressed="false">2021</button>
+          <button class="obs-segmented-control__item" type="button" aria-pressed="false">2022</button>
+          <button class="obs-segmented-control__item" type="button" aria-pressed="false">2023</button>
+        </div>
+      </header>
+
+      <section class="obs-dashboard-grid-1__left obs-panel">
+        <h2 class="obs-panel__title">Indicadores principais</h2>
+        <div class="obs-panel__stack">
+          <article class="obs-kpi-card">
+            <div class="obs-kpi-card__icon">%</div>
+            <div class="obs-kpi-card__body">
+              <p class="obs-kpi-card__label">Nome variavel</p>
+              <p class="obs-kpi-card__value">99,9%</p>
+              <p class="obs-kpi-card__source">FONTE: NOME FONTE 2026</p>
+            </div>
+          </article>
+
+          <article class="obs-kpi-card">
+            <div class="obs-kpi-card__icon">#</div>
+            <div class="obs-kpi-card__body">
+              <p class="obs-kpi-card__label">Total observado</p>
+              <p class="obs-kpi-card__value">12.480</p>
+              <p class="obs-kpi-card__source">FONTE: NOME FONTE 2026</p>
+            </div>
+          </article>
+
+          <label class="obs-filter-field">
+            <span class="obs-filter-field__label">Filtro nome</span>
+            <select class="obs-filter-dropdown">
+              <option>Todos</option>
+              <option>Santa Catarina</option>
+              <option>Brasil</option>
+            </select>
+          </label>
+
+          <label class="obs-filter-field">
+            <span class="obs-filter-field__label">Setor</span>
+            <select class="obs-filter-dropdown">
+              <option>Industria</option>
+              <option>Comercio</option>
+              <option>Servicos</option>
+            </select>
+          </label>
+        </div>
+      </section>
+
+      <section class="obs-dashboard-grid-1__main obs-chart-container">
+        <h2 class="obs-chart-container__title">Inserir aqui o nome do grafico completo de ate duas linhas</h2>
+        <div class="obs-filter-row">
+          <select class="obs-filter-dropdown" aria-label="Filtro ano">
+            <option>Ano: 2026</option>
+            <option>Ano: 2025</option>
+            <option>Ano: 2024</option>
+          </select>
+          <select class="obs-filter-dropdown" aria-label="Filtro territorio">
+            <option>Territorio: SC</option>
+            <option>Territorio: BR</option>
+          </select>
+          <select class="obs-filter-dropdown" aria-label="Filtro recorte">
+            <option>Recorte: Geral</option>
+            <option>Recorte: Setorial</option>
+          </select>
+        </div>
+
+        <div class="obs-chart-container__body">
+          <div class="obs-chart-placeholder" aria-label="Area do grafico">
+            <div class="obs-chart-placeholder__axis-y">
+              <span>4000</span>
+              <span>3000</span>
+              <span>2000</span>
+              <span>1000</span>
+              <span>0</span>
+            </div>
+            <div class="obs-chart-placeholder__plot"></div>
+            <div class="obs-chart-placeholder__axis-x">
+              <span>JAN</span>
+              <span>FEB</span>
+              <span>MAR</span>
+              <span>APR</span>
+              <span>MAY</span>
+              <span>JUN</span>
+              <span>JUL</span>
+              <span>AUG</span>
+              <span>SEP</span>
+              <span>OCT</span>
+              <span>NOV</span>
+              <span>DEC</span>
+            </div>
+          </div>
+        </div>
+        <p class="obs-chart-container__source">FONTE: NOME FONTE 2026</p>
+      </section>
+
+      <section class="obs-dashboard-grid-1__right">
+        <article class="obs-panel">
+          <h2 class="obs-panel__title">Distribuicao por regiao</h2>
+          <table class="obs-data-table">
+            <thead>
+              <tr>
+                <th>Regiao</th>
+                <th>Valor</th>
+                <th>Status</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Norte</td>
+                <td>42,1%</td>
+                <td><span class="obs-badge">Badge</span></td>
+              </tr>
+              <tr>
+                <td>Sul</td>
+                <td>38,4%</td>
+                <td><span class="obs-badge">Badge</span></td>
+              </tr>
+              <tr>
+                <td>Leste</td>
+                <td>51,7%</td>
+                <td><span class="obs-badge">Badge</span></td>
+              </tr>
+            </tbody>
+          </table>
+        </article>
+
+        <article class="obs-panel">
+          <h2 class="obs-panel__title">Filtros adicionais</h2>
+          <div class="obs-panel__stack">
+            <label class="obs-filter-field">
+              <span class="obs-filter-field__label">Filtro nome</span>
+              <select class="obs-filter-dropdown">
+                <option>Select</option>
+                <option>Opcao A</option>
+                <option>Opcao B</option>
+              </select>
+            </label>
+            <label class="obs-filter-field">
+              <span class="obs-filter-field__label">Filtro nome</span>
+              <select class="obs-filter-dropdown">
+                <option>Select</option>
+                <option>Opcao A</option>
+                <option>Opcao B</option>
+              </select>
+            </label>
+          </div>
+        </article>
+      </section>
+    </main>
+
+    <script>
+      const sidebarButtons = document.querySelectorAll(".obs-sidebar-button");
+      sidebarButtons.forEach((button) => {
+        button.addEventListener("click", () => {
+          sidebarButtons.forEach((item) => {
+            item.classList.remove("obs-sidebar-button--selected");
+            item.setAttribute("aria-selected", "false");
+          });
+
+          button.classList.add("obs-sidebar-button--selected");
+          button.setAttribute("aria-selected", "true");
+        });
+      });
+
+      const segmentButtons = document.querySelectorAll(".obs-segmented-control__item");
+      segmentButtons.forEach((button) => {
+        button.addEventListener("click", () => {
+          segmentButtons.forEach((item) => {
+            item.classList.remove("obs-segmented-control__item--selected");
+            item.setAttribute("aria-pressed", "false");
+          });
+
+          button.classList.add("obs-segmented-control__item--selected");
+          button.setAttribute("aria-pressed", "true");
+        });
+      });
+    </script>
+  </body>
+</html>

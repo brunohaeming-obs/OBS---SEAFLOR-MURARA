@@ -1,0 +1,19 @@
+===== RUN 04/11/2025  9:31:24,43 ===== 
+[INFO] Using: C:\Users\matheus.manzke\Projetos\dados-comex\.venv\Scripts\python.exe 
+[INFO] Cmd  : C:\Users\matheus.manzke\Projetos\dados-comex\.venv\Scripts\python.exe Scripts\datamarts.py all --sc-file "categorias.txt" --each --ref-year 2025  
+Traceback (most recent call last):
+  File "C:\Users\matheus.manzke\Projetos\dados-comex\Scripts\datamarts.py", line 134, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\matheus.manzke\Projetos\dados-comex\Scripts\datamarts.py", line 83, in main
+    outs.append(build_mart_top_products_report(
+                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        ref_year=args.ref_year, ref_month=args.ref_month, kind=kind))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\matheus.manzke\Projetos\dados-comex\Scripts\datamart_utils.py", line 226, in build_mart_top_products_report
+    print(f"mart \u2714 {out_path}")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\matheus.manzke\AppData\Roaming\uv\python\cpython-3.13.7-windows-x86_64-none\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2714' in position 5: character maps to <undefined>

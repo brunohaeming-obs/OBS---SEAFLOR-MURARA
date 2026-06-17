@@ -1,0 +1,14 @@
+:root {
+  --obs-space-1: 4px;
+  --obs-space-2: 8px;
+  --obs-space-3: 12px;
+  --obs-space-4: 16px;
+  --obs-space-5: 20px;
+  --obs-space-6: 24px;
+  --obs-space-7: 28px;
+  --obs-space-8: 32px;
+  --obs-space-10: 40px;
+  --obs-space-12: 48px;
+  --obs-space-16: 64px;
+  --obs-space-24: 96px;
+}

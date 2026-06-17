@@ -1,0 +1,11925 @@
+/* Container Tabela */
+
+position: relative;
+width: 1051px;
+height: 966px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 1777 */
+
+position: absolute;
+width: 949px;
+height: 876px;
+left: 51px;
+top: 56px;
+
+/* Granito (Container) */
+background: #242736;
+border-radius: 12px;
+
+
+/* Group 2060 */
+
+position: absolute;
+width: 439px;
+height: 104px;
+left: 75px;
+top: 80px;
+
+
+
+/* Rectangle 1778 */
+
+position: absolute;
+width: 439px;
+height: 104px;
+left: 75px;
+top: 80px;
+
+/* Chumbo (Sub-container)
+
+Texto
+*/
+background: #2E303D;
+border-radius: 12px;
+
+
+/* Ellipse 1 */
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 99px;
+top: 108px;
+
+/* Neve */
+background: #BDD6FE;
+
+
+/* icon_attach_file */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 107px;
+top: 116px;
+
+
+
+/* Vector */
+
+position: absolute;
+visibility: hidden;
+left: 25.08%;
+right: 26.36%;
+top: 10.42%;
+bottom: 10.42%;
+
+background: #000000;
+
+
+/* 💼 */
+
+position: absolute;
+left: 8.33%;
+right: 10.42%;
+top: 0%;
+bottom: 3.12%;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 25.3793px;
+line-height: 31px;
+/* idêntico à altura da caixa ou 121% */
+
+color: #000000;
+
+
+
+/* Frame 2060 */
+
+/* Layout automático */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+width: 197px;
+height: 80px;
+left: 159px;
+top: 92px;
+
+
+
+/* Nome variável */
+
+width: 197px;
+height: 26px;
+
+/* B1. Body */
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* idêntico à altura da caixa ou 162% */
+display: flex;
+align-items: center;
+
+/* Branco */
+color: #FFFFFF;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* 99,9% */
+
+width: 197px;
+height: 38px;
+
+/* H3. Título */
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 26px;
+line-height: 38px;
+/* idêntico à altura da caixa ou 146% */
+display: flex;
+align-items: center;
+
+/* Branco */
+color: #FFFFFF;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* FONTE: NOME FONTE 2026 */
+
+width: 197px;
+height: 16px;
+
+/* L2. Legenda */
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 16px;
+/* idêntico à altura da caixa ou 160% */
+display: flex;
+align-items: center;
+
+/* Branco */
+color: #FFFFFF;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Group 2081 */
+
+position: absolute;
+width: 438px;
+height: 104px;
+left: 538px;
+top: 80px;
+
+
+
+/* Rectangle 1778 */
+
+position: absolute;
+width: 438px;
+height: 104px;
+left: 538px;
+top: 80px;
+
+/* Chumbo (Sub-container)
+
+Texto
+*/
+background: #2E303D;
+border-radius: 12px;
+
+
+/* Ellipse 1 */
+
+position: absolute;
+width: 47.89px;
+height: 48px;
+left: 561.95px;
+top: 108px;
+
+/* Neve */
+background: #BDD6FE;
+
+
+/* icon_attach_file */
+
+position: absolute;
+width: 31.93px;
+height: 32px;
+left: 569.93px;
+top: 116px;
+
+
+
+/* Vector */
+
+position: absolute;
+visibility: hidden;
+left: 25.37%;
+right: 25.97%;
+top: 10.42%;
+bottom: 10.42%;
+
+background: #000000;
+
+
+/* 💼 */
+
+position: absolute;
+left: 8.58%;
+right: 9.98%;
+top: 0%;
+bottom: 3.12%;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 25.3793px;
+line-height: 31px;
+/* idêntico à altura da caixa ou 121% */
+
+color: #000000;
+
+
+
+/* Frame 2060 */
+
+/* Layout automático */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+width: 196.55px;
+height: 80px;
+left: 621.81px;
+top: 92px;
+
+
+
+/* Nome variável */
+
+width: 196.55px;
+height: 26px;
+
+/* B1. Body */
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* idêntico à altura da caixa ou 162% */
+display: flex;
+align-items: center;
+
+/* Branco */
+color: #FFFFFF;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* 99,9% */
+
+width: 196.55px;
+height: 38px;
+
+/* H3. Título */
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 26px;
+line-height: 38px;
+/* idêntico à altura da caixa ou 146% */
+display: flex;
+align-items: center;
+
+/* Branco */
+color: #FFFFFF;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* FONTE: NOME FONTE 2026 */
+
+width: 196.55px;
+height: 16px;
+
+/* L2. Legenda */
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 16px;
+/* idêntico à altura da caixa ou 160% */
+display: flex;
+align-items: center;
+
+/* Branco */
+color: #FFFFFF;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Table Templates • Slate Dark Rows */
+
+/* Layout automático */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+width: 901px;
+height: 688px;
+left: 75px;
+top: 200px;
+
+background: #FFFFFF;
+border-radius: 12px;
+
+
+/* Header Row */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+width: 901px;
+height: 48px;
+
+/* Chumbo (Sub-container)
+
+Texto
+*/
+background: #2E303D;
+/* Nanquim (Fundo) */
+border-bottom: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Header: Boolean */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 64px;
+height: 44px;
+
+/* Nanquim (Fundo) */
+background: #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Checkbox */
+
+box-sizing: border-box;
+
+width: 16px;
+height: 16px;
+
+/* Neve */
+border: 1.5px solid #BDD6FE;
+border-radius: 4px;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Header: Text */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 200px;
+height: 44px;
+
+background: #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Header Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 152px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Text */
+
+width: 152px;
+height: 26px;
+
+/* B2. Body */
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 26px;
+/* idêntico à altura da caixa ou 186% */
+display: flex;
+align-items: center;
+
+color: #FAFAFA;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Control Container */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px 0px 0px 8px;
+
+width: 24px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* sort */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 70.83%;
+top: 66.67%;
+bottom: 16.67%;
+
+border: 1.33333px solid #A1A1AA;
+
+
+/* Vector */
+
+position: absolute;
+left: 29.17%;
+right: 54.17%;
+top: 66.67%;
+bottom: 16.67%;
+
+border: 1.33333px solid #A1A1AA;
+
+
+/* Vector */
+
+position: absolute;
+left: 29.17%;
+right: 70.83%;
+top: 16.67%;
+bottom: 16.67%;
+
+border: 1.33333px solid #A1A1AA;
+
+
+/* Vector */
+
+position: absolute;
+left: 70.83%;
+right: 12.5%;
+top: 16.67%;
+bottom: 66.67%;
+
+border: 1.33333px solid #A1A1AA;
+
+
+/* Vector */
+
+position: absolute;
+left: 54.17%;
+right: 29.17%;
+top: 16.67%;
+bottom: 66.67%;
+
+border: 1.33333px solid #A1A1AA;
+
+
+/* Vector */
+
+position: absolute;
+left: 70.83%;
+right: 29.17%;
+top: 16.67%;
+bottom: 16.67%;
+
+border: 1.33333px solid #A1A1AA;
+
+
+/* Header: Number */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 183px;
+height: 44px;
+
+/* Nanquim (Fundo) */
+background: #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Header Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 135px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Number */
+
+width: 135px;
+height: 26px;
+
+/* B2. Body */
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 26px;
+/* idêntico à altura da caixa ou 186% */
+display: flex;
+align-items: center;
+
+color: #FAFAFA;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Control Container */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px 0px 0px 8px;
+
+width: 24px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* sort */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 70.83%;
+top: 66.67%;
+bottom: 16.67%;
+
+border: 1.33333px solid #A1A1AA;
+
+
+/* Vector */
+
+position: absolute;
+left: 29.17%;
+right: 54.17%;
+top: 66.67%;
+bottom: 16.67%;
+
+border: 1.33333px solid #A1A1AA;
+
+
+/* Vector */
+
+position: absolute;
+left: 29.17%;
+right: 70.83%;
+top: 16.67%;
+bottom: 16.67%;
+
+border: 1.33333px solid #A1A1AA;
+
+
+/* Vector */
+
+position: absolute;
+left: 70.83%;
+right: 12.5%;
+top: 16.67%;
+bottom: 66.67%;
+
+border: 1.33333px solid #A1A1AA;
+
+
+/* Vector */
+
+position: absolute;
+left: 54.17%;
+right: 29.17%;
+top: 16.67%;
+bottom: 66.67%;
+
+border: 1.33333px solid #A1A1AA;
+
+
+/* Vector */
+
+position: absolute;
+left: 70.83%;
+right: 29.17%;
+top: 16.67%;
+bottom: 16.67%;
+
+border: 1.33333px solid #A1A1AA;
+
+
+/* Header: User */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 220px;
+height: 44px;
+
+/* Nanquim (Fundo) */
+background: #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Header Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 172px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* User */
+
+width: 172px;
+height: 26px;
+
+/* B2. Body */
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 26px;
+/* idêntico à altura da caixa ou 186% */
+display: flex;
+align-items: center;
+
+color: #FAFAFA;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Control Container */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px 0px 0px 8px;
+
+width: 24px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* sort */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 70.83%;
+top: 66.67%;
+bottom: 16.67%;
+
+border: 1.33333px solid #A1A1AA;
+
+
+/* Vector */
+
+position: absolute;
+left: 29.17%;
+right: 54.17%;
+top: 66.67%;
+bottom: 16.67%;
+
+border: 1.33333px solid #A1A1AA;
+
+
+/* Vector */
+
+position: absolute;
+left: 29.17%;
+right: 70.83%;
+top: 16.67%;
+bottom: 16.67%;
+
+border: 1.33333px solid #A1A1AA;
+
+
+/* Vector */
+
+position: absolute;
+left: 70.83%;
+right: 12.5%;
+top: 16.67%;
+bottom: 66.67%;
+
+border: 1.33333px solid #A1A1AA;
+
+
+/* Vector */
+
+position: absolute;
+left: 54.17%;
+right: 29.17%;
+top: 16.67%;
+bottom: 66.67%;
+
+border: 1.33333px solid #A1A1AA;
+
+
+/* Vector */
+
+position: absolute;
+left: 70.83%;
+right: 29.17%;
+top: 16.67%;
+bottom: 16.67%;
+
+border: 1.33333px solid #A1A1AA;
+
+
+/* Header: Label */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 134px;
+height: 44px;
+
+/* Nanquim (Fundo) */
+background: #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Header Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 86px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Label */
+
+width: 86px;
+height: 26px;
+
+/* B2. Body */
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 26px;
+/* idêntico à altura da caixa ou 186% */
+display: flex;
+align-items: center;
+
+color: #FAFAFA;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Control Container */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px 0px 0px 8px;
+
+width: 24px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* sort */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 70.83%;
+top: 66.67%;
+bottom: 16.67%;
+
+border: 1.33333px solid #A1A1AA;
+
+
+/* Vector */
+
+position: absolute;
+left: 29.17%;
+right: 54.17%;
+top: 66.67%;
+bottom: 16.67%;
+
+border: 1.33333px solid #A1A1AA;
+
+
+/* Vector */
+
+position: absolute;
+left: 29.17%;
+right: 70.83%;
+top: 16.67%;
+bottom: 16.67%;
+
+border: 1.33333px solid #A1A1AA;
+
+
+/* Vector */
+
+position: absolute;
+left: 70.83%;
+right: 12.5%;
+top: 16.67%;
+bottom: 66.67%;
+
+border: 1.33333px solid #A1A1AA;
+
+
+/* Vector */
+
+position: absolute;
+left: 54.17%;
+right: 29.17%;
+top: 16.67%;
+bottom: 66.67%;
+
+border: 1.33333px solid #A1A1AA;
+
+
+/* Vector */
+
+position: absolute;
+left: 70.83%;
+right: 29.17%;
+top: 16.67%;
+bottom: 16.67%;
+
+border: 1.33333px solid #A1A1AA;
+
+
+/* Header: Action */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 100px;
+height: 44px;
+
+/* Nanquim (Fundo) */
+background: #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 5;
+flex-grow: 0;
+
+
+/* Header Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 52px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Action */
+
+width: 52px;
+height: 26px;
+
+/* B2. Body */
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 26px;
+/* idêntico à altura da caixa ou 186% */
+display: flex;
+align-items: center;
+
+color: #FAFAFA;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Control Container */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px 0px 0px 8px;
+
+width: 24px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* sort */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 70.83%;
+top: 66.67%;
+bottom: 16.67%;
+
+border: 1.33333px solid #A1A1AA;
+
+
+/* Vector */
+
+position: absolute;
+left: 29.17%;
+right: 54.17%;
+top: 66.67%;
+bottom: 16.67%;
+
+border: 1.33333px solid #A1A1AA;
+
+
+/* Vector */
+
+position: absolute;
+left: 29.17%;
+right: 70.83%;
+top: 16.67%;
+bottom: 16.67%;
+
+border: 1.33333px solid #A1A1AA;
+
+
+/* Vector */
+
+position: absolute;
+left: 70.83%;
+right: 12.5%;
+top: 16.67%;
+bottom: 66.67%;
+
+border: 1.33333px solid #A1A1AA;
+
+
+/* Vector */
+
+position: absolute;
+left: 54.17%;
+right: 29.17%;
+top: 16.67%;
+bottom: 66.67%;
+
+border: 1.33333px solid #A1A1AA;
+
+
+/* Vector */
+
+position: absolute;
+left: 70.83%;
+right: 29.17%;
+top: 16.67%;
+bottom: 16.67%;
+
+border: 1.33333px solid #A1A1AA;
+
+
+/* Row 1 */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 901px;
+height: 40px;
+
+/* Granito (Container) */
+background: #242736;
+/* Nanquim (Fundo) */
+border-bottom: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Cell: Boolean */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 64px;
+height: 44px;
+
+/* Granito (Container) */
+background: #242736;
+/* Nanquim (Fundo) */
+border-right: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 40px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Checkbox */
+
+box-sizing: border-box;
+
+width: 16px;
+height: 16px;
+
+/* Neve */
+border: 1.5px solid #BDD6FE;
+border-radius: 4px;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Cell: Text */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 200px;
+height: 44px;
+
+/* Granito (Container) */
+background: #242736;
+/* Nanquim (Fundo) */
+border-right: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 176px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Sample text */
+
+width: 176px;
+height: 44px;
+
+/* L1. Legenda */
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* ou 133% */
+display: flex;
+align-items: center;
+
+color: #FAFAFA;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Cell: Number */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 183px;
+height: 44px;
+
+/* Granito (Container) */
+background: #242736;
+/* Nanquim (Fundo) */
+border-right: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 159px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* 0 */
+
+width: 159px;
+height: 44px;
+
+/* L1. Legenda */
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* ou 133% */
+display: flex;
+align-items: center;
+
+color: #FAFAFA;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Cell: User */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 220px;
+height: 44px;
+
+/* Granito (Container) */
+background: #242736;
+/* Nanquim (Fundo) */
+border-right: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 196px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Michael Scott */
+
+width: 196px;
+height: 44px;
+
+/* L1. Legenda */
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* ou 133% */
+display: flex;
+align-items: center;
+
+color: #FAFAFA;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Cell: Label */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 134px;
+height: 44px;
+
+/* Granito (Container) */
+background: #242736;
+/* Nanquim (Fundo) */
+border-right: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 110px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Labels Container */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 4px;
+
+width: 110px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Badge & Chip */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 6px 8px;
+
+width: 95px;
+height: 24px;
+
+/* Azul OBS */
+background: #4285F4;
+border-radius: 8px;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* star */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 12.5%;
+right: -37.5%;
+top: 15.62%;
+bottom: -34.38%;
+
+border: 1.5px solid #FFFFFF;
+
+
+/* Text */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 8px;
+
+width: 47px;
+height: 12px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Badge */
+
+width: 31px;
+height: 12px;
+
+/* Button Font/Tiny */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 10px;
+line-height: 12px;
+/* idêntico à altura da caixa ou 120% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* cancel */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 9.47%;
+right: -2.15%;
+top: 9.47%;
+bottom: -2.14%;
+
+border: 1.5px solid #FFFFFF;
+transform: rotate(-45deg);
+
+
+/* Cell: Action */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 100px;
+height: 44px;
+
+/* Granito (Container) */
+background: #242736;
+
+/* Auto layout por dentro */
+flex: none;
+order: 5;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 76px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* edit */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 32.69%;
+right: 8.33%;
+top: 8.33%;
+bottom: 33.26%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* trash */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 25%;
+bottom: 75%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 20.83%;
+right: 20.83%;
+top: 25%;
+bottom: 8.33%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 33.33%;
+right: 33.33%;
+top: 8.33%;
+bottom: 75%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 41.67%;
+right: 58.33%;
+top: 45.83%;
+bottom: 29.17%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 58.33%;
+right: 41.67%;
+top: 45.83%;
+bottom: 29.17%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* more */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 45.83%;
+top: 45.83%;
+bottom: 45.83%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 45.83%;
+top: 16.67%;
+bottom: 75%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 45.83%;
+top: 75%;
+bottom: 16.67%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Row 2 */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 901px;
+height: 40px;
+
+/* Nanquim (Fundo) */
+background: #1E1E29;
+/* Nanquim (Fundo) */
+border-bottom: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Cell: Boolean */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 64px;
+height: 44px;
+
+/* Nanquim (Fundo) */
+background: #1E1E29;
+/* Nanquim (Fundo) */
+border-right: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 40px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Checkbox */
+
+box-sizing: border-box;
+
+width: 16px;
+height: 16px;
+
+/* Neve */
+border: 1.5px solid #BDD6FE;
+border-radius: 4px;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Cell: Text */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 200px;
+height: 44px;
+
+/* Nanquim (Fundo) */
+background: #1E1E29;
+/* Nanquim (Fundo) */
+border-right: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 176px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Sample text */
+
+width: 176px;
+height: 44px;
+
+/* L1. Legenda */
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* ou 133% */
+display: flex;
+align-items: center;
+
+color: #FAFAFA;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Cell: Number */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 183px;
+height: 44px;
+
+/* Nanquim (Fundo) */
+background: #1E1E29;
+/* Nanquim (Fundo) */
+border-right: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 159px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* 0 */
+
+width: 159px;
+height: 44px;
+
+/* L1. Legenda */
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* ou 133% */
+display: flex;
+align-items: center;
+
+color: #FAFAFA;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Cell: User */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 220px;
+height: 44px;
+
+/* Nanquim (Fundo) */
+background: #1E1E29;
+/* Nanquim (Fundo) */
+border-right: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 196px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Michael Scott */
+
+width: 196px;
+height: 44px;
+
+/* L1. Legenda */
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* ou 133% */
+display: flex;
+align-items: center;
+
+color: #FAFAFA;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Cell: Label */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 134px;
+height: 44px;
+
+/* Nanquim (Fundo) */
+background: #1E1E29;
+/* Nanquim (Fundo) */
+border-right: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 110px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Labels Container */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 4px;
+
+width: 110px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Badge & Chip */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 6px 8px;
+
+width: 95px;
+height: 24px;
+
+/* Azul OBS */
+background: #4285F4;
+border-radius: 8px;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* star */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 12.5%;
+right: -37.5%;
+top: 15.62%;
+bottom: -34.38%;
+
+border: 1.5px solid #FFFFFF;
+
+
+/* Text */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 8px;
+
+width: 47px;
+height: 12px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Badge */
+
+width: 31px;
+height: 12px;
+
+/* Button Font/Tiny */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 10px;
+line-height: 12px;
+/* idêntico à altura da caixa ou 120% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* cancel */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 9.47%;
+right: -2.15%;
+top: 9.47%;
+bottom: -2.14%;
+
+border: 1.5px solid #FFFFFF;
+transform: rotate(-45deg);
+
+
+/* Cell: Action */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 100px;
+height: 44px;
+
+/* Nanquim (Fundo) */
+background: #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 5;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 76px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* edit */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 32.69%;
+right: 8.33%;
+top: 8.33%;
+bottom: 33.26%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* trash */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 25%;
+bottom: 75%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 20.83%;
+right: 20.83%;
+top: 25%;
+bottom: 8.33%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 33.33%;
+right: 33.33%;
+top: 8.33%;
+bottom: 75%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 41.67%;
+right: 58.33%;
+top: 45.83%;
+bottom: 29.17%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 58.33%;
+right: 41.67%;
+top: 45.83%;
+bottom: 29.17%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* more */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 45.83%;
+top: 45.83%;
+bottom: 45.83%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 45.83%;
+top: 16.67%;
+bottom: 75%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 45.83%;
+top: 75%;
+bottom: 16.67%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Row 3 */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 901px;
+height: 40px;
+
+/* Granito (Container) */
+background: #242736;
+/* Nanquim (Fundo) */
+border-bottom: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Cell: Boolean */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 64px;
+height: 44px;
+
+/* Granito (Container) */
+background: #242736;
+/* Nanquim (Fundo) */
+border-right: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 40px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Checkbox */
+
+box-sizing: border-box;
+
+width: 16px;
+height: 16px;
+
+/* Neve */
+border: 1.5px solid #BDD6FE;
+border-radius: 4px;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Cell: Text */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 200px;
+height: 44px;
+
+/* Granito (Container) */
+background: #242736;
+/* Nanquim (Fundo) */
+border-right: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 176px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Sample text */
+
+width: 176px;
+height: 44px;
+
+/* L1. Legenda */
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* ou 133% */
+display: flex;
+align-items: center;
+
+color: #FAFAFA;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Cell: Number */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 183px;
+height: 44px;
+
+/* Granito (Container) */
+background: #242736;
+/* Nanquim (Fundo) */
+border-right: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 159px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* 0 */
+
+width: 159px;
+height: 44px;
+
+/* L1. Legenda */
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* ou 133% */
+display: flex;
+align-items: center;
+
+color: #FAFAFA;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Cell: User */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 220px;
+height: 44px;
+
+/* Granito (Container) */
+background: #242736;
+/* Nanquim (Fundo) */
+border-right: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 196px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Michael Scott */
+
+width: 196px;
+height: 44px;
+
+/* L1. Legenda */
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* ou 133% */
+display: flex;
+align-items: center;
+
+color: #FAFAFA;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Cell: Label */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 134px;
+height: 44px;
+
+/* Granito (Container) */
+background: #242736;
+/* Nanquim (Fundo) */
+border-right: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 110px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Labels Container */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 4px;
+
+width: 110px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Badge & Chip */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 6px 8px;
+
+width: 95px;
+height: 24px;
+
+/* Azul OBS */
+background: #4285F4;
+border-radius: 8px;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* star */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 12.5%;
+right: -37.5%;
+top: 15.62%;
+bottom: -34.38%;
+
+border: 1.5px solid #FFFFFF;
+
+
+/* Text */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 8px;
+
+width: 47px;
+height: 12px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Badge */
+
+width: 31px;
+height: 12px;
+
+/* Button Font/Tiny */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 10px;
+line-height: 12px;
+/* idêntico à altura da caixa ou 120% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* cancel */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 9.47%;
+right: -2.15%;
+top: 9.47%;
+bottom: -2.14%;
+
+border: 1.5px solid #FFFFFF;
+transform: rotate(-45deg);
+
+
+/* Cell: Action */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 100px;
+height: 44px;
+
+/* Granito (Container) */
+background: #242736;
+
+/* Auto layout por dentro */
+flex: none;
+order: 5;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 76px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* edit */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 32.69%;
+right: 8.33%;
+top: 8.33%;
+bottom: 33.26%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* trash */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 25%;
+bottom: 75%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 20.83%;
+right: 20.83%;
+top: 25%;
+bottom: 8.33%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 33.33%;
+right: 33.33%;
+top: 8.33%;
+bottom: 75%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 41.67%;
+right: 58.33%;
+top: 45.83%;
+bottom: 29.17%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 58.33%;
+right: 41.67%;
+top: 45.83%;
+bottom: 29.17%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* more */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 45.83%;
+top: 45.83%;
+bottom: 45.83%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 45.83%;
+top: 16.67%;
+bottom: 75%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 45.83%;
+top: 75%;
+bottom: 16.67%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Row 4 */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 901px;
+height: 40px;
+
+/* Nanquim (Fundo) */
+background: #1E1E29;
+/* Nanquim (Fundo) */
+border-bottom: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Cell: Boolean */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 64px;
+height: 44px;
+
+/* Nanquim (Fundo) */
+background: #1E1E29;
+/* Nanquim (Fundo) */
+border-right: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 40px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Checkbox */
+
+box-sizing: border-box;
+
+width: 16px;
+height: 16px;
+
+/* Neve */
+border: 1.5px solid #BDD6FE;
+border-radius: 4px;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Cell: Text */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 200px;
+height: 44px;
+
+/* Nanquim (Fundo) */
+background: #1E1E29;
+/* Nanquim (Fundo) */
+border-right: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 176px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Sample text */
+
+width: 176px;
+height: 44px;
+
+/* L1. Legenda */
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* ou 133% */
+display: flex;
+align-items: center;
+
+color: #FAFAFA;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Cell: Number */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 183px;
+height: 44px;
+
+/* Nanquim (Fundo) */
+background: #1E1E29;
+/* Nanquim (Fundo) */
+border-right: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 159px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* 0 */
+
+width: 159px;
+height: 44px;
+
+/* L1. Legenda */
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* ou 133% */
+display: flex;
+align-items: center;
+
+color: #FAFAFA;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Cell: User */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 220px;
+height: 44px;
+
+/* Nanquim (Fundo) */
+background: #1E1E29;
+/* Nanquim (Fundo) */
+border-right: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 196px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Michael Scott */
+
+width: 196px;
+height: 44px;
+
+/* L1. Legenda */
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* ou 133% */
+display: flex;
+align-items: center;
+
+color: #FAFAFA;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Cell: Label */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 134px;
+height: 44px;
+
+/* Nanquim (Fundo) */
+background: #1E1E29;
+/* Nanquim (Fundo) */
+border-right: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 110px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Labels Container */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 4px;
+
+width: 110px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Badge & Chip */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 6px 8px;
+
+width: 95px;
+height: 24px;
+
+/* Azul OBS */
+background: #4285F4;
+border-radius: 8px;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* star */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 12.5%;
+right: -37.5%;
+top: 15.62%;
+bottom: -34.38%;
+
+border: 1.5px solid #FFFFFF;
+
+
+/* Text */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 8px;
+
+width: 47px;
+height: 12px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Badge */
+
+width: 31px;
+height: 12px;
+
+/* Button Font/Tiny */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 10px;
+line-height: 12px;
+/* idêntico à altura da caixa ou 120% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* cancel */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 9.47%;
+right: -2.15%;
+top: 9.47%;
+bottom: -2.14%;
+
+border: 1.5px solid #FFFFFF;
+transform: rotate(-45deg);
+
+
+/* Cell: Action */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 100px;
+height: 44px;
+
+/* Nanquim (Fundo) */
+background: #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 5;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 76px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* edit */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 32.69%;
+right: 8.33%;
+top: 8.33%;
+bottom: 33.26%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* trash */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 25%;
+bottom: 75%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 20.83%;
+right: 20.83%;
+top: 25%;
+bottom: 8.33%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 33.33%;
+right: 33.33%;
+top: 8.33%;
+bottom: 75%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 41.67%;
+right: 58.33%;
+top: 45.83%;
+bottom: 29.17%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 58.33%;
+right: 41.67%;
+top: 45.83%;
+bottom: 29.17%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* more */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 45.83%;
+top: 45.83%;
+bottom: 45.83%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 45.83%;
+top: 16.67%;
+bottom: 75%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 45.83%;
+top: 75%;
+bottom: 16.67%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Row 5 */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 901px;
+height: 40px;
+
+/* Granito (Container) */
+background: #242736;
+/* Nanquim (Fundo) */
+border-bottom: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 5;
+flex-grow: 0;
+
+
+/* Cell: Boolean */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 64px;
+height: 44px;
+
+/* Granito (Container) */
+background: #242736;
+/* Nanquim (Fundo) */
+border-right: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 40px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Checkbox */
+
+box-sizing: border-box;
+
+width: 16px;
+height: 16px;
+
+/* Neve */
+border: 1.5px solid #BDD6FE;
+border-radius: 4px;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Cell: Text */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 200px;
+height: 44px;
+
+/* Granito (Container) */
+background: #242736;
+/* Nanquim (Fundo) */
+border-right: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 176px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Sample text */
+
+width: 176px;
+height: 44px;
+
+/* L1. Legenda */
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* ou 133% */
+display: flex;
+align-items: center;
+
+color: #FAFAFA;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Cell: Number */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 183px;
+height: 44px;
+
+/* Granito (Container) */
+background: #242736;
+/* Nanquim (Fundo) */
+border-right: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 159px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* 0 */
+
+width: 159px;
+height: 44px;
+
+/* L1. Legenda */
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* ou 133% */
+display: flex;
+align-items: center;
+
+color: #FAFAFA;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Cell: User */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 220px;
+height: 44px;
+
+/* Granito (Container) */
+background: #242736;
+/* Nanquim (Fundo) */
+border-right: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 196px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Michael Scott */
+
+width: 196px;
+height: 44px;
+
+/* L1. Legenda */
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* ou 133% */
+display: flex;
+align-items: center;
+
+color: #FAFAFA;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Cell: Label */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 134px;
+height: 44px;
+
+/* Granito (Container) */
+background: #242736;
+/* Nanquim (Fundo) */
+border-right: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 110px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Labels Container */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 4px;
+
+width: 110px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Badge & Chip */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 6px 8px;
+
+width: 95px;
+height: 24px;
+
+/* Azul OBS */
+background: #4285F4;
+border-radius: 8px;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* star */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 12.5%;
+right: -37.5%;
+top: 15.62%;
+bottom: -34.38%;
+
+border: 1.5px solid #FFFFFF;
+
+
+/* Text */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 8px;
+
+width: 47px;
+height: 12px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Badge */
+
+width: 31px;
+height: 12px;
+
+/* Button Font/Tiny */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 10px;
+line-height: 12px;
+/* idêntico à altura da caixa ou 120% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* cancel */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 9.47%;
+right: -2.15%;
+top: 9.47%;
+bottom: -2.14%;
+
+border: 1.5px solid #FFFFFF;
+transform: rotate(-45deg);
+
+
+/* Cell: Action */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 100px;
+height: 44px;
+
+/* Granito (Container) */
+background: #242736;
+
+/* Auto layout por dentro */
+flex: none;
+order: 5;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 76px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* edit */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 32.69%;
+right: 8.33%;
+top: 8.33%;
+bottom: 33.26%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* trash */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 25%;
+bottom: 75%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 20.83%;
+right: 20.83%;
+top: 25%;
+bottom: 8.33%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 33.33%;
+right: 33.33%;
+top: 8.33%;
+bottom: 75%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 41.67%;
+right: 58.33%;
+top: 45.83%;
+bottom: 29.17%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 58.33%;
+right: 41.67%;
+top: 45.83%;
+bottom: 29.17%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* more */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 45.83%;
+top: 45.83%;
+bottom: 45.83%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 45.83%;
+top: 16.67%;
+bottom: 75%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 45.83%;
+top: 75%;
+bottom: 16.67%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Row 6 */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 901px;
+height: 40px;
+
+/* Nanquim (Fundo) */
+background: #1E1E29;
+/* Nanquim (Fundo) */
+border-bottom: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 6;
+flex-grow: 0;
+
+
+/* Cell: Boolean */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 64px;
+height: 44px;
+
+/* Nanquim (Fundo) */
+background: #1E1E29;
+/* Nanquim (Fundo) */
+border-right: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 40px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Checkbox */
+
+box-sizing: border-box;
+
+width: 16px;
+height: 16px;
+
+/* Neve */
+border: 1.5px solid #BDD6FE;
+border-radius: 4px;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Cell: Text */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 200px;
+height: 44px;
+
+/* Nanquim (Fundo) */
+background: #1E1E29;
+/* Nanquim (Fundo) */
+border-right: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 176px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Sample text */
+
+width: 176px;
+height: 44px;
+
+/* L1. Legenda */
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* ou 133% */
+display: flex;
+align-items: center;
+
+color: #FAFAFA;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Cell: Number */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 183px;
+height: 44px;
+
+/* Nanquim (Fundo) */
+background: #1E1E29;
+/* Nanquim (Fundo) */
+border-right: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 159px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* 0 */
+
+width: 159px;
+height: 44px;
+
+/* L1. Legenda */
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* ou 133% */
+display: flex;
+align-items: center;
+
+color: #FAFAFA;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Cell: User */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 220px;
+height: 44px;
+
+/* Nanquim (Fundo) */
+background: #1E1E29;
+/* Nanquim (Fundo) */
+border-right: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 196px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Michael Scott */
+
+width: 196px;
+height: 44px;
+
+/* L1. Legenda */
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* ou 133% */
+display: flex;
+align-items: center;
+
+color: #FAFAFA;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Cell: Label */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 134px;
+height: 44px;
+
+/* Nanquim (Fundo) */
+background: #1E1E29;
+/* Nanquim (Fundo) */
+border-right: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 110px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Labels Container */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 4px;
+
+width: 110px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Badge & Chip */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 6px 8px;
+
+width: 95px;
+height: 24px;
+
+/* Azul OBS */
+background: #4285F4;
+border-radius: 8px;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* star */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 12.5%;
+right: -37.5%;
+top: 15.62%;
+bottom: -34.38%;
+
+border: 1.5px solid #FFFFFF;
+
+
+/* Text */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 8px;
+
+width: 47px;
+height: 12px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Badge */
+
+width: 31px;
+height: 12px;
+
+/* Button Font/Tiny */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 10px;
+line-height: 12px;
+/* idêntico à altura da caixa ou 120% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* cancel */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 9.47%;
+right: -2.15%;
+top: 9.47%;
+bottom: -2.14%;
+
+border: 1.5px solid #FFFFFF;
+transform: rotate(-45deg);
+
+
+/* Cell: Action */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 100px;
+height: 44px;
+
+/* Nanquim (Fundo) */
+background: #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 5;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 76px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* edit */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 32.69%;
+right: 8.33%;
+top: 8.33%;
+bottom: 33.26%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* trash */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 25%;
+bottom: 75%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 20.83%;
+right: 20.83%;
+top: 25%;
+bottom: 8.33%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 33.33%;
+right: 33.33%;
+top: 8.33%;
+bottom: 75%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 41.67%;
+right: 58.33%;
+top: 45.83%;
+bottom: 29.17%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 58.33%;
+right: 41.67%;
+top: 45.83%;
+bottom: 29.17%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* more */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 45.83%;
+top: 45.83%;
+bottom: 45.83%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 45.83%;
+top: 16.67%;
+bottom: 75%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 45.83%;
+top: 75%;
+bottom: 16.67%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Row 7 */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 901px;
+height: 40px;
+
+/* Granito (Container) */
+background: #242736;
+/* Nanquim (Fundo) */
+border-bottom: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 7;
+flex-grow: 0;
+
+
+/* Cell: Boolean */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 64px;
+height: 44px;
+
+/* Granito (Container) */
+background: #242736;
+/* Nanquim (Fundo) */
+border-right: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 40px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Checkbox */
+
+box-sizing: border-box;
+
+width: 16px;
+height: 16px;
+
+/* Neve */
+border: 1.5px solid #BDD6FE;
+border-radius: 4px;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Cell: Text */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 200px;
+height: 44px;
+
+/* Granito (Container) */
+background: #242736;
+/* Nanquim (Fundo) */
+border-right: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 176px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Sample text */
+
+width: 176px;
+height: 44px;
+
+/* L1. Legenda */
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* ou 133% */
+display: flex;
+align-items: center;
+
+color: #FAFAFA;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Cell: Number */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 183px;
+height: 44px;
+
+/* Granito (Container) */
+background: #242736;
+/* Nanquim (Fundo) */
+border-right: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 159px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* 0 */
+
+width: 159px;
+height: 44px;
+
+/* L1. Legenda */
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* ou 133% */
+display: flex;
+align-items: center;
+
+color: #FAFAFA;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Cell: User */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 220px;
+height: 44px;
+
+/* Granito (Container) */
+background: #242736;
+/* Nanquim (Fundo) */
+border-right: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 196px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Michael Scott */
+
+width: 196px;
+height: 44px;
+
+/* L1. Legenda */
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* ou 133% */
+display: flex;
+align-items: center;
+
+color: #FAFAFA;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Cell: Label */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 134px;
+height: 44px;
+
+/* Granito (Container) */
+background: #242736;
+/* Nanquim (Fundo) */
+border-right: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 110px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Labels Container */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 4px;
+
+width: 110px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Badge & Chip */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 6px 8px;
+
+width: 95px;
+height: 24px;
+
+/* Azul OBS */
+background: #4285F4;
+border-radius: 8px;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* star */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 12.5%;
+right: -37.5%;
+top: 15.62%;
+bottom: -34.38%;
+
+border: 1.5px solid #FFFFFF;
+
+
+/* Text */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 8px;
+
+width: 47px;
+height: 12px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Badge */
+
+width: 31px;
+height: 12px;
+
+/* Button Font/Tiny */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 10px;
+line-height: 12px;
+/* idêntico à altura da caixa ou 120% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* cancel */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 9.47%;
+right: -2.15%;
+top: 9.47%;
+bottom: -2.14%;
+
+border: 1.5px solid #FFFFFF;
+transform: rotate(-45deg);
+
+
+/* Cell: Action */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 100px;
+height: 44px;
+
+/* Granito (Container) */
+background: #242736;
+
+/* Auto layout por dentro */
+flex: none;
+order: 5;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 76px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* edit */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 32.69%;
+right: 8.33%;
+top: 8.33%;
+bottom: 33.26%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* trash */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 25%;
+bottom: 75%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 20.83%;
+right: 20.83%;
+top: 25%;
+bottom: 8.33%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 33.33%;
+right: 33.33%;
+top: 8.33%;
+bottom: 75%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 41.67%;
+right: 58.33%;
+top: 45.83%;
+bottom: 29.17%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 58.33%;
+right: 41.67%;
+top: 45.83%;
+bottom: 29.17%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* more */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 45.83%;
+top: 45.83%;
+bottom: 45.83%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 45.83%;
+top: 16.67%;
+bottom: 75%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 45.83%;
+top: 75%;
+bottom: 16.67%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Row 8 */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 901px;
+height: 40px;
+
+/* Nanquim (Fundo) */
+background: #1E1E29;
+/* Nanquim (Fundo) */
+border-bottom: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 8;
+flex-grow: 0;
+
+
+/* Cell: Boolean */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 64px;
+height: 44px;
+
+/* Nanquim (Fundo) */
+background: #1E1E29;
+/* Nanquim (Fundo) */
+border-right: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 40px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Checkbox */
+
+box-sizing: border-box;
+
+width: 16px;
+height: 16px;
+
+/* Neve */
+border: 1.5px solid #BDD6FE;
+border-radius: 4px;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Cell: Text */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 200px;
+height: 44px;
+
+/* Nanquim (Fundo) */
+background: #1E1E29;
+/* Nanquim (Fundo) */
+border-right: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 176px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Sample text */
+
+width: 176px;
+height: 44px;
+
+/* L1. Legenda */
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* ou 133% */
+display: flex;
+align-items: center;
+
+color: #FAFAFA;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Cell: Number */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 183px;
+height: 44px;
+
+/* Nanquim (Fundo) */
+background: #1E1E29;
+/* Nanquim (Fundo) */
+border-right: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 159px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* 0 */
+
+width: 159px;
+height: 44px;
+
+/* L1. Legenda */
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* ou 133% */
+display: flex;
+align-items: center;
+
+color: #FAFAFA;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Cell: User */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 220px;
+height: 44px;
+
+/* Nanquim (Fundo) */
+background: #1E1E29;
+/* Nanquim (Fundo) */
+border-right: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 196px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Michael Scott */
+
+width: 196px;
+height: 44px;
+
+/* L1. Legenda */
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* ou 133% */
+display: flex;
+align-items: center;
+
+color: #FAFAFA;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Cell: Label */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 134px;
+height: 44px;
+
+/* Nanquim (Fundo) */
+background: #1E1E29;
+/* Nanquim (Fundo) */
+border-right: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 110px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Labels Container */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 4px;
+
+width: 110px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Badge & Chip */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 6px 8px;
+
+width: 95px;
+height: 24px;
+
+/* Azul OBS */
+background: #4285F4;
+border-radius: 8px;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* star */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 12.5%;
+right: -37.5%;
+top: 15.62%;
+bottom: -34.38%;
+
+border: 1.5px solid #FFFFFF;
+
+
+/* Text */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 8px;
+
+width: 47px;
+height: 12px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Badge */
+
+width: 31px;
+height: 12px;
+
+/* Button Font/Tiny */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 10px;
+line-height: 12px;
+/* idêntico à altura da caixa ou 120% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* cancel */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 9.47%;
+right: -2.15%;
+top: 9.47%;
+bottom: -2.14%;
+
+border: 1.5px solid #FFFFFF;
+transform: rotate(-45deg);
+
+
+/* Cell: Action */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 100px;
+height: 44px;
+
+/* Nanquim (Fundo) */
+background: #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 5;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 76px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* edit */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 32.69%;
+right: 8.33%;
+top: 8.33%;
+bottom: 33.26%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* trash */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 25%;
+bottom: 75%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 20.83%;
+right: 20.83%;
+top: 25%;
+bottom: 8.33%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 33.33%;
+right: 33.33%;
+top: 8.33%;
+bottom: 75%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 41.67%;
+right: 58.33%;
+top: 45.83%;
+bottom: 29.17%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 58.33%;
+right: 41.67%;
+top: 45.83%;
+bottom: 29.17%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* more */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 45.83%;
+top: 45.83%;
+bottom: 45.83%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 45.83%;
+top: 16.67%;
+bottom: 75%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 45.83%;
+top: 75%;
+bottom: 16.67%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Row 9 */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 901px;
+height: 40px;
+
+/* Granito (Container) */
+background: #242736;
+/* Nanquim (Fundo) */
+border-bottom: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 9;
+flex-grow: 0;
+
+
+/* Cell: Boolean */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 64px;
+height: 44px;
+
+/* Granito (Container) */
+background: #242736;
+/* Nanquim (Fundo) */
+border-right: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 40px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Checkbox */
+
+box-sizing: border-box;
+
+width: 16px;
+height: 16px;
+
+/* Neve */
+border: 1.5px solid #BDD6FE;
+border-radius: 4px;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Cell: Text */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 200px;
+height: 44px;
+
+/* Granito (Container) */
+background: #242736;
+/* Nanquim (Fundo) */
+border-right: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 176px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Sample text */
+
+width: 176px;
+height: 44px;
+
+/* L1. Legenda */
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* ou 133% */
+display: flex;
+align-items: center;
+
+color: #FAFAFA;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Cell: Number */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 183px;
+height: 44px;
+
+/* Granito (Container) */
+background: #242736;
+/* Nanquim (Fundo) */
+border-right: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 159px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* 0 */
+
+width: 159px;
+height: 44px;
+
+/* L1. Legenda */
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* ou 133% */
+display: flex;
+align-items: center;
+
+color: #FAFAFA;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Cell: User */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 220px;
+height: 44px;
+
+/* Granito (Container) */
+background: #242736;
+/* Nanquim (Fundo) */
+border-right: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 196px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Michael Scott */
+
+width: 196px;
+height: 44px;
+
+/* L1. Legenda */
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* ou 133% */
+display: flex;
+align-items: center;
+
+color: #FAFAFA;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Cell: Label */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 134px;
+height: 44px;
+
+/* Granito (Container) */
+background: #242736;
+/* Nanquim (Fundo) */
+border-right: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 110px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Labels Container */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 4px;
+
+width: 110px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Badge & Chip */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 6px 8px;
+
+width: 95px;
+height: 24px;
+
+/* Azul OBS */
+background: #4285F4;
+border-radius: 8px;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* star */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 12.5%;
+right: -37.5%;
+top: 15.62%;
+bottom: -34.38%;
+
+border: 1.5px solid #FFFFFF;
+
+
+/* Text */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 8px;
+
+width: 47px;
+height: 12px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Badge */
+
+width: 31px;
+height: 12px;
+
+/* Button Font/Tiny */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 10px;
+line-height: 12px;
+/* idêntico à altura da caixa ou 120% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* cancel */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 9.47%;
+right: -2.15%;
+top: 9.47%;
+bottom: -2.14%;
+
+border: 1.5px solid #FFFFFF;
+transform: rotate(-45deg);
+
+
+/* Cell: Action */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 100px;
+height: 44px;
+
+/* Granito (Container) */
+background: #242736;
+
+/* Auto layout por dentro */
+flex: none;
+order: 5;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 76px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* edit */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 32.69%;
+right: 8.33%;
+top: 8.33%;
+bottom: 33.26%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* trash */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 25%;
+bottom: 75%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 20.83%;
+right: 20.83%;
+top: 25%;
+bottom: 8.33%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 33.33%;
+right: 33.33%;
+top: 8.33%;
+bottom: 75%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 41.67%;
+right: 58.33%;
+top: 45.83%;
+bottom: 29.17%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 58.33%;
+right: 41.67%;
+top: 45.83%;
+bottom: 29.17%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* more */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 45.83%;
+top: 45.83%;
+bottom: 45.83%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 45.83%;
+top: 16.67%;
+bottom: 75%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 45.83%;
+top: 75%;
+bottom: 16.67%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Row 10 */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 901px;
+height: 40px;
+
+/* Nanquim (Fundo) */
+background: #1E1E29;
+/* Nanquim (Fundo) */
+border-bottom: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 10;
+flex-grow: 0;
+
+
+/* Cell: Boolean */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 64px;
+height: 44px;
+
+/* Nanquim (Fundo) */
+background: #1E1E29;
+/* Nanquim (Fundo) */
+border-right: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 40px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Checkbox */
+
+box-sizing: border-box;
+
+width: 16px;
+height: 16px;
+
+/* Neve */
+border: 1.5px solid #BDD6FE;
+border-radius: 4px;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Cell: Text */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 200px;
+height: 44px;
+
+/* Nanquim (Fundo) */
+background: #1E1E29;
+/* Nanquim (Fundo) */
+border-right: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 176px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Sample text */
+
+width: 176px;
+height: 44px;
+
+/* L1. Legenda */
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* ou 133% */
+display: flex;
+align-items: center;
+
+color: #FAFAFA;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Cell: Number */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 183px;
+height: 44px;
+
+/* Nanquim (Fundo) */
+background: #1E1E29;
+/* Nanquim (Fundo) */
+border-right: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 159px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* 0 */
+
+width: 159px;
+height: 44px;
+
+/* L1. Legenda */
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* ou 133% */
+display: flex;
+align-items: center;
+
+color: #FAFAFA;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Cell: User */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 220px;
+height: 44px;
+
+/* Nanquim (Fundo) */
+background: #1E1E29;
+/* Nanquim (Fundo) */
+border-right: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 196px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Michael Scott */
+
+width: 196px;
+height: 44px;
+
+/* L1. Legenda */
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* ou 133% */
+display: flex;
+align-items: center;
+
+color: #FAFAFA;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Cell: Label */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 134px;
+height: 44px;
+
+/* Nanquim (Fundo) */
+background: #1E1E29;
+/* Nanquim (Fundo) */
+border-right: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 110px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Labels Container */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 4px;
+
+width: 110px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Badge & Chip */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 6px 8px;
+
+width: 95px;
+height: 24px;
+
+/* Azul OBS */
+background: #4285F4;
+border-radius: 8px;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* star */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 12.5%;
+right: -37.5%;
+top: 15.62%;
+bottom: -34.38%;
+
+border: 1.5px solid #FFFFFF;
+
+
+/* Text */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 8px;
+
+width: 47px;
+height: 12px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Badge */
+
+width: 31px;
+height: 12px;
+
+/* Button Font/Tiny */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 10px;
+line-height: 12px;
+/* idêntico à altura da caixa ou 120% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* cancel */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 9.47%;
+right: -2.15%;
+top: 9.47%;
+bottom: -2.14%;
+
+border: 1.5px solid #FFFFFF;
+transform: rotate(-45deg);
+
+
+/* Cell: Action */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 100px;
+height: 44px;
+
+/* Nanquim (Fundo) */
+background: #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 5;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 76px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* edit */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 32.69%;
+right: 8.33%;
+top: 8.33%;
+bottom: 33.26%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* trash */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 25%;
+bottom: 75%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 20.83%;
+right: 20.83%;
+top: 25%;
+bottom: 8.33%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 33.33%;
+right: 33.33%;
+top: 8.33%;
+bottom: 75%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 41.67%;
+right: 58.33%;
+top: 45.83%;
+bottom: 29.17%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 58.33%;
+right: 41.67%;
+top: 45.83%;
+bottom: 29.17%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* more */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 45.83%;
+top: 45.83%;
+bottom: 45.83%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 45.83%;
+top: 16.67%;
+bottom: 75%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 45.83%;
+top: 75%;
+bottom: 16.67%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Row 11 */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 901px;
+height: 40px;
+
+/* Granito (Container) */
+background: #242736;
+/* Nanquim (Fundo) */
+border-bottom: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 11;
+flex-grow: 0;
+
+
+/* Cell: Boolean */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 64px;
+height: 44px;
+
+/* Granito (Container) */
+background: #242736;
+/* Nanquim (Fundo) */
+border-right: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 40px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Checkbox */
+
+box-sizing: border-box;
+
+width: 16px;
+height: 16px;
+
+/* Neve */
+border: 1.5px solid #BDD6FE;
+border-radius: 4px;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Cell: Text */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 200px;
+height: 44px;
+
+/* Granito (Container) */
+background: #242736;
+/* Nanquim (Fundo) */
+border-right: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 176px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Sample text */
+
+width: 176px;
+height: 44px;
+
+/* L1. Legenda */
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* ou 133% */
+display: flex;
+align-items: center;
+
+color: #FAFAFA;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Cell: Number */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 183px;
+height: 44px;
+
+/* Granito (Container) */
+background: #242736;
+/* Nanquim (Fundo) */
+border-right: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 159px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* 0 */
+
+width: 159px;
+height: 44px;
+
+/* L1. Legenda */
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* ou 133% */
+display: flex;
+align-items: center;
+
+color: #FAFAFA;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Cell: User */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 220px;
+height: 44px;
+
+/* Granito (Container) */
+background: #242736;
+/* Nanquim (Fundo) */
+border-right: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 196px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Michael Scott */
+
+width: 196px;
+height: 44px;
+
+/* L1. Legenda */
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* ou 133% */
+display: flex;
+align-items: center;
+
+color: #FAFAFA;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Cell: Label */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 134px;
+height: 44px;
+
+/* Granito (Container) */
+background: #242736;
+/* Nanquim (Fundo) */
+border-right: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 110px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Labels Container */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 4px;
+
+width: 110px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Badge & Chip */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 6px 8px;
+
+width: 95px;
+height: 24px;
+
+/* Azul OBS */
+background: #4285F4;
+border-radius: 8px;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* star */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 12.5%;
+right: -37.5%;
+top: 15.62%;
+bottom: -34.38%;
+
+border: 1.5px solid #FFFFFF;
+
+
+/* Text */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 8px;
+
+width: 47px;
+height: 12px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Badge */
+
+width: 31px;
+height: 12px;
+
+/* Button Font/Tiny */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 10px;
+line-height: 12px;
+/* idêntico à altura da caixa ou 120% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* cancel */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 9.47%;
+right: -2.15%;
+top: 9.47%;
+bottom: -2.14%;
+
+border: 1.5px solid #FFFFFF;
+transform: rotate(-45deg);
+
+
+/* Cell: Action */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 100px;
+height: 44px;
+
+/* Granito (Container) */
+background: #242736;
+
+/* Auto layout por dentro */
+flex: none;
+order: 5;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 76px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* edit */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 32.69%;
+right: 8.33%;
+top: 8.33%;
+bottom: 33.26%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* trash */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 25%;
+bottom: 75%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 20.83%;
+right: 20.83%;
+top: 25%;
+bottom: 8.33%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 33.33%;
+right: 33.33%;
+top: 8.33%;
+bottom: 75%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 41.67%;
+right: 58.33%;
+top: 45.83%;
+bottom: 29.17%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 58.33%;
+right: 41.67%;
+top: 45.83%;
+bottom: 29.17%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* more */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 45.83%;
+top: 45.83%;
+bottom: 45.83%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 45.83%;
+top: 16.67%;
+bottom: 75%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 45.83%;
+top: 75%;
+bottom: 16.67%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Row 12 */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 901px;
+height: 40px;
+
+/* Nanquim (Fundo) */
+background: #1E1E29;
+/* Nanquim (Fundo) */
+border-bottom: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 12;
+flex-grow: 0;
+
+
+/* Cell: Boolean */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 64px;
+height: 44px;
+
+/* Nanquim (Fundo) */
+background: #1E1E29;
+/* Nanquim (Fundo) */
+border-right: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 40px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Checkbox */
+
+box-sizing: border-box;
+
+width: 16px;
+height: 16px;
+
+/* Neve */
+border: 1.5px solid #BDD6FE;
+border-radius: 4px;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Cell: Text */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 200px;
+height: 44px;
+
+/* Nanquim (Fundo) */
+background: #1E1E29;
+/* Nanquim (Fundo) */
+border-right: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 176px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Sample text */
+
+width: 176px;
+height: 44px;
+
+/* L1. Legenda */
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* ou 133% */
+display: flex;
+align-items: center;
+
+color: #FAFAFA;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Cell: Number */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 183px;
+height: 44px;
+
+/* Nanquim (Fundo) */
+background: #1E1E29;
+/* Nanquim (Fundo) */
+border-right: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 159px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* 0 */
+
+width: 159px;
+height: 44px;
+
+/* L1. Legenda */
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* ou 133% */
+display: flex;
+align-items: center;
+
+color: #FAFAFA;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Cell: User */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 220px;
+height: 44px;
+
+/* Nanquim (Fundo) */
+background: #1E1E29;
+/* Nanquim (Fundo) */
+border-right: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 196px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Michael Scott */
+
+width: 196px;
+height: 44px;
+
+/* L1. Legenda */
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* ou 133% */
+display: flex;
+align-items: center;
+
+color: #FAFAFA;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Cell: Label */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 134px;
+height: 44px;
+
+/* Nanquim (Fundo) */
+background: #1E1E29;
+/* Nanquim (Fundo) */
+border-right: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 110px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Labels Container */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 4px;
+
+width: 110px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Badge & Chip */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 6px 8px;
+
+width: 95px;
+height: 24px;
+
+/* Azul OBS */
+background: #4285F4;
+border-radius: 8px;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* star */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 12.5%;
+right: -37.5%;
+top: 15.62%;
+bottom: -34.38%;
+
+border: 1.5px solid #FFFFFF;
+
+
+/* Text */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 8px;
+
+width: 47px;
+height: 12px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Badge */
+
+width: 31px;
+height: 12px;
+
+/* Button Font/Tiny */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 10px;
+line-height: 12px;
+/* idêntico à altura da caixa ou 120% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* cancel */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 9.47%;
+right: -2.15%;
+top: 9.47%;
+bottom: -2.14%;
+
+border: 1.5px solid #FFFFFF;
+transform: rotate(-45deg);
+
+
+/* Cell: Action */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 100px;
+height: 44px;
+
+/* Nanquim (Fundo) */
+background: #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 5;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 76px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* edit */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 32.69%;
+right: 8.33%;
+top: 8.33%;
+bottom: 33.26%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* trash */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 25%;
+bottom: 75%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 20.83%;
+right: 20.83%;
+top: 25%;
+bottom: 8.33%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 33.33%;
+right: 33.33%;
+top: 8.33%;
+bottom: 75%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 41.67%;
+right: 58.33%;
+top: 45.83%;
+bottom: 29.17%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 58.33%;
+right: 41.67%;
+top: 45.83%;
+bottom: 29.17%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* more */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 45.83%;
+top: 45.83%;
+bottom: 45.83%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 45.83%;
+top: 16.67%;
+bottom: 75%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 45.83%;
+top: 75%;
+bottom: 16.67%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Row 13 */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 901px;
+height: 40px;
+
+/* Granito (Container) */
+background: #242736;
+/* Nanquim (Fundo) */
+border-bottom: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 13;
+flex-grow: 0;
+
+
+/* Cell: Boolean */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 64px;
+height: 44px;
+
+/* Granito (Container) */
+background: #242736;
+/* Nanquim (Fundo) */
+border-right: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 40px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Checkbox */
+
+box-sizing: border-box;
+
+width: 16px;
+height: 16px;
+
+/* Neve */
+border: 1.5px solid #BDD6FE;
+border-radius: 4px;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Cell: Text */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 200px;
+height: 44px;
+
+/* Granito (Container) */
+background: #242736;
+/* Nanquim (Fundo) */
+border-right: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 176px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Sample text */
+
+width: 176px;
+height: 44px;
+
+/* L1. Legenda */
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* ou 133% */
+display: flex;
+align-items: center;
+
+color: #FAFAFA;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Cell: Number */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 183px;
+height: 44px;
+
+/* Granito (Container) */
+background: #242736;
+/* Nanquim (Fundo) */
+border-right: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 159px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* 0 */
+
+width: 159px;
+height: 44px;
+
+/* L1. Legenda */
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* ou 133% */
+display: flex;
+align-items: center;
+
+color: #FAFAFA;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Cell: User */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 220px;
+height: 44px;
+
+/* Granito (Container) */
+background: #242736;
+/* Nanquim (Fundo) */
+border-right: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 196px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Michael Scott */
+
+width: 196px;
+height: 44px;
+
+/* L1. Legenda */
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* ou 133% */
+display: flex;
+align-items: center;
+
+color: #FAFAFA;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Cell: Label */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 134px;
+height: 44px;
+
+/* Granito (Container) */
+background: #242736;
+/* Nanquim (Fundo) */
+border-right: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 110px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Labels Container */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 4px;
+
+width: 110px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Badge & Chip */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 6px 8px;
+
+width: 95px;
+height: 24px;
+
+/* Azul OBS */
+background: #4285F4;
+border-radius: 8px;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* star */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 12.5%;
+right: -37.5%;
+top: 15.62%;
+bottom: -34.38%;
+
+border: 1.5px solid #FFFFFF;
+
+
+/* Text */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 8px;
+
+width: 47px;
+height: 12px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Badge */
+
+width: 31px;
+height: 12px;
+
+/* Button Font/Tiny */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 10px;
+line-height: 12px;
+/* idêntico à altura da caixa ou 120% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* cancel */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 9.47%;
+right: -2.15%;
+top: 9.47%;
+bottom: -2.14%;
+
+border: 1.5px solid #FFFFFF;
+transform: rotate(-45deg);
+
+
+/* Cell: Action */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 100px;
+height: 44px;
+
+/* Granito (Container) */
+background: #242736;
+
+/* Auto layout por dentro */
+flex: none;
+order: 5;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 76px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* edit */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 32.69%;
+right: 8.33%;
+top: 8.33%;
+bottom: 33.26%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* trash */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 25%;
+bottom: 75%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 20.83%;
+right: 20.83%;
+top: 25%;
+bottom: 8.33%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 33.33%;
+right: 33.33%;
+top: 8.33%;
+bottom: 75%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 41.67%;
+right: 58.33%;
+top: 45.83%;
+bottom: 29.17%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 58.33%;
+right: 41.67%;
+top: 45.83%;
+bottom: 29.17%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* more */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 45.83%;
+top: 45.83%;
+bottom: 45.83%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 45.83%;
+top: 16.67%;
+bottom: 75%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 45.83%;
+top: 75%;
+bottom: 16.67%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Row 14 */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 901px;
+height: 40px;
+
+/* Nanquim (Fundo) */
+background: #1E1E29;
+/* Nanquim (Fundo) */
+border-bottom: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 14;
+flex-grow: 0;
+
+
+/* Cell: Boolean */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 64px;
+height: 44px;
+
+/* Nanquim (Fundo) */
+background: #1E1E29;
+/* Nanquim (Fundo) */
+border-right: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 40px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Checkbox */
+
+box-sizing: border-box;
+
+width: 16px;
+height: 16px;
+
+/* Neve */
+border: 1.5px solid #BDD6FE;
+border-radius: 4px;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Cell: Text */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 200px;
+height: 44px;
+
+/* Nanquim (Fundo) */
+background: #1E1E29;
+/* Nanquim (Fundo) */
+border-right: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 176px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Sample text */
+
+width: 176px;
+height: 44px;
+
+/* L1. Legenda */
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* ou 133% */
+display: flex;
+align-items: center;
+
+color: #FAFAFA;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Cell: Number */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 183px;
+height: 44px;
+
+/* Nanquim (Fundo) */
+background: #1E1E29;
+/* Nanquim (Fundo) */
+border-right: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 159px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* 0 */
+
+width: 159px;
+height: 44px;
+
+/* L1. Legenda */
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* ou 133% */
+display: flex;
+align-items: center;
+
+color: #FAFAFA;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Cell: User */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 220px;
+height: 44px;
+
+/* Nanquim (Fundo) */
+background: #1E1E29;
+/* Nanquim (Fundo) */
+border-right: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 196px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Michael Scott */
+
+width: 196px;
+height: 44px;
+
+/* L1. Legenda */
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* ou 133% */
+display: flex;
+align-items: center;
+
+color: #FAFAFA;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Cell: Label */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 134px;
+height: 44px;
+
+/* Nanquim (Fundo) */
+background: #1E1E29;
+/* Nanquim (Fundo) */
+border-right: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 110px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Labels Container */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 4px;
+
+width: 110px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Badge & Chip */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 6px 8px;
+
+width: 95px;
+height: 24px;
+
+/* Azul OBS */
+background: #4285F4;
+border-radius: 8px;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* star */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 12.5%;
+right: -37.5%;
+top: 15.62%;
+bottom: -34.38%;
+
+border: 1.5px solid #FFFFFF;
+
+
+/* Text */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 8px;
+
+width: 47px;
+height: 12px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Badge */
+
+width: 31px;
+height: 12px;
+
+/* Button Font/Tiny */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 10px;
+line-height: 12px;
+/* idêntico à altura da caixa ou 120% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* cancel */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 9.47%;
+right: -2.15%;
+top: 9.47%;
+bottom: -2.14%;
+
+border: 1.5px solid #FFFFFF;
+transform: rotate(-45deg);
+
+
+/* Cell: Action */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 100px;
+height: 44px;
+
+/* Nanquim (Fundo) */
+background: #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 5;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 76px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* edit */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 32.69%;
+right: 8.33%;
+top: 8.33%;
+bottom: 33.26%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* trash */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 25%;
+bottom: 75%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 20.83%;
+right: 20.83%;
+top: 25%;
+bottom: 8.33%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 33.33%;
+right: 33.33%;
+top: 8.33%;
+bottom: 75%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 41.67%;
+right: 58.33%;
+top: 45.83%;
+bottom: 29.17%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 58.33%;
+right: 41.67%;
+top: 45.83%;
+bottom: 29.17%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* more */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 45.83%;
+top: 45.83%;
+bottom: 45.83%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 45.83%;
+top: 16.67%;
+bottom: 75%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 45.83%;
+top: 75%;
+bottom: 16.67%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Row 15 */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 901px;
+height: 40px;
+
+/* Granito (Container) */
+background: #242736;
+/* Nanquim (Fundo) */
+border-bottom: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 15;
+flex-grow: 0;
+
+
+/* Cell: Boolean */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 64px;
+height: 44px;
+
+/* Granito (Container) */
+background: #242736;
+/* Nanquim (Fundo) */
+border-right: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 40px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Checkbox */
+
+box-sizing: border-box;
+
+width: 16px;
+height: 16px;
+
+/* Neve */
+border: 1.5px solid #BDD6FE;
+border-radius: 4px;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Cell: Text */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 200px;
+height: 44px;
+
+/* Granito (Container) */
+background: #242736;
+/* Nanquim (Fundo) */
+border-right: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 176px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Sample text */
+
+width: 176px;
+height: 44px;
+
+/* L1. Legenda */
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* ou 133% */
+display: flex;
+align-items: center;
+
+color: #FAFAFA;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Cell: Number */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 183px;
+height: 44px;
+
+/* Granito (Container) */
+background: #242736;
+/* Nanquim (Fundo) */
+border-right: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 159px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* 0 */
+
+width: 159px;
+height: 44px;
+
+/* L1. Legenda */
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* ou 133% */
+display: flex;
+align-items: center;
+
+color: #FAFAFA;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Cell: User */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 220px;
+height: 44px;
+
+/* Granito (Container) */
+background: #242736;
+/* Nanquim (Fundo) */
+border-right: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 196px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Michael Scott */
+
+width: 196px;
+height: 44px;
+
+/* L1. Legenda */
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* ou 133% */
+display: flex;
+align-items: center;
+
+color: #FAFAFA;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Cell: Label */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 134px;
+height: 44px;
+
+/* Granito (Container) */
+background: #242736;
+/* Nanquim (Fundo) */
+border-right: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 110px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Labels Container */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 4px;
+
+width: 110px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Badge & Chip */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 6px 8px;
+
+width: 95px;
+height: 24px;
+
+/* Azul OBS */
+background: #4285F4;
+border-radius: 8px;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* star */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 12.5%;
+right: -37.5%;
+top: 15.62%;
+bottom: -34.38%;
+
+border: 1.5px solid #FFFFFF;
+
+
+/* Text */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 8px;
+
+width: 47px;
+height: 12px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Badge */
+
+width: 31px;
+height: 12px;
+
+/* Button Font/Tiny */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 10px;
+line-height: 12px;
+/* idêntico à altura da caixa ou 120% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* cancel */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 9.47%;
+right: -2.15%;
+top: 9.47%;
+bottom: -2.14%;
+
+border: 1.5px solid #FFFFFF;
+transform: rotate(-45deg);
+
+
+/* Cell: Action */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 100px;
+height: 44px;
+
+/* Granito (Container) */
+background: #242736;
+
+/* Auto layout por dentro */
+flex: none;
+order: 5;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 76px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* edit */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 32.69%;
+right: 8.33%;
+top: 8.33%;
+bottom: 33.26%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* trash */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 25%;
+bottom: 75%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 20.83%;
+right: 20.83%;
+top: 25%;
+bottom: 8.33%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 33.33%;
+right: 33.33%;
+top: 8.33%;
+bottom: 75%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 41.67%;
+right: 58.33%;
+top: 45.83%;
+bottom: 29.17%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 58.33%;
+right: 41.67%;
+top: 45.83%;
+bottom: 29.17%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* more */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 45.83%;
+top: 45.83%;
+bottom: 45.83%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 45.83%;
+top: 16.67%;
+bottom: 75%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 45.83%;
+top: 75%;
+bottom: 16.67%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Row 16 */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 901px;
+height: 40px;
+
+/* Nanquim (Fundo) */
+background: #1E1E29;
+/* Nanquim (Fundo) */
+border-bottom: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 16;
+flex-grow: 0;
+
+
+/* Cell: Boolean */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 64px;
+height: 44px;
+
+/* Nanquim (Fundo) */
+background: #1E1E29;
+/* Nanquim (Fundo) */
+border-right: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 40px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Checkbox */
+
+box-sizing: border-box;
+
+width: 16px;
+height: 16px;
+
+/* Neve */
+border: 1.5px solid #BDD6FE;
+border-radius: 4px;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Cell: Text */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 200px;
+height: 44px;
+
+/* Nanquim (Fundo) */
+background: #1E1E29;
+/* Nanquim (Fundo) */
+border-right: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 176px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Sample text */
+
+width: 176px;
+height: 44px;
+
+/* L1. Legenda */
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* ou 133% */
+display: flex;
+align-items: center;
+
+color: #FAFAFA;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Cell: Number */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 183px;
+height: 44px;
+
+/* Nanquim (Fundo) */
+background: #1E1E29;
+/* Nanquim (Fundo) */
+border-right: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 159px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* 0 */
+
+width: 159px;
+height: 44px;
+
+/* L1. Legenda */
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* ou 133% */
+display: flex;
+align-items: center;
+
+color: #FAFAFA;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Cell: User */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 220px;
+height: 44px;
+
+/* Nanquim (Fundo) */
+background: #1E1E29;
+/* Nanquim (Fundo) */
+border-right: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 196px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Michael Scott */
+
+width: 196px;
+height: 44px;
+
+/* L1. Legenda */
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* ou 133% */
+display: flex;
+align-items: center;
+
+color: #FAFAFA;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Cell: Label */
+
+box-sizing: border-box;
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 134px;
+height: 44px;
+
+/* Nanquim (Fundo) */
+background: #1E1E29;
+/* Nanquim (Fundo) */
+border-right: 1px solid #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 110px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Labels Container */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 4px;
+
+width: 110px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Badge & Chip */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 6px 8px;
+
+width: 95px;
+height: 24px;
+
+/* Azul OBS */
+background: #4285F4;
+border-radius: 8px;
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* star */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 12.5%;
+right: -37.5%;
+top: 15.62%;
+bottom: -34.38%;
+
+border: 1.5px solid #FFFFFF;
+
+
+/* Text */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 8px;
+
+width: 47px;
+height: 12px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Badge */
+
+width: 31px;
+height: 12px;
+
+/* Button Font/Tiny */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 10px;
+line-height: 12px;
+/* idêntico à altura da caixa ou 120% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* cancel */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 9.47%;
+right: -2.15%;
+top: 9.47%;
+bottom: -2.14%;
+
+border: 1.5px solid #FFFFFF;
+transform: rotate(-45deg);
+
+
+/* Cell: Action */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 12px;
+
+width: 100px;
+height: 44px;
+
+/* Nanquim (Fundo) */
+background: #1E1E29;
+
+/* Auto layout por dentro */
+flex: none;
+order: 5;
+flex-grow: 0;
+
+
+/* Cell Content */
+
+/* Layout automático */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 76px;
+height: 44px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* edit */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 32.69%;
+right: 8.33%;
+top: 8.33%;
+bottom: 33.26%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* trash */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 25%;
+bottom: 75%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 20.83%;
+right: 20.83%;
+top: 25%;
+bottom: 8.33%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 33.33%;
+right: 33.33%;
+top: 8.33%;
+bottom: 75%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 41.67%;
+right: 58.33%;
+top: 45.83%;
+bottom: 29.17%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 58.33%;
+right: 41.67%;
+top: 45.83%;
+bottom: 29.17%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* more */
+
+width: 16px;
+height: 16px;
+
+
+/* Auto layout por dentro */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 45.83%;
+top: 45.83%;
+bottom: 45.83%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 45.83%;
+top: 16.67%;
+bottom: 75%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 45.83%;
+top: 75%;
+bottom: 16.67%;
+
+border: 1.33333px solid rgba(250, 250, 250, 0.5);
