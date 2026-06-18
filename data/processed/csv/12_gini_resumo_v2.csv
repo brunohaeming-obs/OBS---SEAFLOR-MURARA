@@ -1,0 +1,13 @@
+﻿Setor,Ano,Gini,Nr Paises,Exportacoes USD,HHI,1 Pais,Share 1 Pais (%),Share Top 3 (%),Share Top 5 (%),Var Gini YoY,Var HHI YoY,Var Exp YoY (%)
+Base Florestal (CNAE 2),2023,0.9419,48,42129153.0,4305.0,China,56.0,93.7,96.8,,,
+Base Florestal (CNAE 2),2024,0.9313,42,50718988.0,4082.0,China,50.3,93.0,97.0,-0.0106,-223.0,20.4
+Base Florestal (CNAE 2),2025,0.9363,47,49021632.0,4068.0,Portugal,46.9,92.7,96.1,0.005,-14.0,-3.3
+Madeira (CNAE 16),2023,0.8937,127,1109375093.0,2758.0,Estados Unidos,50.6,65.8,72.3,,,
+Madeira (CNAE 16),2024,0.8955,131,1298661200.0,2695.0,Estados Unidos,50.1,65.4,71.5,0.0018,-63.0,17.1
+Madeira (CNAE 16),2025,0.8591,126,1172015840.0,1929.0,Estados Unidos,42.1,54.2,61.1,-0.0364,-766.0,-9.8
+Moveis (CNAE 31),2023,0.908,102,253109987.0,2513.0,Estados Unidos,47.6,64.6,75.0,,,
+Moveis (CNAE 31),2024,0.9056,106,251532828.0,2362.0,Estados Unidos,45.7,64.5,75.6,-0.0024,-151.0,-0.6
+Moveis (CNAE 31),2025,0.8953,105,253193453.0,1877.0,Estados Unidos,39.8,57.9,69.8,-0.0103,-485.0,0.7
+Papel e Celulose (CNAE 17),2023,0.8728,100,349294927.0,1040.0,Argentina,24.1,44.4,59.3,,,
+Papel e Celulose (CNAE 17),2024,0.8575,105,330873864.0,1059.0,Argentina,26.0,44.9,59.4,-0.0153,19.0,-5.3
+Papel e Celulose (CNAE 17),2025,0.8687,105,371136784.0,1118.0,Argentina,27.4,45.4,58.0,0.0112,59.0,12.2
