@@ -1,0 +1,681 @@
+%% ============================================================
+%%  Nota Metodológica — Impacto Tarifário no Complexo Florestal SC
+%%  Observatório FIESC | Junho 2026
+%%  Compile com: pdflatex nota_metodologica_impacto_tarifas.tex
+%% ============================================================
+\documentclass[12pt, a4paper]{article}
+
+%% Pacotes
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[brazil]{babel}
+\usepackage{geometry}
+\usepackage{amsmath, amssymb}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{multirow}
+\usepackage{xcolor}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{enumitem}
+\usepackage{lmodern}
+\usepackage{caption}
+\usepackage{float}
+\usepackage{siunitx}
+\usepackage{makecell}
+
+\geometry{left=3cm, right=2.5cm, top=3cm, bottom=2.5cm}
+
+%% Cores institucionais
+\definecolor{azulFIESC}{HTML}{1F4E79}
+\definecolor{azulMed}{HTML}{2E75B6}
+\definecolor{azulCl}{HTML}{DEEAF1}
+\definecolor{verde}{HTML}{375623}
+\definecolor{vermelho}{HTML}{C00000}
+\definecolor{cinzaTexto}{HTML}{595959}
+
+%% Hyperlinks
+\hypersetup{
+  colorlinks = true,
+  linkcolor  = azulFIESC,
+  urlcolor   = azulMed,
+  citecolor  = azulFIESC,
+  pdftitle   = {Nota Metodológica — Impacto Tarifário no Complexo Florestal SC},
+  pdfauthor  = {Observatório FIESC},
+}
+
+%% Cabeçalho de seções colorido
+\usepackage{titlesec}
+\titleformat{\section}{\large\bfseries\color{azulFIESC}}{\thesection}{1em}{}[\color{azulMed}\hrule]
+\titleformat{\subsection}{\normalsize\bfseries\color{azulMed}}{\thesubsection}{1em}{}
+\titleformat{\subsubsection}{\normalsize\itshape\color{cinzaTexto}}{\thesubsubsection}{1em}{}
+
+%% Configuração de tabelas com siunitx
+\sisetup{
+  group-separator = {.},
+  group-minimum-digits = 4,
+  output-decimal-marker = {,},
+}
+
+%% ============================================================
+\begin{document}
+
+%% ---- CAPA ----
+\begin{titlepage}
+  \centering
+  \vspace*{2cm}
+  {\color{azulFIESC}\rule{\linewidth}{2pt}}\\[0.4cm]
+  {\LARGE\bfseries\color{azulFIESC}
+    Nota Metodológica\\[0.3cm]
+    Impacto das Tarifas Americanas sobre\\
+    o Complexo Florestal de Santa Catarina
+  }\\[0.3cm]
+  {\color{azulFIESC}\rule{\linewidth}{1pt}}\\[1.5cm]
+  {\large\color{cinzaTexto}
+    Observatório FIESC — Competitividade Industrial\\[0.3cm]
+    Junho de 2026
+  }\\[3cm]
+  \begin{minipage}{0.9\textwidth}
+    \centering\itshape\color{cinzaTexto}
+    Documento técnico de suporte ao relatório SEAFLOR~2026.\\
+    Descreve as definições, fórmulas e premissas utilizadas na estimativa\\
+    do impacto tarifário sobre as exportações florestais catarinenses\\
+    no período de janeiro a maio de 2026.
+  \end{minipage}\\[2cm]
+  {\footnotesize\color{cinzaTexto}
+    Fonte dos dados: ComexStat/MDIC $\cdot$
+    Classificação setorial: CNAE/NCM FIESC $\cdot$
+    Período de referência: Jan--Mai 2025 vs.\ Jan--Mai 2026
+  }
+\end{titlepage}
+
+\tableofcontents
+\newpage
+
+%% ============================================================
+\section{Contexto e Motivação}
+
+Em 2025--2026 o governo dos Estados Unidos reintroduziu uma série de tarifas
+sobre importações provenientes do Brasil, afetando em especial os produtos do
+Complexo Florestal catarinense (madeira, móveis, papel/celulose e produtos
+da base florestal). O presente documento descreve a metodologia empregada
+pelo Observatório FIESC para mensurar o impacto dessas tarifas sobre a
+receita de exportação de Santa Catarina.
+
+O \textbf{Complexo Florestal} é definido pelos setores com classificação
+CNAE correspondente a:
+
+\begin{itemize}[noitemsep]
+  \item \textbf{CNAE~2} — Produção Florestal / Base Florestal
+  \item \textbf{CNAE~16} — Fabricação de Produtos de Madeira
+  \item \textbf{CNAE~17} — Fabricação de Celulose, Papel e Produtos de Papel
+  \item \textbf{CNAE~31} — Fabricação de Móveis
+\end{itemize}
+
+No plano NCM, essa classificação corresponde aos códigos do SH4 mapeados
+no dicionário NCM--FIESC para os capítulos 44, 47, 48 e 94, entre outros.
+
+%% ============================================================
+\section{Base de Dados}
+
+\begin{description}[style=nextline]
+  \item[Exportações históricas (2024--2025)]
+    Arquivo \textit{gold} do ComexStat/MDIC no nível NCM~8 dígitos,
+    filtrado para Santa Catarina
+    (\texttt{sg\_uf = 'SC'}, \texttt{tp\_carga = 'EXP'}).
+  \item[Exportações e importações 2026 (jan--mai)]
+    Arquivos bronze mensais \texttt{EXP\_2026.csv} e \texttt{IMP\_2026.csv}
+    do ComexStat, enriquecidos pelo dicionário NCM--FIESC
+    (tabela \texttt{NCM\_SH4}) e pela tabela de países (\texttt{PAIS.csv}).
+  \item[Referência temporal]
+    Todos os comparativos utilizam o período \textbf{janeiro a maio}
+    (\(m \in \{1,\dots,5\}\)) para garantir a simetria interanual.
+\end{description}
+
+Notação adotada ao longo do documento:
+
+\begin{align*}
+  X_{d,s}^{t} &= \text{valor FOB exportado (US\$) pelo setor } s
+                  \text{ para o destino } d \text{ em Jan--Mai do ano } t\\
+  Q_{d,s}^{t} &= \text{volume (kg líquido) exportado pelo setor } s
+                  \text{ para o destino } d \text{ em Jan--Mai do ano } t\\
+  \text{EUA}  &= \text{destino ``Estados Unidos''}\\
+  \text{OUT}  &= \text{conjunto de todos os demais destinos (exceto EUA)}
+\end{align*}
+
+%% ============================================================
+\section{Metodologia de Decomposição do Impacto Tarifário}
+
+O impacto total das tarifas é decomposto em quatro componentes calculados
+para cada setor \(s\) e para o Complexo Florestal como um todo.
+
+%%--------------------------------------------------------------
+\subsection{Destruição Bruta}
+
+A \textbf{Destruição Bruta} (\(DB_s\)) mede a queda absoluta nas exportações
+do setor \(s\) para os Estados Unidos entre os períodos de referência:
+
+\begin{equation}
+  \boxed{
+    DB_s = X_{\text{EUA},s}^{2025} - X_{\text{EUA},s}^{2026}
+  }
+  \label{eq:db}
+\end{equation}
+
+Um valor $DB_s > 0$ indica redução nas vendas ao mercado americano.
+Um valor negativo (como observado na Base Florestal, CNAE~2) indica que
+as exportações para os EUA \emph{cresceram} no período, provavelmente
+devido a realocações ou crescimento de nicho não relacionado às tarifas.
+
+%%--------------------------------------------------------------
+\subsection{Desvio de Comércio}
+
+O \textbf{Desvio de Comércio} (\(DC_s\)) captura o ganho líquido nas
+exportações do setor \(s\) para todos os mercados fora dos EUA,
+ou seja, a parcela da perda americana compensada pela diversificação
+geográfica. Utiliza-se $\max(\cdot, 0)$ porque uma queda nos demais
+mercados não pode compensar: seria perda adicional, não desvio:
+
+\begin{equation}
+  \boxed{
+    DC_s = \max\!\left(X_{\text{OUT},s}^{2026} - X_{\text{OUT},s}^{2025},\; 0\right)
+  }
+  \label{eq:dc}
+\end{equation}
+
+\noindent\textbf{Atenção:} o desvio é medido em \emph{valor} (US\$ FOB),
+não em volume. Como o valor unitário obtido em mercados alternativos é,
+em geral, inferior ao praticado nos EUA, o ganho em valor tende a
+subestimar o ganho em volume — essa diferença é capturada pelo
+Efeito-Preço (seção~\ref{sec:efeito_preco}).
+
+%%--------------------------------------------------------------
+\subsection{Destruição Líquida}
+
+A \textbf{Destruição Líquida} (\(DL_s\)) é o impacto líquido após descontar
+a compensação obtida nos mercados alternativos:
+
+\begin{equation}
+  \boxed{
+    DL_s = DB_s - DC_s
+  }
+  \label{eq:dl}
+\end{equation}
+
+Quando \(DL_s < 0\) (caso do Papel e Celulose e da Base Florestal),
+o setor \emph{mais do que compensou} a perda com os EUA por meio da
+expansão para outros destinos — ainda que possa haver perda de receita
+pelo diferencial de preço (ver seção~\ref{sec:efeito_preco}).
+
+%%--------------------------------------------------------------
+\subsection{Prêmio de Mercado EUA}
+\label{sec:premio}
+
+O mercado americano paga, historicamente, um preço unitário (US\$/kg)
+superior ao praticado nos demais destinos. O \textbf{Prêmio de Mercado
+EUA} (\(\pi_s\)) é calculado com base nos valores unitários médios de 2025:
+
+\begin{equation}
+  VU_{d,s}^{t} = \frac{X_{d,s}^{t}}{Q_{d,s}^{t}}
+  \label{eq:vu}
+\end{equation}
+
+\begin{equation}
+  \boxed{
+    \pi_s = VU_{\text{EUA},s}^{2025} - VU_{\text{OUT},s}^{2025}
+  }
+  \label{eq:premio}
+\end{equation}
+
+O prêmio relativo (\%) é dado por:
+
+\begin{equation}
+  \pi_s^{\%} = \frac{\pi_s}{VU_{\text{OUT},s}^{2025}} \times 100
+  \label{eq:premio_pct}
+\end{equation}
+
+A Tabela~\ref{tab:vu} apresenta os valores unitários e prêmios por CNAE
+para o ano de 2025 (referência):
+
+\begin{table}[H]
+  \centering
+  \caption{Valor unitário médio e prêmio de mercado EUA — 2025 (ano completo)}
+  \label{tab:vu}
+  \renewcommand{\arraystretch}{1.3}
+  \begin{tabular}{lS[table-format=1.4]S[table-format=1.4]S[table-format=1.4]S[table-format=4.1]}
+    \toprule
+    \textbf{Setor / CNAE}
+      & \textbf{\makecell{VU EUA\\(US\$/kg)}}
+      & \textbf{\makecell{VU Outros\\(US\$/kg)}}
+      & \textbf{\makecell{Prêmio\\(US\$/kg)}}
+      & \textbf{\makecell{Prêmio\\(\%)}} \\
+    \midrule
+    Complexo Florestal         & 1.0816 & 0.4654 & 0.6162 & 132.4 \\
+    Madeira (CNAE 16)          & 0.9419 & 0.4343 & 0.5075 & 116.8 \\
+    Móveis (CNAE 31)           & 2.9810 & 2.1337 & 0.8473 &  39.7 \\
+    Papel e Celulose (CNAE 17) & 1.6396 & 0.7565 & 0.8831 & 116.7 \\
+    Base Florestal (CNAE 2)    & 4.9854 & 0.0880 & 4.8974 & 5565.9 \\
+    \bottomrule
+  \end{tabular}
+\end{table}
+
+%%--------------------------------------------------------------
+\subsection{Efeito-Preço}
+\label{sec:efeito_preco}
+
+Quando o setor realoca volume para outros mercados, ele o faz a um preço
+unitário inferior ao que obteria nos EUA. O \textbf{Efeito-Preço} (\(EP_s\))
+quantifica essa perda de receita por unidade desviada:
+
+\begin{equation}
+  \Delta Q_{\text{OUT},s} = Q_{\text{OUT},s}^{2026} - Q_{\text{OUT},s}^{2025}
+  \label{eq:delta_kg}
+\end{equation}
+
+\begin{equation}
+  \boxed{
+    EP_s = \max\!\left(\Delta Q_{\text{OUT},s},\; 0\right)
+            \times \max\!\left(\pi_s,\; 0\right)
+  }
+  \label{eq:ep}
+\end{equation}
+
+A dupla condição $\max(\cdot, 0)$ garante que:
+\begin{enumerate}[noitemsep]
+  \item somente o volume \emph{adicional} efetivamente desviado é considerado
+        (desvio de volume, não de valor);
+  \item somente prêmios positivos geram efeito — setores sem prêmio EUA
+        não sofrem perda de preço ao diversificar.
+\end{enumerate}
+
+%%--------------------------------------------------------------
+\subsection{Perda Total — Metodologia A}
+\label{sec:perda_total}
+
+A \textbf{Perda Total} pelo Método~A (\(PT_s^A\)) agrega a destruição
+líquida de valor e a perda adicional de receita por diferencial de preço:
+
+\begin{equation}
+  \boxed{
+    PT_s^A = DL_s + EP_s
+  }
+  \label{eq:pt}
+\end{equation}
+
+Esta é a estimativa base do impacto tarifário. A relação entre os
+componentes pode ser resumida como:
+
+\begin{align}
+  PT_s^A &= \underbrace{(DB_s - DC_s)}_{\text{destruição líquida}}
+            + \underbrace{\Delta Q_{\text{OUT},s}^{+} \cdot \pi_s}_{\text{efeito-preço}}
+  \label{eq:pt_expandida}
+\end{align}
+
+onde $\Delta Q_{\text{OUT},s}^{+} = \max(\Delta Q_{\text{OUT},s}, 0)$.
+
+%% ============================================================
+\section{Análise Contrafactual}
+\label{sec:contrafactual}
+
+A análise contrafactual complementa a decomposição ao estimar \emph{quanto
+o setor deveria ter exportado para os EUA} caso as tarifas não tivessem
+sido impostas, com base em diferentes janelas de referência histórica.
+
+%%--------------------------------------------------------------
+\subsection{Formulação}
+
+Para cada cenário \(k\), define-se um \textbf{share EUA de referência}
+(\(sh_{\text{EUA},s}^{k}\)), calculado a partir do histórico do setor:
+
+\begin{equation}
+  sh_{\text{EUA},s}^{k} = \frac{X_{\text{EUA},s}^{k,\text{ref}}}
+                                {X_{\text{TOT},s}^{k,\text{ref}}}
+  \label{eq:share_ref}
+\end{equation}
+
+O valor \textbf{contrafactual} das exportações para os EUA em 2026 é obtido
+aplicando esse share ao total efetivamente exportado:
+
+\begin{equation}
+  \hat{X}_{\text{EUA},s}^{k} = X_{\text{TOT},s}^{2026} \times sh_{\text{EUA},s}^{k}
+  \label{eq:ctf}
+\end{equation}
+
+A \textbf{Receita Forgone} (\(RF_s^k\)) — receita que ``deixou de entrar'' —
+é a diferença entre o contrafactual e o valor observado:
+
+\begin{equation}
+  \boxed{
+    RF_s^k = \hat{X}_{\text{EUA},s}^{k} - X_{\text{EUA},s}^{2026}
+  }
+  \label{eq:rf}
+\end{equation}
+
+%%--------------------------------------------------------------
+\subsection{Cenários}
+
+Três horizontes de referência são utilizados, cobrindo desde o ciclo
+recente (pós-2025) até o período pré-tarifas Trump:
+
+\vspace{0.5em}
+\begin{description}[style=nextline, leftmargin=2cm]
+  \item[Cenário A — Conservador]
+    $k = \text{Jan--Mai}\ 2025$: baseline mais recente disponível,
+    que já reflete alguma antecipação às tarifas. Gera o menor impacto estimado.
+
+  \item[Cenário B — Base]
+    $k = 2024\ \text{(ano completo)}$: ano anterior ao choque tarifário,
+    consolidado. É o cenário de referência principal.
+
+  \item[Cenário C — Estrutural]
+    $k = 2023\ \text{(ano completo)}$: posição pré-ciclo Trump.
+    Serve como limite superior e capta a dependência estrutural do setor.
+\end{description}
+
+%% ============================================================
+\section{Indicadores de Concentração de Mercado}
+\label{sec:conc}
+
+O grau de diversificação geográfica das exportações é mensurado por dois
+indicadores complementares, calculados sobre a distribuição de valor FOB
+por país de destino dentro de cada setor \(s\) e período \(t\).
+
+%%--------------------------------------------------------------
+\subsection{Índice Herfindahl-Hirschman (HHI)}
+
+O HHI mede a concentração somando o quadrado das participações percentuais
+de cada destino \(i\) no total exportado pelo setor:
+
+\begin{equation}
+  \boxed{
+    HHI_{s,t} = \sum_{i=1}^{N_{s,t}}
+      \left(\frac{X_{i,s}^{t}}{X_{\text{TOT},s}^{t}} \times 100\right)^{2}
+  }
+  \label{eq:hhi}
+\end{equation}
+
+onde $N_{s,t}$ é o número de países destino do setor $s$ no período $t$.
+
+\noindent Classificação adotada (critério DOJ/FTC):
+
+\begin{center}
+\renewcommand{\arraystretch}{1.2}
+\begin{tabular}{ll}
+\toprule
+\textbf{HHI} & \textbf{Grau de concentração} \\
+\midrule
+$< 1.000$    & Mercado diversificado \\
+$1.000$--$1.499$ & Baixa concentração \\
+$1.500$--$2.499$ & Concentração moderada \\
+$\geq 2.500$ & Alta concentração \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+%%--------------------------------------------------------------
+\subsection{Índice de Gini}
+
+O Gini de destinos mede a desigualdade na distribuição das exportações
+entre países. Sobre o vetor ordenado de forma crescente
+$\mathbf{x} = (x_1, x_2, \dots, x_N)$ com $x_1 \leq x_2 \leq \cdots \leq x_N$:
+
+\begin{equation}
+  \boxed{
+    G_{s,t} = \frac{2 \displaystyle\sum_{i=1}^{N} i\, x_i}
+                   {N \displaystyle\sum_{i=1}^{N} x_i}
+               - \frac{N+1}{N}
+  }
+  \label{eq:gini}
+\end{equation}
+
+$G = 0$ indica distribuição perfeitamente igualitária (todas as exportações
+divididas igualmente entre os destinos); $G = 1$ indica concentração
+máxima em um único destino.
+
+%%--------------------------------------------------------------
+\subsection{Contribuição individual ao HHI}
+
+Para identificar quais destinos mais pressionam a concentração,
+calcula-se a \textbf{contribuição individual de cada país} ao HHI:
+
+\begin{equation}
+  HHI_{\text{contrib},i,s}^{t}
+    = \left(\frac{X_{i,s}^{t}}{X_{\text{TOT},s}^{t}} \times 100\right)^{2}
+  \label{eq:hhi_contrib}
+\end{equation}
+
+de forma que $\displaystyle HHI_{s,t} = \sum_{i=1}^{N} HHI_{\text{contrib},i,s}^{t}$.
+
+%% ============================================================
+\section{Resultados por CNAE — Jan-Mai 2025 vs.\ 2026}
+\label{sec:resultados}
+
+%%--------------------------------------------------------------
+\subsection{Decomposição do Impacto Tarifário}
+
+A Tabela~\ref{tab:decomp} apresenta, para cada CNAE do Complexo Florestal,
+os cinco componentes da metodologia de decomposição.
+Valores em US\$ milhões (FOB). Período: janeiro a maio.
+
+\begin{table}[H]
+  \centering
+  \caption{Decomposição do impacto tarifário por CNAE — Jan-Mai 2025 vs.\ 2026 (US\$ milhões)}
+  \label{tab:decomp}
+  \renewcommand{\arraystretch}{1.35}
+  \small
+  \begin{tabular}{
+      l
+      S[table-format=3.1]
+      S[table-format=2.1]
+      S[table-format=3.1]
+      S[table-format=2.1]
+      S[table-format=3.1]
+    }
+    \toprule
+    \textbf{Setor}
+      & \textbf{\makecell{Destruição\\Bruta ($DB_s$)}}
+      & \textbf{\makecell{Desvio\\($DC_s$)}}
+      & \textbf{\makecell{Destruição\\Líquida ($DL_s$)}}
+      & \textbf{\makecell{Efeito-\\Preço ($EP_s$)}}
+      & \textbf{\makecell{Perda\\Total ($PT_s^A$)}} \\
+    \midrule
+    Madeira (CNAE 16)          & 118.1 & 32.5 &  85.6 & 30.1 & 115.8 \\
+    Móveis (CNAE 31)           &  24.9 &  0.0 &  24.9 &  0.0 &  24.9 \\
+    Papel e Celulose (CNAE 17) &   5.2 & 10.8 &  -5.6 & 17.7 &  12.2 \\
+    Base Florestal (CNAE 2)    &  -0.6 &  0.0 &  -0.6 &  0.0 &  -0.6 \\
+    \midrule
+    \textbf{Complexo Florestal}& \textbf{147.7} & \textbf{29.2}
+      & \textbf{118.6} & \textbf{0.0} & \textbf{118.6} \\
+    \bottomrule
+  \end{tabular}
+  \vspace{0.4em}
+  \begin{minipage}{\textwidth}
+    \footnotesize
+    \textit{Notas:} (1) O Efeito-Preço do Complexo Florestal consolidado é zero porque
+    o volume total exportado para outros mercados \emph{recuou} no período
+    ($\Delta Q_{\text{OUT}} \leq 0$), mesmo com o valor em USD tendo crescido
+    — evidência de aumento de preço médio sem expansão de volume.
+    (2) Papel e Celulose ($DL < 0$): o setor expandiu suas vendas a outros
+    destinos a ponto de superar a queda para os EUA em valor; ainda assim,
+    o Efeito-Preço (US\$~17,7~mi) indica perda de receita unitária.
+    (3) Base Florestal ($DB < 0$): as exportações para os EUA \emph{cresceram}
+    no período, provavelmente por contratos de longo prazo não atingidos pelas tarifas.
+  \end{minipage}
+\end{table}
+
+%%--------------------------------------------------------------
+\subsection{Exposição ao Mercado Americano}
+
+\begin{table}[H]
+  \centering
+  \caption{Participação dos EUA nas exportações por CNAE — Jan-Mai 2025 vs.\ 2026}
+  \label{tab:share}
+  \renewcommand{\arraystretch}{1.35}
+  \small
+  \begin{tabular}{lS[table-format=3.0]S[table-format=3.0]S[table-format=2.2]S[table-format=2.2]S[table-format=-2.2]}
+    \toprule
+    \textbf{Setor}
+      & \textbf{\makecell{EXP EUA 2025\\(US\$ mi)}}
+      & \textbf{\makecell{EXP EUA 2026\\(US\$ mi)}}
+      & \textbf{\makecell{Share EUA\\2025 (\%)}}
+      & \textbf{\makecell{Share EUA\\2026 (\%)}}
+      & \textbf{\makecell{Variação\\(p.p.)}} \\
+    \midrule
+    Madeira (CNAE 16)          & 262 & 144 & 48.58 & 31.72 & -16.86 \\
+    Móveis (CNAE 31)           &  48 &  24 & 43.35 & 29.96 & -13.39 \\
+    Papel e Celulose (CNAE 17) &  11 &   6 &  7.72 &  4.07 &  -3.65 \\
+    Base Florestal (CNAE 2)    &   0 &   1 &  0.47 &  3.94 &  +3.47 \\
+    \midrule
+    \textbf{Complexo Florestal}& \textbf{322} & \textbf{174}
+      & \textbf{39.18} & \textbf{24.79} & \textbf{-14.39} \\
+    \bottomrule
+  \end{tabular}
+\end{table}
+
+%%--------------------------------------------------------------
+\subsection{Análise Contrafactual — Receita Foregone}
+
+A Tabela~\ref{tab:ctf} compara os três cenários contrafactuais para o
+Complexo Florestal e cada CNAE individualmente.
+
+\begin{table}[H]
+  \centering
+  \caption{Receita Foregone por cenário contrafactual e CNAE — Jan-Mai 2026 (US\$ milhões)}
+  \label{tab:ctf}
+  \renewcommand{\arraystretch}{1.35}
+  \small
+  \begin{tabular}{
+      l
+      S[table-format=2.2]
+      S[table-format=3.1]
+      S[table-format=2.2]
+      S[table-format=3.1]
+      S[table-format=2.2]
+      S[table-format=3.1]
+    }
+    \toprule
+    \multirow{2}{*}{\textbf{Setor}}
+      & \multicolumn{2}{c}{\textbf{Cenário A} (\textit{conservador})}
+      & \multicolumn{2}{c}{\textbf{Cenário B} (\textit{base})}
+      & \multicolumn{2}{c}{\textbf{Cenário C} (\textit{estrutural})} \\
+    \cmidrule(lr){2-3}\cmidrule(lr){4-5}\cmidrule(lr){6-7}
+      & \textbf{\makecell{Baseline\\EUA (\%)}}
+      & \textbf{\makecell{RF\\(US\$ mi)}}
+      & \textbf{\makecell{Baseline\\EUA (\%)}}
+      & \textbf{\makecell{RF\\(US\$ mi)}}
+      & \textbf{\makecell{Baseline\\EUA (\%)}}
+      & \textbf{\makecell{RF\\(US\$ mi)}} \\
+    \midrule
+    Madeira (CNAE 16)          & 48.58 &  76.5 & 50.11 &  83.5 & 50.65 &  85.9 \\
+    Móveis (CNAE 31)           & 43.35 &  10.5 & 45.68 &  12.3 & 47.64 &  13.9 \\
+    Papel e Celulose (CNAE 17) &  7.72 &   5.6 &  7.61 &   5.5 & 10.35 &   9.7 \\
+    Base Florestal (CNAE 2)    &  0.47 &  -0.6 &  3.63 &  -0.1 &  3.81 &   0.0 \\
+    \midrule
+    \textbf{Complexo Florestal}& \textbf{39.18} & \textbf{101.3}
+      & \textbf{41.04} & \textbf{114.4}
+      & \textbf{41.06} & \textbf{114.5} \\
+    \bottomrule
+  \end{tabular}
+  \vspace{0.4em}
+  \begin{minipage}{\textwidth}
+    \footnotesize
+    \textit{Notas:} Cenário~A: baseline = share EUA observado em Jan--Mai~2025.
+    Cenário~B: baseline = share EUA do ano completo de 2024.
+    Cenário~C: baseline = share EUA do ano completo de 2023 (pré-ciclo Trump).
+    RF = Receita Foregone (\textit{receita que deixou de ser realizada}).
+    Valores negativos na Base Florestal (CNAE~2) indicam que as exportações
+    para os EUA superaram o contrafactual — o setor ganhou participação americana.
+  \end{minipage}
+\end{table}
+
+%% ============================================================
+\section{Síntese dos Resultados}
+
+\begin{description}[style=nextline]
+  \item[Complexo Florestal (consolidado)]
+    A queda de 45,8\% nas exportações para os EUA gerou uma
+    \textbf{destruição bruta de US\$~147,7~milhões}.
+    O desvio de comércio para outros mercados (US\$~29,2~mi) resultou em
+    \textbf{destruição líquida de US\$~118,6~milhões}.
+    Os cenários B e C convergem em torno de \textbf{US\$~114--115~milhões}
+    de receita foregone (14--16\% do total exportado), confirmando a
+    robustez do intervalo.
+
+  \item[Madeira (CNAE 16)]
+    Concentra \textbf{$\approx$~98\% da destruição bruta total} do complexo
+    (US\$~118,1~mi). A dependência dos EUA caiu de 48,6\% para 31,7\%
+    (-17~p.p.). O Efeito-Preço (US\$~30,1~mi) evidencia que a madeira
+    reorientada a outros destinos perdeu em média US\$~0,50/kg de receita unitária.
+    Perda total estimada: US\$~115,8~milhões.
+
+  \item[Móveis (CNAE 31)]
+    Perda de US\$~24,9~mi sem nenhum desvio de comércio —
+    os mercados alternativos não absorveram volume adicional.
+    O alto prêmio EUA (US\$~0,85/kg; 40\% superior) reforça a
+    vulnerabilidade do setor na ausência de diversificação.
+
+  \item[Papel e Celulose (CNAE 17)]
+    Único setor com \emph{destruição líquida negativa} (−US\$~5,6~mi):
+    as exportações para outros mercados cresceram mais que a queda nos EUA.
+    Contudo, o Efeito-Preço (US\$~17,7~mi) gerou uma perda total de
+    US\$~12,2~mi — evidência de \emph{dumping implícito} para acessar novos destinos.
+
+  \item[Base Florestal (CNAE 2)]
+    Impacto desprezível. As exportações para os EUA cresceram no período
+    (possivelmente por contratos de longo prazo), resultando em destruição
+    bruta negativa (−US\$~0,6~mi).
+\end{description}
+
+%% ============================================================
+\section*{Referências}
+\addcontentsline{toc}{section}{Referências}
+
+\begin{enumerate}[label={[\arabic*]}]
+  \item BRASIL. Ministério do Desenvolvimento, Indústria, Comércio e Serviços
+        (MDIC). \textit{ComexStat — Sistema de Análise das Informações de
+        Comércio Exterior}. Brasília, 2026. Disponível em: \url{https://comexstat.mdic.gov.br}.
+
+  \item FIESC. \textit{Dicionário NCM--CNAE — Mapeamento do Complexo Florestal
+        de Santa Catarina}. Versão atualizada em 07/04/2026.
+        Florianópolis: Observatório FIESC, 2026.
+
+  \item U.S.\ Department of Justice; Federal Trade Commission.
+        \textit{Horizontal Merger Guidelines}, 2010.
+        Critérios de classificação HHI adotados na seção~\ref{sec:conc}.
+
+  \item VINER, Jacob. \textit{The Customs Union Issue}. New York: Carnegie
+        Endowment for International Peace, 1950.
+        Referência conceitual para \textit{trade creation} e \textit{trade diversion}.
+\end{enumerate}
+
+%% ============================================================
+\appendix
+
+\section{Glossário de Variáveis}
+\label{app:glossario}
+
+\begin{center}
+\renewcommand{\arraystretch}{1.3}
+\begin{tabular}{lp{10cm}}
+\toprule
+\textbf{Símbolo} & \textbf{Descrição} \\
+\midrule
+$X_{d,s}^{t}$ & Valor FOB (US\$) das exportações do setor $s$ para o destino $d$ em Jan--Mai do ano $t$ \\
+$Q_{d,s}^{t}$ & Volume (kg líquido) exportado pelo setor $s$ para $d$ em Jan--Mai do ano $t$ \\
+$VU_{d,s}^{t}$ & Valor unitário médio: $X_{d,s}^{t} / Q_{d,s}^{t}$ (US\$/kg) \\
+$DB_s$        & Destruição Bruta: queda nas exportações para os EUA \\
+$DC_s$        & Desvio de Comércio: ganho nas exportações para outros mercados \\
+$DL_s$        & Destruição Líquida: $DB_s - DC_s$ \\
+$\pi_s$       & Prêmio de mercado EUA: $VU_{\text{EUA},s} - VU_{\text{OUT},s}$ (US\$/kg) \\
+$EP_s$        & Efeito-Preço: perda de receita por diferencial de preço no volume desviado \\
+$PT_s^A$      & Perda Total pelo Método A: $DL_s + EP_s$ \\
+$sh_{\text{EUA},s}^{k}$ & Share EUA de referência no cenário contrafactual $k$ \\
+$\hat{X}_{\text{EUA},s}^{k}$ & Exportações contrafactuais para os EUA no cenário $k$ \\
+$RF_s^k$      & Receita Foregone no cenário $k$: diferença entre contrafactual e observado \\
+$HHI_{s,t}$   & Índice Herfindahl-Hirschman de concentração de destinos \\
+$G_{s,t}$     & Índice de Gini de concentração de destinos \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+\end{document}
