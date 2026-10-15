@@ -55,6 +55,9 @@ estilo dos gráficos.
 
 ## Como usar
 
+A pasta `scripts/` fica em `~/.claude/skills/observatorio-fiesc-deck/` (instalação pessoal)
+ou em `<repo>/.claude/skills/observatorio-fiesc-deck/` (versão versionada no projeto).
+
 ```python
 import sys
 sys.path.insert(0, r"C:\Users\bruno.haeming\.claude\skills\observatorio-fiesc-deck\scripts")
